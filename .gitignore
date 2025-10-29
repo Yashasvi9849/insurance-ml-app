@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+*.env
+*.log
+
+# Node / React
+beagle-ui/node_modules/
+beagle-ui/build/
+beagle-ui/.env
+
+# Models / Data
+models/*.pkl
+data/*.csv
+
+# OS files
+.DS_Store

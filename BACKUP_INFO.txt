@@ -1,0 +1,14 @@
+Project Backup
+==================================================
+
+Backup Date: 2025-10-28 13:37:04
+Items Backed Up: 9
+Total Size: 0.31 MB
+
+To Restore:
+1. Copy contents to a new 'rag-dev' folder
+2. Create virtual environment: python3 -m venv venv
+3. Activate: source venv/bin/activate
+4. Install: pip install -r requirements.txt
+5. Place PDFs in data/raw_pdfs/
+6. Run: python run_full_pipeline.py

@@ -1,0 +1,43 @@
+filename,tracking_number,claim_date,approval_date,lease_start_date,lease_end_date,move_out_date,monthly_rent,amount_of_claim,max_benefit,approved_benefit_amount,lease_duration_days,days_to_moveout,days_claim_to_approval,late_fees_total,repair_costs_total,legal_fees_total,admin_fees_total,termination_type,lease_state,lease_city,tenant_contacted,collection_status,is_2nd_tenant,is_3rd_tenant,property_management_company,pm_explanation,hold_reason,extraction_confidence,missing_fields
+2013 Wishing Well move out calculation.pdf,,,,,,,,,,,,,,,650.0,,844.24,,SC,Summerville,Unknown,Pending,False,False,New Heights Property Management,,,1.0,"['monthly_rent', 'amount_of_claim', 'termination_type', 'claim_date']"
+"Walker, Iyanla Docusign_NHPM_Lease_v_2021_(11-17-2021_-_11-17-2021).pdf",,,,,,,,,,,,,,200.0,,100.0,1080.0,eviction,,Page,Yes,Pending,False,False,New Heights Property Management,,,1.0,"['monthly_rent', 'amount_of_claim', 'claim_date', 'lease_state']"
+"Thompson, Kentrelle 1050 Kenny Fort Lease.pdf",,,,,,,2270.0,,,,,,,112.01,368.40999999999997,92.26,,eviction,TX,Round Rock,Yes,Pending,False,False,GDAA Property Management,,,1.0,"['amount_of_claim', 'claim_date']"
+"Thompson, Kentrelle 1050 Kenny Fort - Addendum.pdf",,,,,,,,,,,,,,,,,,mutual,TX,Round Rock,Unknown,Pending,False,False,GDAA Property Management,"of Protections, which is incorporated into this
+Lease Addendum by reference. In the event the Property Management contract_is terminated, the monthly
+fee referenced herein will cease and the Property Owner may require You to post_a Security Deposit.
+| HAVE READ AND UNDERSTAND THIS ADDENDUM
+entrelle Thomps
+Resident Signature: fe . mp ren Date: 02 / 28 / 2022
+Resident Name (Print): “emerson
+eo 9° Oo So ®@
+GDAA Property Management, LLC. CRMC®
+2300 Greenhill Dr. Bldg. 2, Ste. 250, Round Rock, TX 786",,1.0,"['monthly_rent', 'amount_of_claim', 'claim_date']"
+SDRP Move Out Calculation 1050KE - THOMPSON CLOSEOUT07072202374727080.pdf,,,,,,,,885.0,,,,,,,3165.0,,,,,Page,Unknown,Pending,False,False,"BILL TO
+GDAA Property Management","TENANT ITEMS: OWNER ITEMS:
+ Mow yard 
+ Remove items left by tenants (leave
+manuals in kitchen drawer, leave stools
+at kit sink/bar area, leave patio table,
+and little storage shed, leave brown
+Landscaping shelves in dining room and living room, Landscaping
+/Fence: leave white shelving in upstairs /Fence:
+bedroom, leave rooster pic on laundry
+room door, leave all curtains white
+dresser in master bed, shower curtain
+in master shower)
+
+ Repair damaged door jam on back  Paint walls as needed
+P",,1.0,"['monthly_rent', 'termination_type', 'claim_date', 'lease_state']"
+"Williams, Shay 241 Yoakum - Addendum.pdf",,,,,,,,,,,,,,,,,,mutual,,,Unknown,Pending,False,False,,"of Protections, which is incorporated into this
+Lease Addendum by reference. In the event the Property Management contract is terminated, the monthly
+fee referenced herein will cease and the Property Owner may require You to post a Security Deposit.
+I HAVE READ AND UNDERSTAND THIS ADDENDUM
+03 / 02 / 2022
+Resident Signature: _______________ Date:
+Resident Name (Print): Shay Williams
+Doc ID: 238ad42cdeea01cfc531698065bebd42f9847609",,1.0,"['monthly_rent', 'amount_of_claim', 'claim_date', 'lease_state', 'property_management_company']"
+241 yoakum tenant closeout (1).pdf,,,,,,2022-04-29,,,,,,,,16483.32,171.04,,,eviction,TX,"Yoakum St
+Leander",Yes,In Collections,False,False,GDAA Property Management,,,1.0,"['monthly_rent', 'amount_of_claim', 'claim_date']"
+305 Coosawatchie St move out calculation - hall.pdf,,2022-03-04,,,,,1750.0,9289.19,,,,,,6001.759999999999,2440.0,4573.0,9874.460000000001,mutual,SC,Summerville,Unknown,Pending,False,False,New Heights Property Management,,,1.0,[]
+SDRP Move Out Calculation - 7721 Suzanne.pdf,,2022-07-08,,,,,1200.0,6047.0,,,,,,23335.0,2980.0,3570.0,7305.0,mutual,SC,Summerville,Unknown,Pending,False,False,New Heights Property Management,,,1.0,[]
+"Williams, Shay 241 Yoakum Lease.pdf",,,,,,,,,,,,,,92.01,368.40999999999997,92.26,,eviction,TX,Yoakum St Leander,Yes,Pending,False,False,GDAA Property Management,,,1.0,"['monthly_rent', 'amount_of_claim', 'claim_date']"
