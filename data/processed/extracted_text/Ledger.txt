@@ -1,0 +1,114 @@
+Filename: Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:35:22.890954
+============================================================
+
+
+--- Page 1 ---
+
+11/22/24, 5:47 PM Propertyware - On Demand Real Estate Solution
+PURE Property Management of South Carolina
+Lease: Smith, S._3
+Contact: Shanavia Smith
+Property Address: 124 Brookhaven Rd
+Summerville,SC 29486-5437
+Balance as of 11/22/2024 Prepayments Total Unpaid Deposit Held
+$5,527.07 $0.00 $5,527.07 $0.00
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4780 - SD Forfeit
+Unpaid
+11/22/2024 (MoveOut cha... : $300.00 $5,527.07
+Charge
+Move-out Clean
+4780 - SD Forfeit
+Unpaid
+11/22/2024 (MoveOut cha... : $498.90 $5,227.07
+Charge
+Turn Repairs
+Unpaid 4001 - Eviction Fee :
+11/22/2024 $100.00 $4,728.17
+Charge Eviction Filing Fee
+5006 - Eviction
+Unpaid
+11/22/2024 Services : Eviction $475.00 $4,628.17
+Charge
+Fee
+4340 - Late Fee :
+Unpaid Calculated on
+11/06/2024 $229.90 $4,153.17
+Charge 11/06/2024 5:05 AM
+by system
+Unpaid
+11/01/2024 4000 - Rent $2,299.00 $3,923.27
+Charge
+Unpaid 5510 - Repairs :
+10/28/2024 $125.00 $1,624.27
+Charge Rekey fee
+Unpaid 5510 - Repairs : 2
+10/28/2024 $125.00 $1,499.27
+Charge Garage Remotes
+4340 - Late Fee :
+Unpaid Calculated on
+10/06/2024 $84.30 $1,374.27
+Charge 10/06/2024 5:11 AM
+by system
+Unpaid 4016 - Unauthorized
+10/03/2024 $350.00 $1,289.97
+Charge Pet fee
+Unpaid
+10/01/2024 4000 - Rent $842.97 $939.97
+Charge
+Unpaid 4037 - SDRP
+10/01/2024 $59.00 $97.00
+Charge Monthly Premium
+Partially
+10/01/2024 4038 - RBP with Ins $39.00 $38.00
+Paid Charge
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 1/2
+
+--- Page 2 ---
+
+11/22/24, 5:47 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of
+$1,999.00 applied to
+[09/20/24, acct
+4000, $2,299.00]
+Deposited Shanavia
+09/24/2024 3V8NZLGRA09 and $300.00 applied 09/24/2024 $2,299.00 ($1.00)
+Payment Smith
+to [09/20/24, acct
+4036,
+$300.00]/RentMoney
+- Shanavia Smith
+Payment of $1.00
+applied to [10/01/24,
+acct 4038, $39.00]
+and $39.00 applied
+to [09/20/24, acct
+4038, $39.00] and
+Deposited $300.00 applied to Shanavia
+09/24/2024 D61QZLGRA09 09/24/2024 $399.00 $2,298.00
+Payment [09/20/24, acct Smith
+4000, $2,299.00]
+and $59.00 applied
+to [09/20/24, acct
+4037,
+$59.00]/RentMoney
+- Shanavia Smith
+4037 - SDRP
+Paid Charge 09/20/2024 $59.00 $2,697.00
+Monthly Premium
+Paid Charge 09/20/2024 4038 - RBP with Ins $39.00 $2,638.00
+Paid Charge 09/20/2024 4000 - Rent $2,299.00 $2,599.00
+4036 -
+Paid Charge 09/20/2024 $300.00 $300.00
+Administrative Fee
+Copyright © Propertyware® 2003-2024. All rights reserved.
+Various trademarks held by their respective owners.
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 2/2

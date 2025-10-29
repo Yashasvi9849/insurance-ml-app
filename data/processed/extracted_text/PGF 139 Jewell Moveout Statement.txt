@@ -1,0 +1,29 @@
+Filename: PGF 139 Jewell Moveout Statement.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:15:08.646957
+============================================================
+
+
+--- Page 1 ---
+
+Move Out Statement
+Date: 08/09/2023
+Code t0070379 Property pgf Lease From 01/03/2023
+Name Jonathan Jewell Unit 139 Lease To 12/31/2023
+Address 205 1/2 Hillcrest Drive Status Past Move In 01/03/2023
+Rent 1,100.00 Move Out 07/31/2023
+City Story City, IA 50248 Notice 05/16/2023
+Telephone (O)-( ) - (H)-(205) 790-0783
+Date Description Charge Payment Balance Chg/Rec
+Balance as of 7/01/2023 0.00
+07/01/2023 chk# 361388506 Payer Last Name: Jewell - ACH - PayLease 0.00 1,278.00 (1,278.00) 2302657
+07/01/2023 Residential Rent (07/2023) 1,100.00 0.00 (178.00) 3198135
+07/01/2023 Garage Rent (07/2023) 80.00 0.00 (98.00) 3198136
+07/01/2023 Pet Fee Income (07/2023) 35.00 0.00 (63.00) 3198137
+07/01/2023 Security Deposit Protection (07/2023) 33.00 0.00 (30.00) 3198138
+07/01/2023 Utility Revenue (07/2023) 30.00 0.00 0.00 3198139
+08/09/2023 Reletting Fee 250.00 0.00 250.00 3236602
+08/09/2023 Repay Move-in Special 550.00 0.00 800.00 3236603
+08/09/2023 August Prorated Rent 11 Days 403.00 0.00 1,203.00 3236604
+08/09/2023 Carpet Cleaning 90.00 0.00 1,293.00 3236605

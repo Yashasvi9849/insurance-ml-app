@@ -1,0 +1,133 @@
+Filename: 702 Bothwell Place - Ledger.pdf
+Method: pdfplumber
+Pages: 3
+Extracted: 2025-10-29T11:34:47.923778
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+Excalibur Homes,LLC
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+02/01/23 - 09/15/23 09/15/23
+(678)825-1400
+Property Unit Type Acc #
+S3A-03507 702 Bothwell Pl HOUSE 61152
+TO:
+Previous Current Current Balance
+Cabassa, Jasmine (DISPONP)
+Balance Charges Credits Due
+702 Bothwell Place
+0.00 15,604.79 6,439.59 9,165.20
+Marietta, GA 30062
+Last Payment Amount Enclosed
+4/5/23 $116.99 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+02/01/23 Rent Reservation Fee reversing rr fee to allocate payment to -1,825.00
+future rent
+02/06/23 CashPay Payment Payment Received CashPay Payment -240.00
+02/07/23 CashPay Payment Payment Received CashPay Payment -48.00
+02/07/23 TBR Admin Fee to PM admin fee per lease 200.00
+02/07/23 Sec Dep Ins Charge to Tenant 48.00
+02/07/23 TBR Pet Rent Prorated pet rent for 22 days 2/7/23- 31.43
+2/28/23
+02/07/23 TBR Rent Charge Prorated rent for 22 days 2/7/23- 1,433.93
+2/28/23
+03/01/23 Pinata Service Fee 4.00
+03/01/23 Latchel Concierge Service 14.99
+03/01/23 Sec Dep Ins Charge to Tenant 48.00
+03/01/23 TBR Pet Rent 40.00
+03/01/23 TBR Rent Charge 1,825.00
+03/06/23 TBR EFT Service Fees 10.00
+03/06/23 Web Pay CHK Payment Received Paid By: Jasmine Cabassa -1,542.35
+(JasmineCabassa0524@gmail.com).
+04/01/23 Pinata Service Fee 4.00
+04/01/23 Latchel Concierge Service 14.99
+04/01/23 Sec Dep Ins Charge to Tenant 48.00
+04/01/23 TBR Pet Rent 40.00
+04/01/23 TBR Rent Charge 1,825.00
+04/01/23 TBR Credit to Tenant April free rent per lease -1,825.00
+04/05/23 TBR EFT Service Fees 10.00
+04/05/23 Web Pay CHK Payment Received [NSF] Paid By: Jasmine Cabassa -116.99
+(JasmineCabassa0524@gmail.com).
+04/11/23 Web Pay CHK NSF Adjustment [NSF] Paid By: Jasmine Cabassa 116.99
+(JasmineCabassa0524@gmail.com).
+04/12/23 TBR NSF Fees 1st NSF (4/5/2023) 50.00
+04/12/23 TBR Late Charges 182.50
+Page 1
+
+--- Page 2 ---
+
+Statement
+Excalibur Homes,LLC
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+02/01/23 - 09/15/23 09/15/23
+(678)825-1400
+Property Unit Type Acc #
+S3A-03507 702 Bothwell Pl HOUSE 61152
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 15,604.79 6,439.59 9,165.20
+Date Reference Description Amount
+05/01/23 Pinata Service Fee 4.00
+05/01/23 Latchel Concierge Service 14.99
+05/01/23 Sec Dep Ins Charge to Tenant 48.00
+05/01/23 TBR Pet Rent 40.00
+05/01/23 TBR Rent Charge 1,825.00
+05/08/23 TBR Late Charge to Owner 182.50
+05/18/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+06/01/23 Pinata Service Fee 4.00
+06/01/23 Latchel Concierge Service 14.99
+06/01/23 Sec Dep Ins Charge to Tenant 48.00
+06/01/23 TBR Pet Rent 40.00
+06/01/23 TBR Rent Charge 1,825.00
+06/06/23 TBR Late Charge to Owner 182.50
+07/01/23 Pinata Service Fee 4.00
+07/01/23 Latchel Concierge Service 14.99
+07/01/23 Sec Dep Ins Charge to Tenant 48.00
+07/01/23 TBR Pet Rent 40.00
+07/01/23 TBR Rent Charge 1,825.00
+07/06/23 TBR Late Charge to Owner 182.50
+08/01/23 Pinata Service Fee 4.00
+08/01/23 Latchel Concierge Service 14.99
+08/01/23 Sec Dep Ins Charge to Tenant 48.00
+08/01/23 TBR Pet Rent 40.00
+08/01/23 TBR Rent Charge 1,825.00
+08/07/23 TBR Late Charge to Owner 182.50
+08/29/23 TBR Damages to Property Charges Overgrown Lawn 250.00
+08/29/23 TBR Damages to Property Charges Small trash haul (interior trash & debris) 200.00
+08/29/23 TBR Damages to Property Charges Appliances dirty (stove and fridge) 150.00
+08/29/23 TBR Damages to Property Charges Rekey 3 doors ($50/cylinder) 300.00
+09/14/23 TBR Rent Charge Tenant vacated on 8/17/23. Reversing -824.19
+8/18/23-8/31/23 rent
+Page 2
+
+--- Page 3 ---
+
+Statement
+Excalibur Homes,LLC
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+02/01/23 - 09/15/23 09/15/23
+(678)825-1400
+Property Unit Type Acc #
+S3A-03507 702 Bothwell Pl HOUSE 61152
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 15,604.79 6,439.59 9,165.20
+Date Reference Description Amount
+09/14/23 TBR Pet Rent Tenant vacated on 8/17/23. Reversing -18.06
+8/18/23-8/31/23 pet rent
+Sub Total 9,165.20
+Unapplied Credits 0.00
+Balance Due 9,165.20
+Comments
+Page 3

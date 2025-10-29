@@ -1,0 +1,89 @@
+Filename: Final Statement_4922 Colonial Dr._Guillaume.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:33:37.571473
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Date Range:all time
+Lease:equals 4922 Colonial Drive, Columbia, SC 29203 (Kenfort Guillaume, Amber Guillaume, ...)
+Company:PURE Property Management of South Carolina.
+Unit:4922 Colonial Drive, Columbia, SC 29203
+Lease Status:Closed - Terminated - Moved Out
+Tenants:Kenfort Guillaume, Amber Guillaume
+Phones:(914) 309-3764, (914) 309-3764
+Move In Date:6-15-2023
+Move Out Date:12-15-2023
+Lease End Date:7-1-2024
+Rent Amount:$1,350.00
+Deposit Balance:$0.00
+41 Record(s) as of 1-18-2024 2:18 pm
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+12-21-2023 Tenant Chargeback - Tenant Chargeback (Touch up paint) $350.00 $449.00
+12-20-2023 Tenant Chargeback - Tenant Chargeback (Move out Rekey) $99.00 $99.00
+12-01-2023 Amber eCheck Payment (Reference: trn_2c44cd94-c1b6-46b1-ae36-a86da2af4147) - Resident Portal $738.95 $0.00
+Guillaume Payment
+12-01-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $738.95
+12-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $35.00 $733.95
+(12-2023)
+12-01-2023 RBP w/insurance - RBP w/insurance (12-2023) $45.95 $698.95
+12-01-2023 Rent - December 1-15 Rent (12-2023) $653.00 $653.00
+11-02-2023 Amber eCheck Payment (Reference: trn_a0765a88-6047-4e7c-ac37-bf6e841b108e) - Resident Portal $1,435.95 $0.00
+Guillaume Payment
+11-02-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $1,435.95
+11-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $35.00 $1,430.95
+(11-2023)
+11-01-2023 RBP w/insurance - RBP w/insurance (11-2023) $45.95 $1,395.95
+11-01-2023 Rent - Rent (11-2023) $1,350.00 $1,350.00
+10-01-2023 Amber eCheck Payment (Reference: trn_34ac6453-456a-494c-beb0-830281887266) - Resident Portal $1,435.95 $0.00
+Guillaume Payment
+10-01-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $1,435.95
+10-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $35.00 $1,430.95
+(10-2023)
+10-01-2023 RBP w/insurance - RBP w/insurance (10-2023) $45.95 $1,395.95
+10-01-2023 Rent - Rent (10-2023) $1,350.00 $1,350.00
+09-02-2023 Amber eCheck Payment (Reference: trn_5ba6fcf4-05b5-470e-ba65-c1097b0d99a0) - Resident Portal $1,435.95 $0.00
+Guillaume Payment
+09-02-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $1,435.95
+09-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $35.00 $1,430.95
+(09-2023)
+09-01-2023 RBP w/insurance - RBP w/insurance (09-2023) $45.95 $1,395.95
+09-01-2023 Rent - Rent (09-2023) $1,350.00 $1,350.00
+08-01-2023 Amber eCheck Payment (Reference: trn_1c3b541a-46ad-4b72-97a3-5ab1a0660656) - Resident Portal $1,310.95 $0.00
+Guillaume Payment
+08-01-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $1,310.95
+1 of 2
+
+--- Page 2 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+08-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $35.00 $1,305.95
+(08-2023)
+08-01-2023 RBP w/insurance - RBP w/insurance (08-2023) $45.95 $1,270.95
+08-01-2023 Rent - Rent (08-2023) $1,350.00 $1,225.00
+07-02-2023 Amber eCheck Payment (Reference: trn_6f7499fe-b87e-44b1-947c-e125b02ed705) - Resident Portal $1,560.95 $-125.00
+Guillaume Payment
+07-02-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $1,435.95
+07-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $35.00 $1,430.95
+(07-2023)
+07-01-2023 RBP w/insurance - RBP w/insurance (07-2023) $45.95 $1,395.95
+07-01-2023 Rent - Rent (07-2023) $1,350.00 $1,350.00
+06-01-2023 Kenfort Money Order Payment (Reference: 19-501860156) $180.95 $0.00
+Guillaume
+06-01-2023 Kenfort Money Order Payment (Reference: 19-501860154) $500.00 $180.95
+Guillaume
+06-01-2023 Kenfort Money Order Payment (Reference: 19-501860155) $500.00 $680.95
+Guillaume
+06-01-2023 Kenfort Money Order Payment (Reference: 19-501860153) $500.00 $1,180.95
+Guillaume
+06-01-2023 Administrative Fee - Administrative Fee $250.00 $1,680.95
+06-01-2023 RBP w/insurance - RBP w/insurance $45.95 $1,430.95
+06-01-2023 Rent - Remainder Holding Fee $630.00 $1,385.00
+06-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $35.00 $755.00
+06-01-2023 Rent - June 15-30 Rent Income $720.00 $720.00
+STARTING $0.00
+BALANCE
+2 of 2

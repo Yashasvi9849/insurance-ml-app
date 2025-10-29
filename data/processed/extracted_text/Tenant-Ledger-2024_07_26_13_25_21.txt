@@ -1,0 +1,193 @@
+Filename: Tenant-Ledger-2024_07_26_13_25_21.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:34:47.672422
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Date Range:all time
+Lease:equals 1113 Landon Place Drive, Columbia, SC 29229 (Helen McGill Davis)
+Company:PURE Property Management of South Carolina.
+Unit:1113 Landon Place Drive, Columbia, SC 29229
+Lease Status:Closed - Terminated - Moved Out
+Tenants:Helen McGill Davis
+Phones:(803) 479-2364
+Move In Date:12-7-2022
+Move Out Date:5-31-2024
+Lease End Date:1-1-2024
+Rent Amount:$2,695.00
+Deposit Balance:$0.00
+115 Record(s) as of 7-26-2024 1:25 pm
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+06-26-2024 Tenant Chargeback - Tenant Chargeback - Carpet Cleaning $239.00 $911.56
+06-12-2024 Tenant Chargeback - Tenant Chargeback - Paint touch up $350.00 $672.56
+06-08-2024 Tenant Chargeback - Tenant Chargeback - Replaced Venetian blinds and a paper holder. $211.56 $322.56
+06-04-2024 Tenant Chargeback - Tenant Chargeback - Move out rekey. Replaced 4 light bulbs and re installed $111.00 $111.00
+bifold doors.
+05-04-2024 Helen McGill eCheck Payment (Reference: trn_eb413a8c-887d-44e8-a11e-5d7987be1c5b) - Resident Portal $2,825.95 $0.00
+Davis Payment
+05-04-2024 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,825.95
+05-01-2024 Rent - Rent (05-2024) $2,695.00 $2,820.95
+05-01-2024 Monthly Pet Fee - Monthly Pet Fee (05-2024) $30.00 $125.95
+05-01-2024 Resident Benefit Package - Resident Benefit Package (05-2024) $45.95 $95.95
+05-01-2024 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $50.00
+(05-2024)
+04-04-2024 Helen McGill eCheck Payment (Reference: trn_cb386510-a861-497d-959b-913c474414e0) - Resident Portal $2,825.95 $0.00
+Davis Payment
+04-04-2024 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,825.95
+04-01-2024 Rent - Rent (04-2024) $2,695.00 $2,820.95
+04-01-2024 Monthly Pet Fee - Monthly Pet Fee (04-2024) $30.00 $125.95
+04-01-2024 Resident Benefit Package - Resident Benefit Package (04-2024) $45.95 $95.95
+04-01-2024 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $50.00
+(04-2024)
+03-04-2024 Helen McGill eCheck Payment (Reference: trn_7736c05f-1a18-49fc-8911-0cb86c538ff7) - Resident Portal $2,825.95 $0.00
+Davis Payment
+03-04-2024 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,825.95
+03-01-2024 Rent - Rent (03-2024) $2,695.00 $2,820.95
+03-01-2024 Monthly Pet Fee - Monthly Pet Fee (03-2024) $30.00 $125.95
+03-01-2024 Resident Benefit Package - Resident Benefit Package (03-2024) $45.95 $95.95
+03-01-2024 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $50.00
+(03-2024)
+02-04-2024 Helen McGill eCheck Payment (Reference: trn_de79283b-ed7e-40c1-bb02-672ae4ebaf47) - Resident Portal $2,825.95 $0.00
+Davis Payment
+02-04-2024 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,825.95
+1 of 4
+
+--- Page 2 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+02-01-2024 Rent - Rent (02-2024) $2,695.00 $2,820.95
+02-01-2024 Monthly Pet Fee - Monthly Pet Fee (02-2024) $30.00 $125.95
+02-01-2024 Resident Benefit Package - Resident Benefit Package (02-2024) $45.95 $95.95
+02-01-2024 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $50.00
+(02-2024)
+01-01-2024 Rent - Rent (01-2024) $2,695.00 $0.00
+01-01-2024 Monthly Pet Fee - Monthly Pet Fee (01-2024) $30.00 $-2,695.00
+01-01-2024 Resident Benefit Package - Resident Benefit Package (01-2024) $45.95 $-2,725.00
+01-01-2024 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $-2,770.95
+(01-2024)
+12-29-2023 Helen McGill eCheck Payment (Reference: trn_cde9f229-d6c3-4d9a-babd-1505e075a2f7) - Resident Portal $2,825.95 $-2,820.95
+Davis Payment
+12-29-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $5.00
+12-04-2023 Helen McGill eCheck Payment (Reference: trn_92177d8e-ef81-445a-92e7-04a774fb16eb) - Resident Portal $2,625.95 $0.00
+Davis Payment
+12-04-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+12-01-2023 Monthly Pet Fee - Monthly Pet Fee (12-2023) $30.00 $2,620.95
+12-01-2023 Resident Benefit Package - Resident Benefit Package (12-2023) $45.95 $2,590.95
+12-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(12-2023)
+12-01-2023 Rent - Rent (12-2023) $2,495.00 $2,495.00
+11-04-2023 Helen McGill eCheck Payment (Reference: trn_023dfe4f-da9a-46c9-918f-e8f2cf241d17) - Resident Portal $2,625.95 $0.00
+Davis Payment
+11-04-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+11-01-2023 Monthly Pet Fee - Monthly Pet Fee (11-2023) $30.00 $2,620.95
+11-01-2023 Resident Benefit Package - Resident Benefit Package (11-2023) $45.95 $2,590.95
+11-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(11-2023)
+11-01-2023 Rent - Rent (11-2023) $2,495.00 $2,495.00
+10-02-2023 Helen McGill eCheck Payment (Reference: trn_b879a9d4-1df8-4601-aec0-030244d48f03) - Resident Portal $2,625.95 $0.00
+Davis Payment
+10-02-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+10-01-2023 Monthly Pet Fee - Monthly Pet Fee (10-2023) $30.00 $2,620.95
+10-01-2023 Resident Benefit Package - Resident Benefit Package (10-2023) $45.95 $2,590.95
+10-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(10-2023)
+10-01-2023 Rent - Rent (10-2023) $2,495.00 $2,495.00
+09-04-2023 Helen McGill eCheck Payment (Reference: trn_b3fb507d-2ffc-4319-9fe9-61fe18e62e8e) - Resident Portal $2,625.95 $0.00
+Davis Payment
+09-04-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+09-01-2023 Monthly Pet Fee - Monthly Pet Fee (09-2023) $30.00 $2,620.95
+09-01-2023 Resident Benefit Package - Resident Benefit Package (09-2023) $45.95 $2,590.95
+2 of 4
+
+--- Page 3 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+09-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(09-2023)
+09-01-2023 Rent - Rent (09-2023) $2,495.00 $2,495.00
+08-04-2023 Helen McGill eCheck Payment (Reference: trn_ba4f7fc3-7495-42e8-b2a5-f0673e91e0f9) - Resident Portal $2,625.95 $0.00
+Davis Payment
+08-04-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+08-01-2023 Monthly Pet Fee - Monthly Pet Fee (08-2023) $30.00 $2,620.95
+08-01-2023 Resident Benefit Package - Resident Benefit Package (08-2023) $45.95 $2,590.95
+08-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(08-2023)
+08-01-2023 Rent - Rent (08-2023) $2,495.00 $2,495.00
+07-03-2023 Helen McGill eCheck Payment (Reference: trn_1f8cdde1-5655-4d12-84d9-d0b478f4eba5) - Resident Portal $2,684.95 $0.00
+Davis Payment
+07-03-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,684.95
+07-01-2023 Monthly Pet Fee - Monthly Pet Fee (07-2023) $30.00 $2,679.95
+07-01-2023 Resident Benefit Package - Resident Benefit Package (07-2023) $45.95 $2,649.95
+07-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,604.00
+(07-2023)
+07-01-2023 Rent - Rent (07-2023) $2,495.00 $2,554.00
+06-16-2023 Tenant Chargeback - Tenant Chargeback (Refrigerator functioning Properly) $59.00 $59.00
+06-03-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $0.00
+06-03-2023 Helen McGill eCheck Payment (Reference: trn_a189bf9b-15b4-4f5c-a9a3-8762f68d0218) - Resident Portal $2,625.95 $-5.00
+Davis Payment
+06-01-2023 Monthly Pet Fee - Monthly Pet Fee (06-2023) $30.00 $2,620.95
+06-01-2023 Resident Benefit Package - Resident Benefit Package (06-2023) $45.95 $2,590.95
+06-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(06-2023)
+06-01-2023 Rent - Rent (06-2023) $2,495.00 $2,495.00
+05-04-2023 Helen McGill eCheck Payment (Reference: trn_d30627c1-018c-4d77-9a84-b44921d4648b) - Resident Portal $2,625.95 $0.00
+Davis Payment
+05-04-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+05-01-2023 Monthly Pet Fee - Monthly Pet Fee (05-2023) $30.00 $2,620.95
+05-01-2023 Resident Benefit Package - Resident Benefit Package (05-2023) $45.95 $2,590.95
+05-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(05-2023)
+05-01-2023 Rent - Rent (05-2023) $2,495.00 $2,495.00
+04-04-2023 Helen McGill eCheck Payment (Reference: trn_1954a13e-278e-4154-b01e-4f365d53caa1) - Resident Portal $2,625.95 $0.00
+Davis Payment
+04-04-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+04-01-2023 Monthly Pet Fee - Monthly Pet Fee (04-2023) $30.00 $2,620.95
+04-01-2023 Resident Benefit Package - Resident Benefit Package (04-2023) $45.95 $2,590.95
+04-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+3 of 4
+
+--- Page 4 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+(04-2023)
+04-01-2023 Rent - Rent (04-2023) $2,495.00 $2,495.00
+03-03-2023 Helen McGill eCheck Payment (Reference: trn_516d5369-be38-4c95-abda-875776a025f0) - Resident Portal $2,625.95 $0.00
+Davis Payment
+03-03-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+03-01-2023 Monthly Pet Fee - Monthly Pet Fee (03-2023) $30.00 $2,620.95
+03-01-2023 Resident Benefit Package - Resident Benefit Package (03-2023) $45.95 $2,590.95
+03-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(03-2023)
+03-01-2023 Rent - Rent (03-2023) $2,495.00 $2,495.00
+02-03-2023 Helen McGill eCheck Payment (Reference: trn_f93a5041-7040-4070-af5e-f9e45092b4f8) - Resident Portal $2,625.95 $0.00
+Davis Payment
+02-03-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,625.95
+02-01-2023 Monthly Pet Fee - Monthly Pet Fee (02-2023) $30.00 $2,620.95
+02-01-2023 Resident Benefit Package - Resident Benefit Package (02-2023) $45.95 $2,590.95
+02-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,545.00
+(02-2023)
+02-01-2023 Rent - Rent (02-2023) $2,495.00 $2,495.00
+01-03-2023 Helen McGill eCheck Payment (Reference: trn_d6c1cf0c-c60e-429d-9018-dcc06d58bdb5) - Resident Portal $2,164.95 $0.00
+Davis Payment
+01-03-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $2,164.95
+01-01-2023 Monthly Pet Fee - Monthly Pet Fee (01-2023) $30.00 $2,159.95
+01-01-2023 Resident Benefit Package - Resident Benefit Package (01-2023) $45.95 $2,129.95
+01-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,084.00
+(01-2023)
+01-01-2023 Rent - Rent (01-2023) $2,495.00 $2,034.00
+12-07-2022 Locks Keys - Locks Keys $20.00 $-461.00
+12-01-2022 Helen McGill Cashier's Check Payment (Check #: 207748) $3,212.95 $-481.00
+Davis
+12-01-2022 Monthly Pet Fee - December 7-31 Pet Admin Fee Monthly $24.00 $2,731.95
+12-01-2022 Non-Refundable Pet Fee - Pet Admin Fee Initial $350.00 $2,707.95
+11-30-2022 Administrative Fee - Administrative Fee $250.00 $2,357.95
+11-30-2022 Resident Benefit Package - Resident Benefit Package $45.95 $2,107.95
+11-30-2022 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $50.00 $2,062.00
+11-30-2022 Rent - December 7-31 Rent $2,012.00 $2,012.00
+STARTING $0.00
+BALANCE
+4 of 4

@@ -1,0 +1,157 @@
+Filename: 396 Jamie Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 3
+Extracted: 2025-10-29T11:12:15.045874
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+10/01/22 - 11/09/23 11/09/23
+6788251400
+Property Unit Type Acc #
+jami0396 396 Jamie Drive HOUSE 56361
+TO:
+Previous Current Current Balance
+Cronin, Brendan (DISPONP)
+Balance Charges Credits Due
+396 Jamie Drive
+1,900.00 28,440.52 20,911.91 9,428.61
+Hiram, GA 30141
+Last Payment Amount Enclosed
+6/15/23 $253.00 Web Pay VISA
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 1,900.00
+10/05/22 CashPay Payment Payment Received CashPay Payment -1,900.00
+10/06/22 CashPay Payment Payment Received CashPay Payment -200.00
+10/06/22 Rent Reservation Fee reversing rr fee to allocate payment to -1,900.00
+future rent
+10/13/22 Non-Refundable Admin Fee Admin fee per lease 200.00
+10/13/22 Rent Charge Prorated rent for 19 days 10/13/22- 1,164.52
+10/31/22
+11/01/22 Rent Charge 1,900.00
+11/01/22 Sec Dep Ins Charge to Tenant 48.00
+11/04/22 EFT Service Fee 10.00
+11/04/22 Web Pay CHK Payment Received Paid By: Brendan Cronin -1,222.52
+(bacthesolutionist@yahoo.com).
+11/27/22 EFT Service Fee 10.00
+11/27/22 Web Pay CHK Payment Received Paid By: Brendan Cronin -1,910.00
+(bacthesolutionist@yahoo.com).
+12/01/22 Rent Charge 1,900.00
+12/01/22 Sec Dep Ins Charge to Tenant 48.00
+12/06/22 EFT Service Fee 10.00
+12/06/22 Web Pay CHK Payment Received Paid By: Brendan Cronin -58.00
+(bacthesolutionist@yahoo.com).
+01/01/23 Rent Charge 1,900.00
+01/01/23 Sec Dep Ins Charge to Tenant 48.00
+01/06/23 Late Charge 190.00
+01/07/23 EFT Service Fee 15.00
+01/07/23 Web Pay VISA Payment Received Paid By: Brendan Cronin -2,153.00
+(bacthesolutionist@yahoo.com). Auth #
+- 8384310944678947
+01/27/23 EFT Service Fee 10.00
+01/27/23 Web Pay CHK Payment Received Paid By: Brendan Cronin -1,010.00
+(bacthesolutionist@yahoo.com).
+01/30/23 EFT Service Fee 10.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+10/01/22 - 11/09/23 11/09/23
+6788251400
+Property Unit Type Acc #
+jami0396 396 Jamie Drive HOUSE 56361
+Previous Current Current Balance
+Balance Charges Credits Due
+1,900.00 28,440.52 20,911.91 9,428.61
+Date Reference Description Amount
+01/30/23 Web Pay CHK Payment Received Paid By: Brendan Cronin -910.00
+(bacthesolutionist@yahoo.com).
+02/01/23 Rent Charge 1,900.00
+02/01/23 Sec Dep Ins Charge to Tenant 48.00
+02/23/23 EFT Service Fee 10.00
+02/23/23 Web Pay CHK Payment Received Paid By: Brendan Cronin -1,558.00
+(bacthesolutionist@yahoo.com).
+02/24/23 EFT Service Fee 10.00
+02/24/23 Web Pay CHK Payment Received Paid By: Brendan Cronin -410.00
+(bacthesolutionist@yahoo.com).
+03/01/23 Rent Charge 1,900.00
+03/01/23 Sec Dep Ins Charge to Tenant 48.00
+03/31/23 EFT Service Fee 15.00
+03/31/23 Web Pay VISA Payment Received Paid By: Brendan Cronin -1,763.00
+(bacthesolutionist@yahoo.com). Auth #
+- 8648784180133191
+04/01/23 Rent Charge 1,900.00
+04/01/23 Sec Dep Ins Charge to Tenant 48.00
+04/21/23 EFT Service Fee 15.00
+04/21/23 Web Pay VISA Payment Received Paid By: Brendan Cronin -1,615.00
+(croninbrendan2@gmail.com). Auth # -
+8648929635348643
+05/01/23 Rent Charge 1,900.00
+05/01/23 Sec Dep Ins Charge to Tenant 48.00
+05/08/23 Late Charge 190.00
+05/25/23 EFT Service Fee 15.00
+05/25/23 Web Pay VISA Payment Received Paid By: Brendan Cronin -801.00
+(croninbrendan2@gmail.com). Auth # -
+8297330334763949
+06/01/23 Rent Charge 1,900.00
+06/01/23 Sec Dep Ins Charge to Tenant 48.00
+06/06/23 Late Charge 190.00
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+10/01/22 - 11/09/23 11/09/23
+6788251400
+Property Unit Type Acc #
+jami0396 396 Jamie Drive HOUSE 56361
+Previous Current Current Balance
+Balance Charges Credits Due
+1,900.00 28,440.52 20,911.91 9,428.61
+Date Reference Description Amount
+06/13/23 CASH Payment Received ck759739 xfer from wire - June rent -1,900.00
+06/15/23 EFT Service Fee 15.00
+06/15/23 Web Pay VISA Payment Received Paid By: Brendan Cronin -253.00
+(croninbrendan2@gmail.com). Auth # -
+8121556423771466
+07/01/23 Rent Charge 1,900.00
+07/01/23 Sec Dep Ins Charge to Tenant 48.00
+07/06/23 Late Charge 190.00
+07/21/23 Eviction Cancellation Fee to Halt Dispo 300.00
+08/01/23 Rent Charge 1,900.00
+08/01/23 Sec Dep Ins Charge to Tenant 48.00
+08/07/23 Late Charge 190.00
+09/01/23 Rent Charge 1,900.00
+09/01/23 Sec Dep Ins Charge to Tenant 48.00
+09/06/23 Late Charge 190.00
+10/01/23 Rent Charge 1,900.00
+10/01/23 Sec Dep Ins Charge to Tenant 48.00
+10/06/23 Late Charge 190.00
+10/11/23 Tenant Damages to Property Lawn not maintained. 150.00
+10/11/23 Tenant Damages to Property Trash left over from tenant to be 900.00
+removed and disposed.
+10/11/23 Tenant Damages to Property Repair the wood damage on the living 75.00
+room front window sill.
+10/11/23 Tenant Damages to Property Flea treatment necessary. 400.00
+10/11/23 Tenant Damages to Property Remove smoke odor from the main 400.00
+bedroom.
+11/08/23 Rent Charge Tenant vacated on 10/9/23. Reversing -1,348.39
+10/10/23-10/31/23 rent
+Sub Total 9,428.61
+Unapplied Credits 0.00
+Balance Due 9,428.61
+Comments
+Page 3

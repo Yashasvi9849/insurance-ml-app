@@ -1,0 +1,120 @@
+Filename: 12305RIP - Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:10:25.899274
+============================================================
+
+
+--- Page 1 ---
+
+Transactions
+Date Range: All
+Tenant Account Property Unit Active Start Active End
+LaTroya Hamlett 7331 12305 Riprap Dr 12305R 1/1/2022 2/13/2023
+Date Reference Description Comment Amount Balance
+12/10/21 Application Fee Charged via Application: LaTroya Hamlett 60.00 60.00
+(aaclark0612@yahoo.com)
+12/10/21 Web Pay MC Payment Received Paid By: LaTroya Hamlett -60.00 0.00
+(aaclark0612@yahoo.com). Auth # -
+821316233117600705
+12/15/21 Web Pay CHK Payment Received Paid By: LaTroya Hamlett -125.00 -125.00
+(aaclark0612@yahoo.com).
+12/30/21 Web Pay SAV Payment Received Paid By: LaTroya Hamlett -2,078.00 -2,203.00
+(aaclark0612@yahoo.com).
+01/01/22 Admin Fee Move in date 1/1/2022 125.00 -2,078.00
+01/01/22 Rent Charge First month 2,000.00 -78.00
+01/01/22 Tenant Benefits A2 First month 36.00 -42.00
+01/01/22 Renters Choice Program Move in date 1/1/2022 42.00 0.00
+02/01/22 Rent Charge 2,000.00 2,000.00
+02/01/22 Tenant Benefits A2 36.00 2,036.00
+02/01/22 Renters Choice Program 42.00 2,078.00
+02/03/22 Web Pay SAV Payment Received Paid By: LaTroya Hamlett -2,078.00 0.00
+(aaclark0612@yahoo.com).
+03/01/22 Rent Charge 2,000.00 2,000.00
+03/01/22 Tenant Benefits A2 36.00 2,036.00
+03/01/22 Renters Choice Program 42.00 2,078.00
+03/03/22 Auto Pay CHK Payment Received Paid By: aaclark0612@yahoo.com. -2,078.00 0.00
+04/01/22 Rent Charge 2,000.00 2,000.00
+04/01/22 Tenant Benefits A2 36.00 2,036.00
+04/01/22 Renters Choice Program 42.00 2,078.00
+04/03/22 Auto Pay CHK Payment Received Paid By: aaclark0612@yahoo.com. -2,078.00 0.00
+05/01/22 Rent Charge 2,000.00 2,000.00
+05/01/22 Tenant Benefits A2 36.00 2,036.00
+05/01/22 Renters Choice Program 42.00 2,078.00
+05/03/22 Auto Pay CHK Payment Received [NSF] R01 Paid By: -2,078.00 0.00
+aaclark0612@yahoo.com.
+05/06/22 Auto Pay CHK NSF Adjustment NSF (5/3/22) Insufficient Funds 2,078.00 2,078.00
+05/09/22 CashPay PaymentPayment Received CashPay Payment -2,078.00 0.00
+06/01/22 Rent Charge 2,000.00 2,000.00
+06/01/22 Tenant Benefits A2 36.00 2,036.00
+06/01/22 Renters Choice Program 42.00 2,078.00
+06/03/22 Auto Pay CHK Payment Received Paid By: aaclark0612@yahoo.com. -2,078.00 0.00
+07/01/22 Rent Charge 2,000.00 2,000.00
+07/01/22 Tenant Benefits A2 36.00 2,036.00
+07/01/22 Renters Choice Program 42.00 2,078.00
+07/03/22 Auto Pay CHK Payment Received [NSF] R01 tenant replaced Paid By: -2,078.00 0.00
+aaclark0612@yahoo.com.
+07/03/22 Web Pay MC Payment Received Paid By: LaTroya Hamlett -2,078.00 -2,078.00
+(aaclark0612@yahoo.com). Auth # -
+821581569672770450
+07/12/22 Auto Pay CHK NSF Adjustment NSF (7/3/22) Insufficient Funds 2,078.00 0.00
+08/01/22 Rent Charge 2,000.00 2,000.00
+08/01/22 Tenant Benefits A2 36.00 2,036.00
+08/01/22 Renters Choice Program 42.00 2,078.00
+08/03/22 Auto Pay MC Payment Received Paid By: aaclark0612@yahoo.com. Auth # -2,078.00 0.00
+- 821054018072585835
+09/01/22 Rent Charge 2,000.00 2,000.00
+09/01/22 Tenant Benefits A2 36.00 2,036.00
+09/01/22 Renters Choice Program 42.00 2,078.00
+09/03/22 Auto Pay CHK Payment Received [NSF] R01 Paid By: -2,078.00 0.00
+aaclark0612@yahoo.com.
+09/05/22 Web Pay MC Payment Received [REFUNDED] Paid By: LaTroya Hamlett -2,078.00 -2,078.00
+(aaclark0612@yahoo.com). Auth # -
+Transactions 03/17/23 4:47 PM Page 1 o8f221318140449re7n9t7m4a6n3ager.com - property management systems rev.12.931
+
+--- Page 2 ---
+
+09/05/22 Web Pay MC Payment Received [REFUNDED] Paid By: LaTroya Hamlett -2,078.00 -2,078.00
+(aaclark0612@yahoo.com). Auth # -
+821318140449797463
+09/05/22 Web Pay MC ePay Refund Adjustment REFUNDED (9/5/22) 2,078.00 0.00
+09/09/22 Auto Pay CHK NSF Adjustment NSF (9/3/22) Insufficient Funds 2,078.00 2,078.00
+09/09/22 Non-Sufficient Funds Fee (9/3/2022) 50.00 2,128.00
+09/09/22 Late Charge 103.90 2,231.90
+09/16/22 Late Charge 120.00 2,351.90
+09/16/22 CashPay PaymentPayment Received CashPay Payment -2,128.00 223.90
+10/01/22 Rent Charge 2,000.00 2,223.90
+10/01/22 Tenant Benefits A2 36.00 2,259.90
+10/01/22 Renters Choice Program 42.00 2,301.90
+10/04/22 Late Charge 100.00 2,401.90
+10/05/22 Posting Fee 35.00 2,436.90
+10/18/22 Eviction Fee 137.87 2,574.77
+10/21/22 Court Filing Fee 75.00 2,649.77
+10/21/22 Late Charge 60.00 2,709.77
+10/21/22 MO - Payment Received -1,000.00 1,709.77
+10/21/22 MO - Payment Received -1,000.00 709.77
+10/21/22 MO - Payment Received -709.77 0.00
+11/01/22 Rent Charge 2,000.00 2,000.00
+11/01/22 Tenant Benefits A2 36.00 2,036.00
+11/01/22 Renters Choice Program 42.00 2,078.00
+11/04/22 Late Charge 100.00 2,178.00
+11/04/22 Posting Fee 35.00 2,213.00
+11/22/22 Eviction Fee 137.87 2,350.87
+11/22/22 Court Filing Fee 75.00 2,425.87
+12/01/22 Rent Charge 2,000.00 4,425.87
+12/01/22 Tenant Benefits A2 36.00 4,461.87
+12/01/22 Renters Choice Program 42.00 4,503.87
+12/04/22 Late Charge 100.00 4,603.87
+01/01/23 Rent Charge 2,000.00 6,603.87
+01/01/23 Tenant Benefits A2 36.00 6,639.87
+01/01/23 Renters Choice Program 42.00 6,681.87
+01/04/23 Late Charge 100.00 6,781.87
+02/01/23 Rent Charge 2,000.00 8,781.87
+02/01/23 Tenant Benefits A2 36.00 8,817.87
+02/01/23 Renters Choice Program 42.00 8,859.87
+02/04/23 Late Charge 400.00 9,259.87
+03/15/23 Make Ready lawn 50.00 9,309.87
+03/15/23 Make Ready 92.01 9,401.88
+03/15/23 Make Ready maintenance including cleaning 2,725.00 12,126.88
+03/15/23 Carpet Cleaning Fee repair plus ozone treatment 952.68 13,079.56
+Transactions 03/17/23 4:47 PM Page 2 of2 rentmanager.com - property management systems rev.12.931

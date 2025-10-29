@@ -1,0 +1,152 @@
+Filename: tenant_ledger-christopher_p_martin_jaclyn_r_holsomback-20241212.pdf
+Method: pdfplumber
+Pages: 3
+Extracted: 2025-10-29T11:30:49.513874
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Tenants:Christopher P. Martin, Jaclyn R. Holsomback
+Mobile:(386) 837-6960
+Unit:--
+Property:344724 - 3447 NE 40th Lane Ocala, FL 34479
+Status:Evict
+Move in date:04/26/2024
+Move out date:11/22/2024
+Lease Expiration:04/25/2025
+Rent:2,300.00
+Deposit Paid:0.00
+Date Payer Description Charges Payments Balance
+0.00
+Starting Balance
+04/06/2024 Application Fee Income 70.00 70.00
+04/06/2024 Jaclyn R. Holsomback Credit Card Payment (Reference #F118-7D90) 70.00 0.00
+04/06/2024 Application Fee Income 70.00 70.00
+04/06/2024 Christopher P. Martin Credit Card Payment (Reference #A0A3-C660) 70.00 0.00
+04/19/2024 Jaclyn R. Holsomback Credit Card Payment (Reference #7976-46F0) 3,360.00 -3,360.00
+04/26/2024 Rent Income - Move In Charge: Rent Income 2,300.00 -1,060.00
+04/26/2024 RBP w/Insurance - Move In Charge: RBP w/Insurance 39.00 -1,021.00
+04/26/2024 Monthly Pet Fee - Move In Charge: Monthly Pet Fee 60.00 -961.00
+04/26/2024 SDWP Fee - Move In Charge: SDRP Fee 59.00 -902.00
+04/26/2024 Non-Refundable Pet Fee - Move In Charge: Non- 650.00 -252.00
+Refundable Pet Fee
+04/26/2024 Lease Modification/Processing Fee - Move In Charge: 250.00 -2.00
+Lease Modification/Processing Fee
+05/01/2024 Rent Income - May 2024 (Prorated) 383.33 381.33
+05/01/2024 RBP w/Insurance - May 2024 (Prorated) 6.50 387.83
+05/01/2024 Monthly Pet Fee - May 2024 (Prorated) 10.00 397.83
+05/01/2024 SDWP Fee - May 2024 (Prorated) 9.83 407.66
+05/01/2024 Christopher P. Martin Credit Card Payment (Reference #6934-3360) 407.66 0.00
+06/01/2024 Rent Income - June 2024 2,300.00 2,300.00
+06/01/2024 RBP w/Insurance - June 2024 39.00 2,339.00
+06/01/2024 Monthly Pet Fee - June 2024 60.00 2,399.00
+06/01/2024 SDWP Fee - June 2024 59.00 2,458.00
+06/04/2024 Late Fee Income - Late Fee for Jun 2024 75.00 2,533.00
+06/05/2024 Notice Posting Fee - 3-Day Prep & Serve Fee - 3-Day 25.00 2,558.00
+Prep & Serve Fee
+06/06/2024 Late Fee Income - Late Fee of $5.00 per day: 06/05/2024 10.00 2,568.00
+- 06/06/2024
+06/06/2024 Christopher P. Martin Credit Card Payment (Reference #B99B-A5F0) 2,568.00 0.00
+07/01/2024 Rent Income - July 2024 2,300.00 2,300.00
+07/01/2024 RBP w/Insurance - July 2024 39.00 2,339.00
+07/01/2024 Monthly Pet Fee - July 2024 60.00 2,399.00
+07/01/2024 SDWP Fee - July 2024 59.00 2,458.00
+07/03/2024 Christopher P. Martin Credit Card Payment (Reference #40AE-1520) 2,458.00 0.00
+08/01/2024 Rent Income - August 2024 2,300.00 2,300.00
+08/01/2024 RBP w/Insurance - August 2024 39.00 2,339.00
+08/01/2024 Monthly Pet Fee - August 2024 60.00 2,399.00
+Created on 12/12/2024 Page 1
+
+--- Page 2 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+08/01/2024 SDWP Fee - August 2024 59.00 2,458.00
+08/04/2024 Late Fee Income - Late Fee for Aug 2024 75.00 2,533.00
+08/05/2024 Notice Posting Fee - 3-Day Prep & Serve Fee - 3-Day 25.00 2,558.00
+Prep & Serve
+08/29/2024 Christopher P. Martin Credit Card Payment (Reference #D350-D110) 2,000.00 558.00
+08/31/2024 Late Fee Income - Late Fee of $5.00 per day: 08/05/2024 135.00 693.00
+- 08/31/2024
+09/01/2024 Rent Income - September 2024 2,300.00 2,993.00
+09/01/2024 RBP w/Insurance - September 2024 39.00 3,032.00
+09/01/2024 Monthly Pet Fee - September 2024 60.00 3,092.00
+09/01/2024 SDWP Fee - September 2024 59.00 3,151.00
+09/04/2024 Late Fee Income - Late Fee for Sep 2024 75.00 3,226.00
+09/05/2024 Notice Posting Fee - 3-Day Prep & Serve Fee - 3-Day 25.00 3,251.00
+Prep & Serve Fee
+09/13/2024 Jaclyn R. Holsomback Credit Card Payment (Reference #45CF-E640) 680.00 2,571.00
+09/30/2024 Late Fee Income - Late Fee of $5.00 per day: 09/05/2024 130.00 2,701.00
+- 09/30/2024
+10/01/2024 Rent Income - October 2024 2,300.00 5,001.00
+10/01/2024 RBP w/Insurance - October 2024 39.00 5,040.00
+10/01/2024 Monthly Pet Fee - October 2024 60.00 5,100.00
+10/01/2024 SDWP Fee - October 2024 59.00 5,159.00
+10/04/2024 Late Fee Income - Late Fee for Oct 2024 75.00 5,234.00
+10/07/2024 Notice Posting Fee - 3-Day Prep & Serve Fee - 3-Day 25.00 5,259.00
+Prep & Serve Fee
+10/31/2024 Late Fee Income - Late Fee of $5.00 per day: 10/05/2024 135.00 5,394.00
+- 10/31/2024
+11/01/2024 Rent Income - November 2024 2,300.00 7,694.00
+11/01/2024 RBP w/Insurance - November 2024 39.00 7,733.00
+11/01/2024 Monthly Pet Fee - November 2024 60.00 7,793.00
+11/01/2024 SDWP Fee - November 2024 59.00 7,852.00
+11/04/2024 Late Fee Income - Late Fee for Nov 2024 75.00 7,927.00
+11/05/2024 Notice Posting Fee - 3-Day Prep & Serve Fee - 3-Day 25.00 7,952.00
+Prep & Serve Fee
+11/20/2024 Late Fee Income - Late Fee of $5.00 per day: 11/05/2024 80.00 8,032.00
+- 11/20/2024
+11/20/2024 Early Termination Fee/Lease Break Fee 4,916.00 12,948.00
+11/20/2024 Utilities - UTILITIES NOT LEFT ON 40.00 12,988.00
+11/20/2024 Eviction Expenses1 802.18 13,790.18
+11/25/2024 Tenant Administrative Fee - Missed Walkthrough 100.00 13,890.18
+Appointment on 11.21.2024
+12/11/2024 Deposit Forfeit - Utilities not left on 40.00 13,930.18
+12/11/2024 Deposit Forfeit - Replace Carpet at downstairs master 600.00 14,530.18
+bedroom- tearing and staining
+12/11/2024 Deposit Forfeit - Cleaning: heavy-(large property): fridge, 650.00 15,180.18
+range, microwave, dish, fronts of cabinets, inside
+cabinets, counters, floors, baseboards, sinks, mirrors,
+bath vanities, toilets, showers, glass shower walls/doors,
+fan blades, windows, fan blad
+12/11/2024 Deposit Forfeit - Remove nails in walls throughout & patch 50.00 15,230.18
+12/11/2024 Deposit Forfeit - Patch misc holes in walls throughout 25.00 15,255.18
+12/11/2024 Deposit Forfeit - Paint 4 walls in downstairs master 250.00 15,505.18
+Bedroom
+Created on 12/12/2024 Page 2
+
+--- Page 3 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+12/11/2024 Deposit Forfeit - Paint 3 walls in downstairs master bath 175.00 15,680.18
+12/11/2024 Deposit Forfeit - Paint 6 walls in living room area 305.00 15,985.18
+12/11/2024 Deposit Forfeit - Paint 3 walls in kitchen 175.00 16,160.18
+12/11/2024 Deposit Forfeit - Paint 1 wall in downstairs half bath 75.00 16,235.18
+12/11/2024 Deposit Forfeit - Paint 3 walls in laundry room 150.00 16,385.18
+12/11/2024 Deposit Forfeit - Paint 3 walls in garage entry area near 165.00 16,550.18
+kitchen
+12/11/2024 Deposit Forfeit - Paint 2 garage walls near entry door 125.00 16,675.18
+12/11/2024 Deposit Forfeit - Paint 5 entry area walls 325.00 17,000.18
+12/11/2024 Deposit Forfeit - Paint 6 stairway walls 650.00 17,650.18
+12/11/2024 Deposit Forfeit - Paint 6 upstairs loft/ hall area walls 325.00 17,975.18
+12/11/2024 Deposit Forfeit - Paint 5 upstairs left bedroom walls 275.00 18,250.18
+12/11/2024 Deposit Forfeit - Paint 2 upstairs left BR closet walls 95.00 18,345.18
+12/11/2024 Deposit Forfeit - Paint 4 jack & jill bath walls 225.00 18,570.18
+12/11/2024 Deposit Forfeit - Paint 4 upstairs middle BR walls 250.00 18,820.18
+12/11/2024 Deposit Forfeit - Paint 1 upstairs master bath wall 75.00 18,895.18
+12/11/2024 Deposit Forfeit - Paint 4 upstairs master BR walls 250.00 19,145.18
+12/11/2024 Deposit Forfeit - Multiple flee treatments 200.00 19,345.18
+12/11/2024 Deposit Forfeit - New air filter 16x20 30.00 19,375.18
+12/11/2024 Deposit Forfeit - New vertical blinds- damaged 170.00 19,545.18
+12/11/2024 Deposit Forfeit - Light bulb at upstairs loft area fan 4.00 19,549.18
+12/11/2024 Deposit Forfeit - Repair tub stopper at upstairs master 35.00 19,584.18
+bath- hair in drain
+12/11/2024 Deposit Forfeit - Repair jack & Jill bath tub stopper 35.00 19,619.18
+12/11/2024 Deposit Forfeit - Program 2 garage remotes- none 150.00 19,769.18
+returned
+12/11/2024 Deposit Forfeit - Did not return keys 100.00 19,869.18
+Total 19,869.18
+Created on 12/12/2024 Page 3

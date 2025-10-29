@@ -1,0 +1,126 @@
+Filename: 4326 Buckhorn Bayou - Ledger - Pendergraft.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:18:09.764207
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Date Range:all time
+Lease:equals 4326 Buckhorn Bayou - 4326 Buckhorn Bayou, San Antonio, TX 78245 (Seth Pendergraft, Donya Pendergraft, ...)
+Company:RentWerx
+Unit:4326 Buckhorn Bayou, San Antonio, TX 78245
+Lease Status:Closed - Itemization Complete
+Tenants:Seth Pendergraft, Donya Pendergraft
+Phones:(417) 631-2818, (417) 569-4022
+Move In Date:4-21-2023
+Move Out Date:11-30-2023
+Lease End Date:4-30-2024
+Rent Amount:$1,900.00
+Deposit Balance:$0.00
+85 Record(s) as of 6-24-2024 10:49 am
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+06-07-2024 NSF Fee - Returned Payment - NSF Fee $85.00 $14,021.16
+06-07-2024 Payment Return / NSF (Reference: ) - Tenant chargeback on PTP funds pulled - in violation of lease agreement (Pendergraft $1900) $-1,900.00 $13,936.16
+05-31-2024 Seth Pendergraft Other Payment (Reference: Pull funds per lease agreement PTP (Pendergraft $1900)) $1,900.00 $12,036.16
+05-31-2024 Itemization Fee - Itemization Fee $95.00 $13,936.16
+05-31-2024 Make Ready Repairs - Make Ready Repairs $1,740.20 $13,841.16
+04-01-2024 Administrative Pet Fee - Administrative Pet Fee (04-2024) $60.00 $12,100.96
+04-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (04-2024) $33.00 $12,040.96
+04-01-2024 Resident Benefit Package ($59) - Resident Benefit Package ($59) (04-2024) $41.00 $12,007.96
+04-01-2024 Rent - Prorated Rent (04/01/2024) $63.33 $11,966.96
+03-22-2024 Utilities - Utilities - CPS 2/9 - 3/8 2024 $23.26 $11,903.63
+03-19-2024 Water - Water - SAWS 2/1 - 3/1 2024 $47.64 $11,880.37
+03-05-2024 Late Fee - Late Fee $228.00 $11,832.73
+03-01-2024 Administrative Pet Fee - Administrative Pet Fee (03-2024) $60.00 $11,604.73
+03-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (03-2024) $33.00 $11,544.73
+03-01-2024 Resident Benefit Package ($59) - Resident Benefit Package ($59) (03-2024) $41.00 $11,511.73
+03-01-2024 Rent - Rent (03-2024) $1,900.00 $11,470.73
+02-26-2024 Utilities - Utilities - CPS 1/10 - 2/8 2024 $43.99 $9,570.73
+02-15-2024 Water - Water - SAWS 12/29/23 - 1/31/24 $50.09 $9,526.74
+1 of 4
+
+--- Page 2 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+02-05-2024 Late Fee - Late Fee $228.00 $9,476.65
+02-01-2024 Administrative Pet Fee - Administrative Pet Fee (02-2024) $60.00 $9,248.65
+02-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (02-2024) $33.00 $9,188.65
+02-01-2024 Resident Benefit Package ($59) - Resident Benefit Package ($59) (02-2024) $41.00 $9,155.65
+02-01-2024 Rent - Rent (02-2024) $1,900.00 $9,114.65
+01-25-2024 Utilities - Utilities - CPS 12/12/23-1/9/24 $32.81 $7,214.65
+01-19-2024 Water - Water - SAWS 12/11-12/28 2023 $49.84 $7,181.84
+01-05-2024 Late Fee - Late Fee $228.00 $7,132.00
+01-01-2024 Administrative Pet Fee - Administrative Pet Fee (01-2024) $60.00 $6,904.00
+01-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (01-2024) $33.00 $6,844.00
+01-01-2024 Resident Benefit Package ($59) - Resident Benefit Package ($59) (01-2024) $41.00 $6,811.00
+01-01-2024 Rent - Rent (01-2024) $1,900.00 $6,770.00
+12-05-2023 Late Fee - Late Fee $228.00 $4,870.00
+12-01-2023 Administrative Pet Fee - Administrative Pet Fee (12-2023) $60.00 $4,642.00
+12-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (12-2023) $33.00 $4,582.00
+12-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (12-2023) $41.00 $4,549.00
+12-01-2023 Rent - Rent (12-2023) $1,900.00 $4,508.00
+11-07-2023 Notice Delivery Fee - Notice Delivery Fee - November 2023 $100.00 $2,608.00
+11-05-2023 Late Fee - Late Fee $228.00 $2,508.00
+11-01-2023 Administrative Pet Fee - Administrative Pet Fee (11-2023) $60.00 $2,280.00
+11-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (11-2023) $33.00 $2,220.00
+11-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (11-2023) $59.00 $2,187.00
+11-01-2023 Rent - Rent (11-2023) $1,900.00 $2,128.00
+10-11-2023 Late Fee - Late Fee 12% $228.00 $228.00
+10-06-2023 Donya Pendergraft eCheck Payment (Reference: trn_36ef86ca-7aa1-4df0-abe8-3add4337db0d) - Resident Portal Payment $684.15 $0.00
+10-06-2023 Payment Return / NSF (Reference: return_trn_e7a629b0-ee18-4695-b47e-0f72062e56a8) - eCheck Return $-684.15 $684.15
+2 of 4
+
+--- Page 3 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+10-04-2023 Donya Pendergraft eCheck Payment (Reference: trn_e7a629b0-ee18-4695-b47e-0f72062e56a8) - Resident Portal Payment $684.15 $0.00
+10-04-2023 Donya Pendergraft eCheck Payment (Reference: trn_4aeaf63d-071c-40d3-a072-f5c9fddfb7d3) - Resident Portal Payment $1,367.85 $684.15
+10-01-2023 Administrative Pet Fee - Administrative Pet Fee (10-2023) $60.00 $2,052.00
+10-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (10-2023) $33.00 $1,992.00
+10-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (10-2023) $59.00 $1,959.00
+10-01-2023 Rent - Rent (10-2023) $1,900.00 $1,900.00
+09-01-2023 Administrative Pet Fee - Administrative Pet Fee (09-2023) $60.00 $0.00
+09-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (09-2023) $33.00 $-60.00
+09-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (09-2023) $59.00 $-93.00
+09-01-2023 Rent - Rent (09-2023) $1,900.00 $-152.00
+09-01-2023 Donya Pendergraft eCheck Payment (Reference: trn_62bc7542-a358-4708-b94c-7c47f2a28708) - Resident Portal Payment $2,052.00 $-2,052.00
+08-04-2023 Donya Pendergraft eCheck Payment (Reference: trn_8a577cc1-ce9e-416c-b0ed-784efe361c74) - Resident Portal Payment $752.00 $0.00
+08-01-2023 Donya Pendergraft Credit Card Payment (Reference: trn_6e339498-91e6-4010-b116-3990339ca323) - Resident Portal Payment $1,300.00 $752.00
+08-01-2023 Administrative Pet Fee - Administrative Pet Fee (08-2023) $60.00 $2,052.00
+08-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (08-2023) $33.00 $1,992.00
+08-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (08-2023) $59.00 $1,959.00
+08-01-2023 Rent - Rent (08-2023) $1,900.00 $1,900.00
+07-01-2023 Administrative Pet Fee - Administrative Pet Fee (07-2023) $60.00 $0.00
+07-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (07-2023) $33.00 $-60.00
+07-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (07-2023) $59.00 $-93.00
+07-01-2023 Rent - Rent (07-2023) $1,900.00 $-152.00
+06-30-2023 Donya Pendergraft eCheck Payment (Reference: trn_f0f78f45-fe83-40d4-a79f-7be0c6d117cd) - Resident Portal Payment $2,052.00 $-2,052.00
+06-01-2023 Donya Pendergraft eCheck Payment (Reference: trn_d7315e07-5c09-49fd-acfd-06d7b4ac7082) - Resident Portal Payment $2,052.00 $0.00
+06-01-2023 Administrative Pet Fee - Administrative Pet Fee (06-2023) $60.00 $2,052.00
+06-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (06-2023) $33.00 $1,992.00
+06-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (06-2023) $59.00 $1,959.00
+3 of 4
+
+--- Page 4 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+06-01-2023 Rent - Rent (06-2023) $1,900.00 $1,900.00
+05-01-2023 Administrative Pet Fee - Administrative Pet Fee (05-2023) $60.00 $0.00
+05-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (05-2023) $33.00 $-60.00
+05-01-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) (05-2023) $59.00 $-93.00
+05-01-2023 Rent - Rent (05-2023) $1,900.00 $-152.00
+05-01-2023 Donya Pendergraft eCheck Payment (Reference: trn_42932e68-f14d-4bca-93d2-f5bf5df048a6) - Resident Portal Payment $2,052.00 $-2,052.00
+04-21-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee $33.00 $0.00
+04-21-2023 Move in Orientation - Move in Orientation $125.00 $-33.00
+04-21-2023 Lease Preparation - Lease Preparation $295.00 $-158.00
+04-21-2023 Risk Mitigation Fee - Risk Mitigation Fee $1,000.00 $-453.00
+04-21-2023 Resident Benefit Package ($59) - Resident Benefit Package ($59) $59.00 $-1,453.00
+04-21-2023 Pet Processing Fee - Pet Processing Fee $100.00 $-1,512.00
+04-21-2023 Administrative Pet Fee - Administrative Pet Fee $60.00 $-1,612.00
+04-21-2023 Rent - Rent Income $633.33 $-1,672.00
+04-21-2023 Seth Pendergraft Money Order Payment (Reference: 9160003356) $2,305.33 $-2,305.33
+STARTING BALANCE $0.00
+4 of 4

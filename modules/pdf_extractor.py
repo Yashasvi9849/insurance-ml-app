@@ -117,12 +117,6 @@ class PDFExtractor:
     def _extract_with_pdfplumber(self, pdf_path: Path) -> Optional[ExtractedDocument]:
         """
         Extract text using pdfplumber (best for modern PDFs)
-        
-        Args:
-            pdf_path: Path to PDF
-            
-        Returns:
-            ExtractedDocument or None
         """
         try:
             text_content = []
@@ -133,13 +127,11 @@ class PDFExtractor:
                 page_count = len(pdf.pages)
                 
                 for page_num, page in enumerate(pdf.pages, 1):
-                    # Extract text
                     page_text = page.extract_text()
                     if page_text:
                         text_content.append(f"\n--- Page {page_num} ---\n")
                         text_content.append(page_text)
                     
-                    # Extract tables
                     page_tables = page.extract_tables()
                     if page_tables:
                         for table_idx, table in enumerate(page_tables):
@@ -172,12 +164,6 @@ class PDFExtractor:
     def _extract_with_pypdf2(self, pdf_path: Path) -> Optional[ExtractedDocument]:
         """
         Extract text using PyPDF2 (fallback method)
-        
-        Args:
-            pdf_path: Path to PDF
-            
-        Returns:
-            ExtractedDocument or None
         """
         try:
             text_content = []
@@ -214,15 +200,8 @@ class PDFExtractor:
     def _extract_with_ocr(self, pdf_path: Path) -> Optional[ExtractedDocument]:
         """
         Extract text using OCR (for scanned/image-based PDFs)
-        
-        Args:
-            pdf_path: Path to PDF
-            
-        Returns:
-            ExtractedDocument or None
         """
         try:
-            # Convert PDF to images
             images = convert_from_path(pdf_path, dpi=300)
             page_count = len(images)
             
@@ -230,14 +209,11 @@ class PDFExtractor:
             
             for page_num, image in enumerate(images, 1):
                 logger.debug(f"Running OCR on page {page_num}/{page_count}")
-                
-                # Run OCR
                 page_text = pytesseract.image_to_string(
                     image, 
                     lang=self.ocr_language,
-                    config='--psm 6'  # Assume uniform text block
+                    config='--psm 6'
                 )
-                
                 if page_text.strip():
                     text_content.append(f"\n--- Page {page_num} ---\n")
                     text_content.append(page_text)
@@ -254,7 +230,7 @@ class PDFExtractor:
                 page_count=page_count,
                 extracted_at=datetime.now().isoformat(),
                 file_size_kb=pdf_path.stat().st_size / 1024,
-                extraction_confidence=0.7  # Lower confidence for OCR
+                extraction_confidence=0.7
             )
             
         except Exception as e:
@@ -263,23 +239,16 @@ class PDFExtractor:
     
     def batch_extract(self, pdf_directory: str, output_directory: str = None) -> List[ExtractedDocument]:
         """
-        Extract text from all PDFs in a directory
-        
-        Args:
-            pdf_directory: Directory containing PDFs
-            output_directory: Optional directory to save extracted text
-            
-        Returns:
-            List of ExtractedDocument objects
+        Extract text from all PDFs in a directory (supports nested folders)
         """
         pdf_dir = Path(pdf_directory)
-        pdf_files = list(pdf_dir.glob("*.pdf"))
+        pdf_files = list(pdf_dir.rglob("*.pdf"))
         
         if not pdf_files:
             logger.warning(f"No PDF files found in {pdf_directory}")
             return []
         
-        logger.info(f"📚 Found {len(pdf_files)} PDF files")
+        logger.info(f"📚 Found {len(pdf_files)} PDF files (including nested folders)")
         logger.info("=" * 60)
         
         results = []
@@ -289,12 +258,9 @@ class PDFExtractor:
             if result:
                 results.append(result)
                 self.stats['total_processed'] += 1
-                
-                # Optionally save extracted text
                 if output_directory:
                     self._save_extracted_text(result, output_directory)
         
-        # Print summary
         self._print_summary()
         
         return results
@@ -330,17 +296,10 @@ class PDFExtractor:
 
 # Example usage
 if __name__ == "__main__":
-    # Test extraction
     extractor = PDFExtractor(use_ocr=True)
     
-    # Single file
-    # result = extractor.extract_pdf("data/raw_pdfs/sample.pdf")
-    # if result:
-    #     print(result.full_text[:500])
-    
-    # Batch extraction
     documents = extractor.batch_extract(
-        pdf_directory="data/raw_pdfs/my_docs",
+        pdf_directory="data/raw_pdfs",
         output_directory="data/processed/extracted_text"
     )
     

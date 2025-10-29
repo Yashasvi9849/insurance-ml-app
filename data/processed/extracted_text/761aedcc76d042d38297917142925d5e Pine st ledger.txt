@@ -1,0 +1,306 @@
+Filename: 761aedcc76d042d38297917142925d5e Pine st ledger.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:12:19.949679
+============================================================
+
+
+--- Page 1 ---
+
+3/2/23, 1:25 PM Propertyware - On Demand Real Estate Solution
+New Heights PM
+Lease: Glenn - GEORGES
+Contact: L'Mont Glenn
+Contact: PAULA GEORGES
+Property Address: 115 W Pine St
+Summerville,SC 29485-7126
+Balance as of 03/02/2023 Prepayments Total Unpaid Deposit Held
+$6,150.98 $0.00 $6,150.98 $0.00
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+5060 - Legal and
+Unpaid
+03/01/2023 Professional : Feb $279.37 $6,150.98
+Charge
+2023 eviction
+Unpaid 4010 - Maintenance
+02/21/2023 $200.00 $5,871.61
+Charge Coordinatio...
+Unpaid 5018 - Move-out
+02/21/2023 $1,135.00 $5,671.61
+Charge Repair : TJ8FDQF
+4345 - Late
+Unpaid
+02/16/2023 Fee:Late Fee $100.00 $4,536.61
+Charge
+(Manu...
+4340 - Late Fee :
+Unpaid Calculated on
+02/06/2023 $160.00 $4,436.61
+Charge 02/06/2023 5:03 AM
+by system
+Unpaid
+02/01/2023 4038 - RBP with Ins $39.00 $4,276.61
+Charge
+Unpaid 4037 - SDRP
+02/01/2023 $58.00 $4,237.61
+Charge Monthly Premium
+Unpaid
+02/01/2023 4000 - Rent $1,600.00 $4,179.61
+Charge
+4345 - Late
+Unpaid
+01/17/2023 Fee:Late Fee $100.00 $2,579.61
+Charge
+(Manu...
+4340 - Late Fee :
+Unpaid Calculated on
+01/07/2023 $160.00 $2,479.61
+Charge 01/07/2023 5:02 AM
+by system
+Unpaid
+01/01/2023 4038 - RBP with Ins $39.00 $2,319.61
+Charge
+Unpaid 4037 - SDRP
+01/01/2023 $58.00 $2,280.61
+Charge Monthly Premium
+Unpaid
+01/01/2023 4000 - Rent $1,600.00 $2,222.61
+Charge
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 1/4
+
+--- Page 2 ---
+
+3/2/23, 1:25 PM Propertyware - On Demand Real Estate Solution
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+4460 - Fee For
+Unpaid Returned Paymen...
+12/21/2022 $45.00 $622.61
+Charge : Epayment
+Returned
+Returned Returned
+Returned Payment
+Payment 12/21/2022 Payment ($250.00) $577.61
+Adjustment
+Adjustment Adjustment
+4460 - Fee For
+Unpaid Returned Paymen...
+12/20/2022 $45.00 $327.61
+Charge : Epayment
+Returned
+Returned Returned
+Returned Payment
+Payment 12/20/2022 Payment ($529.61) $282.61
+Adjustment
+Adjustment Adjustment
+Payment of $26.39
+applied to [12/01/22,
+acct 4000, $300.00]
+and $220.61 applied
+to [12/01/22, acct PAULA
+Deposited
+4000, $220.61] and VIRGINIA
+Payment 12/16/2022 8VCV86CPLA2 12/16/2022 $250.00 ($247.00)
+$3.00 applied to GEORGES-
+(Returned)
+[12/16/22, acct Paula
+4202,
+$3.00]/Returned
+NSF - R01
+Insufficient Funds
+4202 - Convenience
+Unpaid
+12/16/2022 Fee : Convenience $3.00 $3.00
+Charge
+Fee
+Returned Returned
+Returned Payment
+Payment 12/16/2022 Payment ($303.00) $0.00
+Adjustment
+Adjustment Adjustment
+Returned Returned
+Returned Payment
+Payment 12/16/2022 Payment ($223.61) ($303.00)
+Adjustment
+Adjustment Adjustment
+Payment of $3.00
+applied to [12/15/22,
+acct 4202, $3.00]
+and $300.00 applied
+to [12/01/22, acct
+4000, $300.00] and
+$220.61 applied to
+[12/01/22, acct PAULA
+Deposited
+4000, $220.61] and VIRGINIA
+Payment 12/15/2022 XPLP86CPLA1 12/15/2022 $529.61 ($526.61)
+$3.00 applied to GEORGES-
+(Returned)
+[12/10/22, acct Paula
+4202, $3.00] and
+$3.00 applied to
+[12/10/22, acct
+4202,
+$3.00]/Returned
+NSF - R01
+Insufficient Funds
+4202 - Convenience
+Unpaid
+12/15/2022 Fee : Convenience $3.00 $3.00
+Charge
+Fee
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 2/4
+
+--- Page 3 ---
+
+3/2/23, 1:25 PM Propertyware - On Demand Real Estate Solution
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Payment of $361.39
+applied to [12/01/22,
+acct 4000,
+$1,600.00]/One PAULA
+Settled Time ePayment VIRGINIA
+12/10/2022 SS7186CPLA7 12/10/2022 $361.39 $0.00
+ePayment received from GEORGES-
+PAULA VIRGINIA Chime
+GEORGES, Paid
+from Chime account
+Payment of $3.00
+applied to [12/10/22,
+acct 4202, $3.00]
+PAULA
+Deposited and $220.61 applied
+VIRGINIA
+Payment 12/10/2022 BPRZ76CPLA4 to [12/01/22, acct 12/15/2022 $223.61 $361.39
+GEORGES-
+(Returned) 4000,
+Chime
+$1,600.00]/Returned
+Bad Account - R16
+Account Frozen
+4202 - Convenience
+Unpaid
+12/10/2022 Fee : Convenience $3.00 $585.00
+Charge
+Fee
+Payment of $39.00
+applied to [12/01/22,
+acct 4038, $39.00]
+and $58.00 applied
+to [12/01/22, acct
+4037, $58.00] and
+$135.00 applied to
+[12/06/22, acct
+4340, $135.00] and
+$3.00 applied to
+L'Mont A
+Settled [12/10/22, acct
+12/10/2022 F1SC76CPLA5 Glenn- 12/15/2022 $403.00 $582.00
+ePayment 4202, $3.00] and
+Saymunttwice
+$168.00 applied to
+[12/01/22, acct
+4000,
+$1,600.00]/One
+Time ePayment
+received from
+L'Mont A Glenn,
+Paid from
+Saymunttwice
+account
+4202 - Convenience
+Paid Charge 12/10/2022 Fee : Convenience $3.00 $985.00
+Fee
+Payment of $300.00
+applied to [12/01/22,
+acct 4000,
+$1,600.00] and
+$3.00 applied to
+L'Mont A
+Settled [12/10/22, acct
+12/10/2022 ZQSR76CPLA2 Glenn-One 12/15/2022 $303.00 $982.00
+ePayment 4202, $3.00]/One
+card
+Time ePayment
+received from
+L'Mont A Glenn,
+Paid from One card
+account
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 3/4
+
+--- Page 4 ---
+
+3/2/23, 1:25 PM Propertyware - On Demand Real Estate Solution
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+4202 - Convenience
+Paid Charge 12/10/2022 Fee : Convenience $3.00 $1,285.00
+Fee
+Payment of $300.00
+applied to [12/01/22,
+acct 4000,
+$1,600.00] and PAULA
+Deposited
+$3.00 applied to VIRGINIA
+Payment 12/10/2022 GQ8186CPLA7 12/15/2022 $303.00 $1,282.00
+[12/10/22, acct GEORGES-
+(Returned)
+4202, Chime
+$3.00]/Returned
+Bad Account - R16
+Account Frozen
+4202 - Convenience
+Unpaid
+12/10/2022 Fee : Convenience $3.00 $1,585.00
+Charge
+Fee
+4340 - Late Fee :
+Calculated on
+Paid Charge 12/06/2022 $135.00 $1,582.00
+12/06/2022 5:04 AM
+by system
+Paid Charge 12/01/2022 4038 - RBP with Ins $39.00 $1,447.00
+4037 - SDRP
+Paid Charge 12/01/2022 $58.00 $1,408.00
+Monthly Premium
+Partially
+12/01/2022 4000 - Rent $1,600.00 $1,350.00
+Paid Charge
+Paid Charge 11/10/2022 4038 - RBP with Ins $39.00 ($250.00)
+4037 - SDRP
+Paid Charge 11/10/2022 $58.00 ($289.00)
+Monthly Premium
+Paid Charge 11/10/2022 4000 - Rent $1,600.00 ($347.00)
+Payment of $250.00
+applied to [12/01/22,
+acct 4000,
+$1,600.00] and
+$39.00 applied to
+[11/10/22, acct
+4038, $39.00] and
+Deposited L'Mont A
+11/04/2022 22-021635946 $58.00 applied to 11/07/2022 $947.00 ($1,947.00)
+Payment Glenn
+[11/10/22, acct
+4037, $58.00] and
+$600.00 applied to
+[11/10/22, acct
+4000,
+$1,600.00]/First
+months rent
+Payment of
+$1,000.00 applied to
+Deposited [11/10/22, acct L'Mont A
+11/04/2022 22-021635945 11/07/2022 $1,000.00 ($1,000.00)
+Payment 4000, Glenn
+$1,600.00]/First
+months rent
+Copyright © Propertyware® 2003-2023. All rights reserved.
+Various trademarks held by their respective owners.
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 4/4

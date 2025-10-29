@@ -7,6 +7,7 @@ from datetime import datetime
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 import joblib
+from tqdm import tqdm
 
 import sys
 sys.path.append(str(Path(__file__).parent.parent))
@@ -28,11 +29,15 @@ class DataProcessor:
     def load_data(self, csv_path: str) -> pd.DataFrame:
         logger.info(f"Loading data from: {csv_path}")
         df = pd.read_csv(csv_path)
-        logger.info(f"Loaded {len(df)} records with {len(df.columns)} columns")
+        logger.info(f"✅ Loaded {len(df)} records with {len(df.columns)} columns")
+        
+        memory_usage_mb = df.memory_usage(deep=True).sum() / 1024**2
+        logger.info(f"📊 Memory usage: {memory_usage_mb:.2f} MB")
+        
         return df
     
     def clean_data(self, df: pd.DataFrame) -> pd.DataFrame:
-        logger.info("Cleaning data...")
+        logger.info("🧹 Cleaning data...")
         
         df_clean = df.copy()
         
@@ -40,7 +45,7 @@ class DataProcessor:
         df_clean = self._handle_outliers(df_clean)
         df_clean = self._convert_data_types(df_clean)
         
-        logger.info(f"Data cleaned: {len(df_clean)} records remaining")
+        logger.info(f"✅ Data cleaned: {len(df_clean)} records remaining (removed {len(df) - len(df_clean)})")
         return df_clean
     
     def _handle_missing_values(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -50,36 +55,63 @@ class DataProcessor:
         if self.feature_config.TARGET in numeric_features:
             numeric_features.remove(self.feature_config.TARGET)
         
-        for col in numeric_features:
+        filled_count = 0
+        for col in tqdm(numeric_features, desc="Filling numeric", disable=len(numeric_features) < 20):
             if df[col].isnull().sum() > 0:
                 median_value = df[col].median()
-                df[col].fillna(median_value, inplace=True)
-                logger.debug(f"Filled {col} with median: {median_value}")
+                if pd.notna(median_value):
+                    df[col] = df[col].fillna(median_value)
+                    filled_count += 1
+                    logger.debug(f"Filled {col} with median: {median_value:.2f}")
+                else:
+                    df[col] = df[col].fillna(0)
+                    filled_count += 1
+                    logger.debug(f"Filled {col} with 0 (no valid median)")
         
         categorical_features = df.select_dtypes(include=['object', 'bool']).columns.tolist()
+        exclude_cats = ['filename', 'tracking_number', 'pm_explanation', 'hold_reason', 'missing_fields']
+        categorical_features = [col for col in categorical_features if col not in exclude_cats]
+        
         for col in categorical_features:
             if df[col].isnull().sum() > 0:
-                df[col].fillna('Unknown', inplace=True)
+                df[col] = df[col].fillna('Unknown')
+                filled_count += 1
                 logger.debug(f"Filled {col} with 'Unknown'")
         
+        logger.info(f"✅ Filled {filled_count} features with missing values")
         return df
     
     def _handle_outliers(self, df: pd.DataFrame) -> pd.DataFrame:
         logger.info("Handling outliers...")
         
+        if len(df) <= 10:
+            logger.warning(f"⚠️  Only {len(df)} samples - skipping outlier removal")
+            return df
+        
         numeric_cols = ['monthly_rent', 'amount_of_claim', 'approved_benefit_amount']
         
+        total_removed = 0
         for col in numeric_cols:
-            if col in df.columns and df[col].notna().sum() > 0:
-                Q1 = df[col].quantile(0.01)
-                Q3 = df[col].quantile(0.99)
+            if col in df.columns and df[col].notna().sum() > 3:
+                Q1 = df[col].quantile(0.05)
+                Q3 = df[col].quantile(0.95)
+                IQR = Q3 - Q1
+                
+                lower_bound = Q1 - 3 * IQR
+                upper_bound = Q3 + 3 * IQR
                 
                 original_count = len(df)
-                df = df[(df[col] >= Q1) & (df[col] <= Q3) | df[col].isna()]
+                df = df[(df[col] >= lower_bound) & (df[col] <= upper_bound) | df[col].isna()]
                 removed = original_count - len(df)
                 
                 if removed > 0:
-                    logger.debug(f"Removed {removed} outliers from {col}")
+                    total_removed += removed
+                    logger.info(f"   {col}: Removed {removed} outliers (bounds: ${lower_bound:.0f} - ${upper_bound:.0f})")
+        
+        if total_removed > 0:
+            logger.info(f"✅ Total outliers removed: {total_removed}")
+        else:
+            logger.info(f"✅ No outliers detected")
         
         return df
     
@@ -96,10 +128,11 @@ class DataProcessor:
             if col in df.columns:
                 df[col] = pd.to_datetime(df[col], errors='coerce')
         
+        logger.info(f"✅ Data types converted")
         return df
     
     def engineer_features(self, df: pd.DataFrame) -> pd.DataFrame:
-        logger.info("Engineering additional features...")
+        logger.info("⚙️  Engineering additional features...")
         
         df_eng = df.copy()
         
@@ -119,11 +152,11 @@ class DataProcessor:
         
         df_eng['total_fees'] = df_eng[['late_fees_total', 'repair_costs_total', 'legal_fees_total', 'admin_fees_total']].fillna(0).sum(axis=1)
         
-        logger.info(f"Added engineered features. Total columns: {len(df_eng.columns)}")
+        logger.info(f"✅ Added engineered features. Total columns: {len(df_eng.columns)}")
         return df_eng
     
     def encode_categorical(self, df: pd.DataFrame, fit: bool = True) -> pd.DataFrame:
-        logger.info("Encoding categorical features...")
+        logger.info("🔢 Encoding categorical features...")
         
         df_encoded = df.copy()
         
@@ -132,7 +165,12 @@ class DataProcessor:
         exclude_cols = ['filename', 'pm_explanation', 'hold_reason', 'missing_fields']
         categorical_cols = [col for col in categorical_cols if col not in exclude_cols]
         
-        for col in categorical_cols:
+        for col in tqdm(categorical_cols, desc="Encoding", disable=len(categorical_cols) < 10):
+            unique_count = df_encoded[col].nunique()
+            
+            if unique_count > 100:
+                logger.warning(f"⚠️  {col} has {unique_count} unique values - might cause issues")
+            
             if fit:
                 self.label_encoders[col] = LabelEncoder()
                 df_encoded[col] = self.label_encoders[col].fit_transform(df_encoded[col].astype(str))
@@ -144,11 +182,11 @@ class DataProcessor:
                     self.label_encoders[col] = LabelEncoder()
                     df_encoded[col] = self.label_encoders[col].fit_transform(df_encoded[col].astype(str))
         
-        logger.info(f"Encoded {len(categorical_cols)} categorical features")
+        logger.info(f"✅ Encoded {len(categorical_cols)} categorical features")
         return df_encoded
     
     def prepare_features(self, df: pd.DataFrame) -> Tuple[pd.DataFrame, pd.Series]:
-        logger.info("Preparing features for modeling...")
+        logger.info("📋 Preparing features for modeling...")
         
         target_col = self.feature_config.TARGET
         
@@ -160,7 +198,7 @@ class DataProcessor:
         if len(df_valid) == 0:
             raise ValueError(f"No valid target values found in '{target_col}'")
         
-        logger.info(f"Valid samples with target: {len(df_valid)}/{len(df)}")
+        logger.info(f"✅ Valid samples with target: {len(df_valid)}/{len(df)} ({len(df_valid)/len(df)*100:.1f}%)")
         
         exclude_cols = [
             target_col,
@@ -174,7 +212,8 @@ class DataProcessor:
             'approval_date',
             'lease_start_date',
             'lease_end_date',
-            'move_out_date'
+            'move_out_date',
+            'is_estimated'
         ]
         
         feature_cols = [col for col in df_valid.columns if col not in exclude_cols]
@@ -184,16 +223,16 @@ class DataProcessor:
         
         X = X.select_dtypes(include=[np.number])
         
-        logger.info(f"Feature matrix shape: {X.shape}")
-        logger.info(f"Target variable shape: {y.shape}")
-        logger.info(f"Features used: {list(X.columns)}")
+        logger.info(f"📊 Feature matrix shape: {X.shape}")
+        logger.info(f"📊 Target variable shape: {y.shape}")
+        logger.info(f"📊 Features used: {len(X.columns)}")
         
         self.feature_names = list(X.columns)
         
         return X, y
     
     def scale_features(self, X: pd.DataFrame, fit: bool = True) -> pd.DataFrame:
-        logger.info("Scaling features...")
+        logger.info("⚖️  Scaling features...")
         
         if fit:
             X_scaled = pd.DataFrame(
@@ -208,34 +247,47 @@ class DataProcessor:
                 index=X.index
             )
         
-        logger.info("Feature scaling complete")
+        logger.info("✅ Feature scaling complete")
         return X_scaled
     
     def split_data(self, X: pd.DataFrame, y: pd.Series) -> Tuple[pd.DataFrame, pd.DataFrame, pd.Series, pd.Series]:
-        logger.info("Splitting data into train and test sets...")
+        logger.info("✂️  Splitting data into train and test sets...")
+        
+        if len(X) < 3:
+            logger.warning(f"⚠️  Only {len(X)} samples - using all for training, no test set")
+            return X, X.iloc[:0], y, y.iloc[:0]
+        
+        test_size = self.model_config.TEST_SIZE
+        
+        if len(X) * test_size < 1:
+            test_size = 1.0 / len(X)
+            logger.warning(f"Adjusted test_size to {test_size:.2f} due to small dataset")
         
         X_train, X_test, y_train, y_test = train_test_split(
             X, y,
-            test_size=self.model_config.TEST_SIZE,
-            random_state=self.model_config.RANDOM_STATE
+            test_size=test_size,
+            random_state=self.model_config.RANDOM_STATE,
+            stratify=None
         )
         
-        logger.info(f"Train set: {len(X_train)} samples")
-        logger.info(f"Test set: {len(X_test)} samples")
+        logger.info(f"✅ Train set: {len(X_train)} samples ({len(X_train)/len(X)*100:.1f}%)")
+        logger.info(f"✅ Test set: {len(X_test)} samples ({len(X_test)/len(X)*100:.1f}%)")
         
         return X_train, X_test, y_train, y_test
     
     def save_preprocessor(self, filename: str = "preprocessor.pkl"):
         save_path = MODELS_DIR / filename
+        MODELS_DIR.mkdir(parents=True, exist_ok=True)
         
         preprocessor_data = {
             'scaler': self.scaler,
             'label_encoders': self.label_encoders,
-            'feature_names': self.feature_names
+            'feature_names': self.feature_names,
+            'timestamp': datetime.now().isoformat()
         }
         
         joblib.dump(preprocessor_data, save_path)
-        logger.info(f"Preprocessor saved to: {save_path}")
+        logger.info(f"💾 Preprocessor saved to: {save_path}")
     
     def load_preprocessor(self, filename: str = "preprocessor.pkl"):
         load_path = MODELS_DIR / filename
@@ -249,13 +301,13 @@ class DataProcessor:
         self.label_encoders = preprocessor_data['label_encoders']
         self.feature_names = preprocessor_data['feature_names']
         
-        logger.info(f"Preprocessor loaded from: {load_path}")
+        logger.info(f"📂 Preprocessor loaded from: {load_path}")
     
     def process_pipeline(self, csv_path: str, save_preprocessor: bool = True) -> Tuple[pd.DataFrame, pd.DataFrame, pd.Series, pd.Series]:
         
-        logger.info("="*60)
-        logger.info("DATA PREPROCESSING PIPELINE")
-        logger.info("="*60)
+        print("\n" + "="*80)
+        print("DATA PREPROCESSING PIPELINE - PRODUCTION MODE")
+        print("="*80 + "\n")
         
         df = self.load_data(csv_path)
         
@@ -275,9 +327,14 @@ class DataProcessor:
         if save_preprocessor:
             self.save_preprocessor()
         
-        logger.info("="*60)
-        logger.info("PREPROCESSING COMPLETE")
-        logger.info("="*60)
+        print("\n" + "="*80)
+        print("✅ PREPROCESSING COMPLETE")
+        print("="*80)
+        print(f"Training samples: {len(X_train)}")
+        print(f"Test samples: {len(X_test)}")
+        print(f"Features: {X_train.shape[1]}")
+        print(f"Target range: ${y_train.min():.2f} - ${y_train.max():.2f}")
+        print("="*80 + "\n")
         
         return X_train, X_test, y_train, y_test
 
@@ -286,10 +343,10 @@ if __name__ == "__main__":
     processor = DataProcessor()
     
     X_train, X_test, y_train, y_test = processor.process_pipeline(
-        csv_path="data/processed/extracted_features.csv"
+        csv_path="data/processed/extracted_features_fixed.csv"
     )
     
-    print(f"\nTraining data ready:")
+    print(f"\n📊 Training data ready:")
     print(f"X_train shape: {X_train.shape}")
     print(f"X_test shape: {X_test.shape}")
     print(f"y_train shape: {y_train.shape}")

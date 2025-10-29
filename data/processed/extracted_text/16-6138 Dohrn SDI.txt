@@ -1,0 +1,43 @@
+Filename: 16-6138 Dohrn SDI.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:12:34.772162
+============================================================
+
+
+--- Page 1 ---
+
+Security Deposit Itemization - Move Out
+Property Name: AJC Rental Address: 6138 Chapel Ridge Way
+Name of Resident(s): Trisha Dohrn Notice Date: 05/15/24
+Move Out Date: 07/15/24
+Lease Expiration: 06/30/24
+Forwarding Address: 6138 Chapel Ridge Way Co-Signer:
+Johnston, IA 50131 Co-Signer Address:
+Resident Phone #: 515-441-4281
+Outstanding Balance Description of Charge: Amount of Charge:
+Past due rent (responsible through end date on
+Current Ledger Balance notice of 7/31) $ 3,364.00
+Pro-Rated Credits (negative $)
+Reletting Fee
+Future Month's Rent
+Other Charge
+Other Charge
+Total Outstanding Charges: $ 3,364.00 (A)
+Maintenance/Cleaning Description of Charge: Amount of Charge:
+Carpet/Floor Cleaning $ -
+Flooring Replacement carpet replacement due to pet urine $ 1,387.71
+General Cleaning full clean $ 190.00
+Painting/Drywall Repair
+Maintenance
+Lockwork
+Final Utility Bill
+Stove Drip Pans
+Window Blinds several sets of broken blinds $ 150.00
+Misc Charges / Supplies trash out of washer and dryer left behind $ 50.00
+Misc Charges / Supplies
+Misc Charges / Supplies
+Total Maintenance/Cleaning Charges: $ 1,777.71 (B)
+Total Charges: $ 5,141.71 (A) + (B)
+Security Deposit:
+Refund \ Due (Please Note or Circle) $ 5,141.71 Due

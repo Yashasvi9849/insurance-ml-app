@@ -1,0 +1,132 @@
+Filename: PGF 139 Jewell Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:15:13.535901
+============================================================
+
+
+--- Page 1 ---
+
+Resident Ledger
+Date: 08/15/2023
+Code t0070379 Property pgf Lease From 01/03/2023
+Name Jonathan Jewell Unit 139 Lease To 12/31/2023
+Address 205 1/2 Hillcrest Drive Status Past Move In 01/03/2023
+Rent 1100.00 Move Out 07/31/2023
+City Story City, IA 50248 Phone (H) (205) 790-0783 Phone (W)
+Date Chg Code Description Charge Payment Balance Chg/Rec
+12/17/2022 app.fee Application Fee 35.00 35.00 3065590
+12/17/2022 admin Administration Fee 100.00 135.00 3065591
+12/20/2022 chk# 326444966 Payer Last Name: Jewell - Credit Card - PayLease 135.00 0.00 2217895
+01/03/2023 .rent Rent for 28 days 1,027.00 1,027.00 3082510
+01/03/2023 pet Non-Refundable Pet Fee 350.00 1,377.00 3082511
+01/03/2023 pet Monthly Pet Fee for 28 days 33.00 1,410.00 3082512
+01/03/2023 concess One Time Move-in Special (550.00) 860.00 3082513
+01/03/2023 utility Monthly Utility Charge for 28 days 28.00 888.00 3082514
+01/03/2023 sd.pro Security Deposit Protection for 28 days 31.00 919.00 3082515
+01/03/2023 gar.rent Garage Detached for 28 days 75.00 994.00 3082516
+01/05/2023 chk# 330424311 Payer Last Name: Jewell - ACH - PayLease 994.00 0.00 2228481
+02/01/2023 .rent Residential Rent (02/2023) 1,100.00 1,100.00 3099943
+02/01/2023 gar.rent Garage Rent (02/2023) 80.00 1,180.00 3099944
+02/01/2023 pet Pet Fee Income (02/2023) 35.00 1,215.00 3099945
+02/01/2023 sd.pro Security Deposit Protection (02/2023) 33.00 1,248.00 3099946
+02/01/2023 utility Utility Revenue (02/2023) 30.00 1,278.00 3099947
+02/02/2023 chk# 335004503 Payer Last Name: Jewell - Credit Card - PayLease 1,278.00 0.00 2238017
+03/01/2023 .rent Residential Rent (03/2023) 1,100.00 1,100.00 3120134
+03/01/2023 gar.rent Garage Rent (03/2023) 80.00 1,180.00 3120135
+03/01/2023 pet Pet Fee Income (03/2023) 35.00 1,215.00 3120136
+03/01/2023 sd.pro Security Deposit Protection (03/2023) 33.00 1,248.00 3120137
+03/01/2023 utility Utility Revenue (03/2023) 30.00 1,278.00 3120138
+03/02/2023 chk# 340516054 Payer Last Name: Jewell - ACH - PayLease 1,278.00 0.00 2251772
+04/01/2023 .rent Residential Rent (04/2023) 1,100.00 1,100.00 3140913
+04/01/2023 gar.rent Garage Rent (04/2023) 80.00 1,180.00 3140914
+04/01/2023 pet Pet Fee Income (04/2023) 35.00 1,215.00 3140915
+04/01/2023 sd.pro Security Deposit Protection (04/2023) 33.00 1,248.00 3140916
+04/01/2023 utility Utility Revenue (04/2023) 30.00 1,278.00 3140917
+04/04/2023 chk# 346774959 Payer Last Name: Jewell - Credit Card - PayLease 1,278.00 0.00 2267157
+05/01/2023 .rent Residential Rent (05/2023) 1,100.00 1,100.00 3164109
+05/01/2023 gar.rent Garage Rent (05/2023) 80.00 1,180.00 3164110
+05/01/2023 pet Pet Fee Income (05/2023) 35.00 1,215.00 3164111
+05/01/2023 sd.pro Security Deposit Protection (05/2023) 33.00 1,248.00 3164112
+05/01/2023 utility Utility Revenue (05/2023) 30.00 1,278.00 3164113
+05/05/2023 chk# 352865731 Payer Last Name: Jewell - Credit Card - PayLease 1,278.00 0.00 2282107
+06/01/2023 .rent Residential Rent (06/2023) 1,100.00 1,100.00 3180661
+06/01/2023 gar.rent Garage Rent (06/2023) 80.00 1,180.00 3180662
+06/01/2023 pet Pet Fee Income (06/2023) 35.00 1,215.00 3180663
+06/01/2023 sd.pro Security Deposit Protection (06/2023) 33.00 1,248.00 3180664
+06/01/2023 utility Utility Revenue (06/2023) 30.00 1,278.00 3180665
+06/04/2023 chk# 357374760 Payer Last Name: Jewell - ACH - PayLease 1,278.00 0.00 2293430
+07/01/2023 .rent Residential Rent (07/2023) 1,100.00 1,100.00 3198135
+07/01/2023 gar.rent Garage Rent (07/2023) 80.00 1,180.00 3198136
+07/01/2023 pet Pet Fee Income (07/2023) 35.00 1,215.00 3198137
+07/01/2023 sd.pro Security Deposit Protection (07/2023) 33.00 1,248.00 3198138
+1 / 2
+07/01/2023 utility Utility Revenue (07/2023) 30.00 1,278.00 3198139
+07/01/2023 chk# 361388506 Payer Last Name: Jewell - ACH - PayLease 1,278.00 0.00 2302657
+08/09/2023 relet Reletting Fee 250.00 250.00 3236602
+08/09/2023 concess Repay Move-in Special 550.00 800.00 3236603
+08/09/2023 notice August Prorated Rent 11 Days 403.00 1,203.00 3236604
+08/09/2023 turnover Carpet Cleaning 90.00 1,293.00 3236605
+
+--- Page 2 ---
+
+Resident Ledger
+Date: 08/15/2023
+Code t0070379 Property pgf Lease From 01/03/2023
+Name Jonathan Jewell Unit 139 Lease To 12/31/2023
+Address 205 1/2 Hillcrest Drive Status Past Move In 01/03/2023
+Rent 1100.00 Move Out 07/31/2023
+City Story City, IA 50248 Phone (H) (205) 790-0783 Phone (W)
+Date Chg Code Description Charge Payment Balance Chg/Rec
+12/17/2022 app.fee Application Fee 35.00 35.00 3065590
+12/17/2022 admin Administration Fee 100.00 135.00 3065591
+12/20/2022 chk# 326444966 Payer Last Name: Jewell - Credit Card - PayLease 135.00 0.00 2217895
+01/03/2023 .rent Rent for 28 days 1,027.00 1,027.00 3082510
+01/03/2023 pet Non-Refundable Pet Fee 350.00 1,377.00 3082511
+01/03/2023 pet Monthly Pet Fee for 28 days 33.00 1,410.00 3082512
+01/03/2023 concess One Time Move-in Special (550.00) 860.00 3082513
+01/03/2023 utility Monthly Utility Charge for 28 days 28.00 888.00 3082514
+01/03/2023 sd.pro Security Deposit Protection for 28 days 31.00 919.00 3082515
+01/03/2023 gar.rent Garage Detached for 28 days 75.00 994.00 3082516
+01/05/2023 chk# 330424311 Payer Last Name: Jewell - ACH - PayLease 994.00 0.00 2228481
+02/01/2023 .rent Residential Rent (02/2023) 1,100.00 1,100.00 3099943
+02/01/2023 gar.rent Garage Rent (02/2023) 80.00 1,180.00 3099944
+02/01/2023 pet Pet Fee Income (02/2023) 35.00 1,215.00 3099945
+02/01/2023 sd.pro Security Deposit Protection (02/2023) 33.00 1,248.00 3099946
+02/01/2023 utility Utility Revenue (02/2023) 30.00 1,278.00 3099947
+02/02/2023 chk# 335004503 Payer Last Name: Jewell - Credit Card - PayLease 1,278.00 0.00 2238017
+03/01/2023 .rent Residential Rent (03/2023) 1,100.00 1,100.00 3120134
+03/01/2023 gar.rent Garage Rent (03/2023) 80.00 1,180.00 3120135
+03/01/2023 pet Pet Fee Income (03/2023) 35.00 1,215.00 3120136
+03/01/2023 sd.pro Security Deposit Protection (03/2023) 33.00 1,248.00 3120137
+03/01/2023 utility Utility Revenue (03/2023) 30.00 1,278.00 3120138
+03/02/2023 chk# 340516054 Payer Last Name: Jewell - ACH - PayLease 1,278.00 0.00 2251772
+04/01/2023 .rent Residential Rent (04/2023) 1,100.00 1,100.00 3140913
+04/01/2023 gar.rent Garage Rent (04/2023) 80.00 1,180.00 3140914
+04/01/2023 pet Pet Fee Income (04/2023) 35.00 1,215.00 3140915
+04/01/2023 sd.pro Security Deposit Protection (04/2023) 33.00 1,248.00 3140916
+04/01/2023 utility Utility Revenue (04/2023) 30.00 1,278.00 3140917
+04/04/2023 chk# 346774959 Payer Last Name: Jewell - Credit Card - PayLease 1,278.00 0.00 2267157
+05/01/2023 .rent Residential Rent (05/2023) 1,100.00 1,100.00 3164109
+05/01/2023 gar.rent Garage Rent (05/2023) 80.00 1,180.00 3164110
+05/01/2023 pet Pet Fee Income (05/2023) 35.00 1,215.00 3164111
+05/01/2023 sd.pro Security Deposit Protection (05/2023) 33.00 1,248.00 3164112
+05/01/2023 utility Utility Revenue (05/2023) 30.00 1,278.00 3164113
+05/05/2023 chk# 352865731 Payer Last Name: Jewell - Credit Card - PayLease 1,278.00 0.00 2282107
+06/01/2023 .rent Residential Rent (06/2023) 1,100.00 1,100.00 3180661
+06/01/2023 gar.rent Garage Rent (06/2023) 80.00 1,180.00 3180662
+06/01/2023 pet Pet Fee Income (06/2023) 35.00 1,215.00 3180663
+06/01/2023 sd.pro Security Deposit Protection (06/2023) 33.00 1,248.00 3180664
+06/01/2023 utility Utility Revenue (06/2023) 30.00 1,278.00 3180665
+06/04/2023 chk# 357374760 Payer Last Name: Jewell - ACH - PayLease 1,278.00 0.00 2293430
+07/01/2023 .rent Residential Rent (07/2023) 1,100.00 1,100.00 3198135
+07/01/2023 gar.rent Garage Rent (07/2023) 80.00 1,180.00 3198136
+07/01/2023 pet Pet Fee Income (07/2023) 35.00 1,215.00 3198137
+07/01/2023 sd.pro Security Deposit Protection (07/2023) 33.00 1,248.00 3198138
+07/01/2023 utility Utility Revenue (07/2023) 30.00 1,278.00 3198139
+07/01/2023 chk# 361388506 Payer Last Name: Jewell - ACH - PayLease 1,278.00 0.00 2302657
+08/09/2023 relet Reletting Fee 250.00 250.00 3236602
+08/09/2023 concess Repay Move-in Special 550.00 800.00 3236603
+08/09/2023 notice August Prorated Rent 11 Days 403.00 1,203.00 3236604
+08/09/2023 turnover Carpet Cleaning 90.00 1,293.00 3236605
+2 / 2

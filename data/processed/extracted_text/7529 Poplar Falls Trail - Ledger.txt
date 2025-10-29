@@ -1,0 +1,182 @@
+Filename: 7529 Poplar Falls Trail - Ledger.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:15:36.067675
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+10/01/22 - 11/30/23 11/29/23
+6788251400
+Property Unit Type Acc #
+XNA-06437 7529 Poplar FallsHOUSE 56642
+TO:
+Previous Current Current Balance
+Carter, Bria
+Balance Charges Credits Due
+7529 Poplar Falls Trl
+0.00 41,945.42 41,170.42 775.00
+Lithonia, GA 30058
+Last Payment Amount Enclosed
+10/5/23 $2,806.00 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+10/07/22 Rent Reservation Fee 2,650.00
+10/07/22 CashPay Payment Payment Received CashPay Payment -2,650.00
+10/11/22 Rent Reservation Fee reversing rr fee to allocate payment to -2,650.00
+future rent
+10/27/22 YRIG Prem 20.00
+10/27/22 CashPay Payment Payment Received CashPay Payment -220.00
+10/27/22 TBR Admin Fee to PM Admin fee per lease 200.00
+10/27/22 TBR Rent Charge Prorated rent for 5 days 10/27/22- 427.42
+10/31/22
+11/01/22 YRIG Prem 20.00
+11/01/22 TBR Rent Charge 2,650.00
+11/01/22 Sec Dep Ins Charge to Tenant 126.00
+11/02/22 TBR EFT Service Fees 15.00
+11/02/22 Web Pay VISA Payment Received Paid By: Bria Carter -588.42
+(briaakeren@gmail.com). Auth # -
+8383848473383695
+12/01/22 YRIG Prem 20.00
+12/01/22 TBR Rent Charge 2,650.00
+12/01/22 Sec Dep Ins Charge to Tenant 126.00
+12/04/22 TBR EFT Service Fees 10.00
+12/04/22 Web Pay CHK Payment Received Paid By: Bria Carter -2,806.00
+(briaakeren@gmail.com).
+01/01/23 YRIG Prem 20.00
+01/01/23 TBR Rent Charge 2,650.00
+01/01/23 Sec Dep Ins Charge to Tenant 126.00
+01/03/23 TBR EFT Service Fees 10.00
+01/03/23 Web Pay CHK Payment Received Paid By: Bria Carter -2,806.00
+(briaakeren@gmail.com).
+02/01/23 YRIG Prem 20.00
+02/01/23 TBR Rent Charge 2,650.00
+02/01/23 Sec Dep Ins Charge to Tenant 126.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+10/01/22 - 11/30/23 11/29/23
+6788251400
+Property Unit Type Acc #
+XNA-06437 7529 Poplar FallsHOUSE 56642
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 41,945.42 41,170.42 775.00
+Date Reference Description Amount
+02/04/23 TBR EFT Service Fees 10.00
+02/04/23 Web Pay CHK Payment Received Paid By: Bria Carter -2,806.00
+(briaakeren@gmail.com).
+03/01/23 YRIG Prem 20.00
+03/01/23 TBR Rent Charge 2,650.00
+03/01/23 Sec Dep Ins Charge to Tenant 126.00
+03/04/23 TBR EFT Service Fees 10.00
+03/04/23 Web Pay CHK Payment Received Paid By: Bria Carter -2,806.00
+(briaakeren@gmail.com).
+03/27/23 TBR Repair & Maint Concession Owner approved concession per TK -650.00
+email
+04/01/23 YRIG Prem 20.00
+04/01/23 TBR Rent Charge 2,650.00
+04/01/23 Sec Dep Ins Charge to Tenant 126.00
+04/05/23 TBR EFT Service Fees 10.00
+04/05/23 Web Pay CHK Payment Received Paid By: Bria Carter -2,156.00
+(briaakeren@gmail.com).
+05/01/23 YRIG Prem 20.00
+05/01/23 TBR Rent Charge 2,650.00
+05/01/23 Sec Dep Ins Charge to Tenant 126.00
+05/05/23 TBR EFT Service Fees 10.00
+05/05/23 Web Pay CHK Payment Received Paid By: Bria Carter -2,806.00
+(briaakeren@gmail.com).
+06/01/23 YRIG Prem 20.00
+06/01/23 TBR Rent Charge 2,650.00
+06/01/23 Sec Dep Ins Charge to Tenant 126.00
+06/05/23 TBR EFT Service Fees 10.00
+06/05/23 Web Pay CHK Payment Received [NSF] Paid By: Bria Carter -2,806.00
+(briaakeren@gmail.com).
+06/09/23 Web Pay CHK NSF Adjustment [NSF] Paid By: Bria Carter 2,806.00
+(briaakeren@gmail.com).
+06/09/23 TBR NSF Fees 1st NSF (6/5/2023) 50.00
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+10/01/22 - 11/30/23 11/29/23
+6788251400
+Property Unit Type Acc #
+XNA-06437 7529 Poplar FallsHOUSE 56642
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 41,945.42 41,170.42 775.00
+Date Reference Description Amount
+06/09/23 TBR Late Charges 265.00
+06/15/23 CASH Payment Received ck759751 xfer from wire - June rent, -3,121.00
+yrig, SD insure, EFT fee, NSF fee, late
+fee
+07/01/23 YRIG Prem 20.00
+07/01/23 TBR Rent Charge 2,650.00
+07/01/23 Sec Dep Ins Charge to Tenant 126.00
+07/06/23 TBR Late Charges 265.00
+07/17/23 CASH Payment Received ck760051 xfer from wire acct - July rent, -3,061.00
+late fee, SD insure, yrig
+08/01/23 YRIG Prem 20.00
+08/01/23 TBR Rent Charge 2,650.00
+08/01/23 Sec Dep Ins Charge to Tenant 126.00
+08/07/23 TBR Late Charges 265.00
+08/17/23 TBR EFT Service Fees 10.00
+08/17/23 Web Pay CHK Payment Received Paid By: Bria Carter -3,071.00
+(briaakeren@gmail.com).
+09/01/23 YRIG Prem 20.00
+09/01/23 TBR Rent Charge 2,650.00
+09/01/23 Sec Dep Ins Charge to Tenant 126.00
+09/06/23 TBR Late Charges 265.00
+09/13/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+09/18/23 CASH Payment Received ck#760675 xfer from wire acct - Sept -3,361.00
+rent and fees
+10/01/23 YRIG Prem 20.00
+10/01/23 TBR Rent Charge 2,650.00
+10/01/23 Sec Dep Ins Charge to Tenant 126.00
+10/05/23 TBR EFT Service Fees 10.00
+10/05/23 Web Pay CHK Payment Received Paid By: Bria Carter -2,806.00
+(briaakeren@gmail.com).
+11/08/23 TBR Damages to Property Charges Damage carpet upstairs front right 50.00
+bedroom
+Page 3
+
+--- Page 4 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+10/01/22 - 11/30/23 11/29/23
+6788251400
+Property Unit Type Acc #
+XNA-06437 7529 Poplar FallsHOUSE 56642
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 41,945.42 41,170.42 775.00
+Date Reference Description Amount
+11/08/23 TBR Damages to Property Charges Damager carpet upstairs right rear 50.00
+bedroom
+11/08/23 TBR Damages to Property Charges Overgrown grass 125.00
+11/08/23 TBR Damages to Property Charges Trash removal 350.00
+11/08/23 TBR Damages to Property Charges Garage Remotes 200.00
+Sub Total 775.00
+Unapplied Credits 0.00
+Balance Due 775.00
+Comments
+Page 4

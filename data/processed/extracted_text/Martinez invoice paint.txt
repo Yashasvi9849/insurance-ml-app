@@ -1,0 +1,23 @@
+Filename: Martinez invoice paint.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:31:22.331805
+============================================================
+
+
+--- Page 1 ---
+
+Evann Tona
+208-954-7697
+Nampa, ID
+INVOICE NO. 1359 10/29/2024
+JOB ADDRESS
+Johnson Property 824 17th #7
+Management, LLC Nampa, ID
+info@jpmidaho.com
+DESCRIPTION TOTAL
+Labor: Paint two walls in office. $105
+Materials: Used paint that was onsite $0
+Labor: Clean blinds, vacuum and light covers $30
+TOTAL DUE $135
+Thank you for your business!

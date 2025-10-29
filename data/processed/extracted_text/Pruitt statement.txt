@@ -1,0 +1,38 @@
+Filename: Pruitt statement.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:18:06.513210
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+Billing Period Statement Date
+PO Box 1023
+02/08/24 - 03/04/24 03/04/24
+Meridian, ID 83680
+Property Unit Type Acc #
+1905Bella 1905 Bella #2 2B/2B 24481
+TO:
+Joshua Pruitt Previous Current Current
+Balance Due
+Alexandria Galvez Balance Charges Credits
+1905 West Bella Lane #2 0.00 4,193.32 0.00 4,193.32
+Nampa, ID 83651
+Last Payment Amount Enclosed
+02/07/24 $444.52 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount Running Bal.
+02/08/24 Repair service Tenant responsible repairs, parts and labor (C1F1)6.12 116.12
+02/08/24 Pet Flooring Inspection Service Carpet inspection and partial/prorated cost of a1n2i5m.0a0l damaged ca2rp4e1t.-1S2K
+02/08/24 Cleaning Non-normal wear and tear cleaning 165.00 406.12
+02/08/24 Hauling charge Charge for hauling left over items at time of va1c9a0n.c0y0- Pablo 596.12
+02/08/24 Re-Rent Service Re-rent charge for improper/early lease term1in,0a0ti0o.n00 1,596.12
+02/14/24 Unauthorized Pet 1,000.00 2,596.12
+02/14/24 Carpet Repairs Tenant responsible carpet repairs/replaceme1n,5t97.20 4,193.32
+Sub Total 4,193.32
+Unapplied Credits 0.00
+Balance Due 4,193.32
+Comments
+Statement - 8.5x11 03/04/24 9:29 AM Page 1 rentmanager.com - property management systems rev.12.1052

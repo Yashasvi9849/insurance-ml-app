@@ -1,0 +1,41 @@
+Filename: a5ad51b757564878ac95e7abdef39b92 (1).pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:12:18.412701
+============================================================
+
+
+--- Page 1 ---
+
+Invoice
+Meld #TF4C4LN
+Tenant move out charges
+101 Gatehouse Drive
+101 Gatehouse Dr
+UNIT 101 Gatehouse Drive
+Summerville, SC 29486-8229
+Total: $1500.00
+To From
+New Heights Property Management TnT Property Solutions, LLC
+237 Old Summerville Rd unit F PO Box 1492
+Summerville, SC 29486 Summerville, SC 29484
+(843) 231-0164
+Ticket Completed Invoice date
+Wed, 08 Feb 2023 Sun, 12 Feb 2023
+Notes
+total approved work order $1,550
+TnT invoice 3278
+No. Description Quantity Price Amount
+Paint: all walls on work order (plus a few we did in
+the approved price). Patch walls and areas as
+1 needed 1.00 $1,500.00 $1,500.00
+Kitchen - light cleaning to exterior cabinets above
+the microwave. Oven door off track and oven
+handle needs tightening Hall bathroom - remove
+shower curtain, clean sink and tub (grout), replace
+bent shower rod Replace towel bar in the master
+bath Front/Backyard - Roll up water hose in
+backyard. Fire ant beds in the front yard need to be
+2 sprayed 1.00 $0.00 $0.00
+Total: $1,500.00
+Page 1 of 1

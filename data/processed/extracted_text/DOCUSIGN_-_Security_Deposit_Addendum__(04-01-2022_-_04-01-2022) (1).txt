@@ -1,0 +1,71 @@
+Filename: DOCUSIGN_-_Security_Deposit_Addendum__(04-01-2022_-_04-01-2022) (1).pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:31:28.023422
+============================================================
+
+
+--- Page 1 ---
+
+DocuSign Envelope ID: 501AD18F-EC03-4F24-AFC5-578013F2AE07
+LEASE ADDENDUM
+Security Deposit Waiver (must check one)
+#0X_1001# $ 43 per You waive payment of the security deposit in lieu $ 43
+YES month of the indicated monthly payment.
+#1 _1001# You agree to post the security deposit required by the
+Variable
+NO Landlord
+If neither yes nor no are checked in either of the above, A.1 Option 2 and A.2. yes will be assumed, and the You
+will be billed accordingly.
+This Lease Addendum is attached to and becomes a part of the Residential Lease Agreement (Lease
+Agreement) between Landlord (Landlord) and Renter (You). Both parties are bound by the terms of this Lease
+Addendum.
+Your Lease Agreement contractually requires that You post a Security Deposit to secure compliance with the
+terms and conditions of your Lease Agreement. The Security Deposit may be used by Landlord as
+reimbursement for amounts contractually recoverable from You under your Lease Agreement. In lieu of the
+Security Deposit, Landlord offers to waive the one-time Security Deposit in exchange for payment of the monthly
+fee indicated above for the term of the Lease Agreement. This waiver does not waive the requirement that You
+adhere to the terms and conditions of your Lease Agreement. If you have questions, your landlord can provide
+you with an Explanation of Protections, which is incorporated into this Lease Addendum by reference. In the
+event the Property Management contract is terminated, the monthly fee referenced herein will cease and the
+Property Owner may require You to post a Security Deposit.
+I HAVE READ AND UNDERSTAND THIS ADDENDUM
+Resident Signature: #esig_signature1001# Date: #Aepsrig-_0d1a-te21002021 #| 2:02:07 PM EDT
+Resident Name (Print): #eAsliigc_iteax t0J_o1e0l0l1e# B urchfield
+
+--- Page 2 ---
+
+DocuSign Envelope ID: 501AD18F-EC03-4F24-AFC5-578013F2AE07
+EXPLANATION OF PROTECTIONS
+A. PROTECTIONS
+1.
+1. Security Deposit
+If the ?Security Deposit? box is checked in the Lease Addendum, and the monthly fee is paid,
+then the Landlord agrees to the following:
+1. 1. 1.
+a. Security Deposit - The Landlord, waives collection of the one-time Security Deposit
+during the Lease Term.
+This waiver does not waive the requirement to adhere to the terms and conditions of the
+Lease Agreement, and specifically does not release the Renter from the obligation to pay rent or for liability due
+to excess wear and tear.
+B. DEFINITIONS
+1.
+1. Covered Property means the dwelling or unit occupied by the Renter and described in the Lease
+Agreement, including any accompanying physical property not owned by the Renter, but does not
+include any dwelling or unit vacant for 30 or more consecutive days.
+2. Landlord means the landlord, owner, lessor or similarly identified person or entity indicated on the
+Lease Agreement.
+3. Lease Addendum means the addendum provided to the Renter in conjunction with the Lease
+Agreement indicating the selection or waiver of the protections provided herein, in conjunction with
+this Explanation of Protections.
+4. Lease Agreement means the contract between the Landlord and theRenter governing the Covered
+Property.
+5. Lease Term means the period reflected on the Lease Agreement.
+6. Renter means the renter, resident, lessee or similarly identified person or entity indicated on the
+Lease Agreement.
+7. Security Deposit means the amount indicated as the Security Deposit on the Lease Addendum or
+the Lease Agreement.
+C. OTHER PROVISIONS
+1. The Renter may not assign its rights under the Lease Addendum to any third-party.
+2. The Lease Addendum does not relieve or release the Renter from all obligations in the Lease
+Agreement.

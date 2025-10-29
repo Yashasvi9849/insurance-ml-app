@@ -1,0 +1,33 @@
+Filename: 2130 Prato-Invoice 9833-Eviction (1).pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:14:59.818825
+============================================================
+
+
+--- Page 1 ---
+
+Invoice # 9833-23105860-Select1 Realty, Property Management-12/05/2023
+INVOICE
+Invoice #9833
+Date:12/05/2023
+Due Upon Receipt
+PKS Law Group, P.C.
+940 Adams Street, Ste A
+Benicia, California 94510
+Select1 Realty, Property Management
+1500 A Street
+Antioch, CA 94509
+23105860-Select 1 Realty, Property Management
+Nelson Loong Chik Chui v. Rios
+Type Date Notes Quantity Rate Total
+Service 11/14/2023 Draft Summons and Complaint in Unlawful Detainer; 1.00 $375.00 $375.00
+Market Rate; review verifications; finalize for filing;
+Expense 11/17/2023 Reimbursable expenses: Court fee - initial complaint 1.00 $240.00 $240.00
+filing
+Expense 11/17/2023 Reimbursable expenses: E-filing fee 1.00 $75.00 $75.00
+Expense 11/17/2023 Reimbursable expenses: Photocopy and print fee 1.00 $10.00 $10.00
+Total $700.00
+Please make all amounts payable to: PKS Law Group, P.C.
+Payment is due upon receipt.
+Page1of1

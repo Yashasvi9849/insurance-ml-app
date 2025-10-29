@@ -1,0 +1,61 @@
+Filename: 2032 Rebecca Lane - Ledger.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:32:16.295735
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+01/01/23 - 06/06/23 06/06/23
+6788251400
+Property Unit Type Acc #
+XNA-06764 2032 Rebecca LnHOUSE 60123
+TO:
+Previous Current Current Balance
+Fordham, Valshieka
+Balance Charges Credits Due
+2032 Rebecca Ln
+0.00 24,503.66 24,503.66 0.00
+Decatur, GA 30032
+Last Payment Amount Enclosed
+2/4/23 $37.00 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+01/03/23 Rent Reservation Fee 1,590.00
+01/04/23 CashPay Payment Payment Received CashPay Payment -1,590.00
+01/05/23 Rent Reservation Fee reversing rr fee to allocate payment to -1,590.00
+future rent
+01/07/23 CashPay Payment Payment Received CashPay Payment -200.00
+01/13/23 TBR Admin Fee to PM admin fee per lease 200.00
+01/13/23 TBR Rent Charge Prorated rent for 19 days 1/13/23- 974.52
+1/31/23
+01/26/23 TBR EFT Service Fees 10.00
+01/26/23 Web Pay CHK Payment Received Paid By: Valshieka Fordham -984.52
+(valfordham1@gmail.com).
+02/01/23 Sec Dep Ins Charge to Tenant 27.00
+02/01/23 TBR Rent Charge 1,590.00
+02/04/23 TBR EFT Service Fees 10.00
+02/04/23 Web Pay CHK Payment Received Paid By: Valshieka Fordham -37.00
+(valfordham1@gmail.com).
+03/25/23 TBR Sent to Collections Rent -19,080.00
+03/26/23 TBR Rent Charge Tenant vacated on 2/10/23. Reversing -1,022.14
+2/11/23-2/28/23 in order to allocate
+properly
+03/26/23 TBR Rent Penalty Tenant did not fulfill early term. 1,022.14
+Responsible for 2/11/23-2/28/23
+03/26/23 TBR Rent Penalty Tenant did not fulfill early term. 19,080.00
+Charging to end of lease 2/29/24
+06/06/23 TBR Rent Charge New tenant moved in 5/23/23. 0.00
+Reversing 5/23/23-2/29/24
+06/06/23 TBR Rent Charge New collections total $4308.39 - all for 0.00
+rent
+Sub Total 0.00
+Unapplied Credits 0.00
+Balance Due 0.00
+Comments

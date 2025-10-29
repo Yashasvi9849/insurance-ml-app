@@ -1,0 +1,31 @@
+Filename: Invoice-4999.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:15:28.980405
+============================================================
+
+
+--- Page 1 ---
+
+Invoice
+Good Turn Maintenance
+1096 Helen Ave.
+Ukiah CA 95482
+Phone: +17073388389, 7073388389
+blittellberry@gmail.com
+Pure Property Management
+1101 College Ave. #140
+Santa Rosa CA 95404
+Customer number Invoice number Page Invoice date Due date
+1068 4999 1 / 1 8/1/2024 8/31/2024
+2187 Hastings Ct. W.O. TZEHAED
+Installed one new living room window screen, one light switch and one furnace filter.
+Completed. 8/1/24
+Materials.
+As stated above.
+$92.00
+Labor. 2.5 hrs @ $74.00/hr
+$185.00
+Total. $277.00
+Total $277.00
+Please pay to account #########. Please mark your payment with name and invoice number.

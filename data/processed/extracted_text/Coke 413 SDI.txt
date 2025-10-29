@@ -1,0 +1,42 @@
+Filename: Coke 413 SDI.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:31:14.749183
+============================================================
+
+
+--- Page 1 ---
+
+Security Deposit Itemization - Move Out
+Property Name: Suncrest Apartments(ssv) Rental Address: 413
+Name of Resident(s): Jermiah Coke Notice Date: 10/14/24
+Move Out Date: 10/14/24
+Lease Expiration: 08/31/25
+Forwarding Address: Co-Signer:
+Co-Signer Address:
+Resident Phone #: (520) 678-9643
+Outstanding Balance Description of Charge: Amount of Charge:
+Current Ledger Balance $ 2,761.00
+Pro-Rated Credits (negative $)
+Reletting Fee $ 995.00
+Future Month's Rent
+Other Charge
+Other Charge
+Total Outstanding Charges: $ 3,756.00 (A)
+Maintenance/Cleaning Description of Charge: Amount of Charge:
+Carpet/Floor Cleaning Shampoo $ 85.00
+Flooring Replacement
+General Cleaning $ 185.00
+Painting/Drywall Repair
+Maintenance
+Lockwork
+Final Utility Bill
+Stove Drip Pans
+Window Blinds
+Misc Charges / Supplies
+Misc Charges / Supplies
+Misc Charges / Supplies
+Total Maintenance/Cleaning Charges: $ 270.00 (B)
+Total Charges: $ 4,026.00 (A) + (B)
+Security Deposit: $ -
+Refund \ Due (Please Note or Circle) $ 4,026.00 Due

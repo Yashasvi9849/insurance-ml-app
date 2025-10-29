@@ -1,0 +1,1306 @@
+Filename: Propertyware - On Demand Real Estate Solution.pdf
+Method: pdfplumber
+Pages: 18
+Extracted: 2025-10-29T11:14:39.953805
+============================================================
+
+
+--- Page 1 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+PURE Property Management of South Carolina
+Lease: McElroy - Duckworth - Stephens
+Contact: Amy McElroy
+Contact: Emma Stephens
+Contact: Jake Duckworth
+Contact: Robert Duckworth
+Contact: Russell McElroy
+Property Address: 1018 Hunley Waters Cir
+North Charleston,SC 29405-7266
+Balance as of 12/12/2024 Prepayments Total Unpaid Deposit Held
+$252.33 $0.00 $252.33 $0.00
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Charge Russell
+12/06/2024 4990 - Adjustment $50.00 $252.33
+Adjustment McElroy
+Charge Russell
+12/06/2024 4990 - Adjustment $300.00 $302.33
+Adjustment McElroy
+Partially 4010 - Maintenance
+11/22/2024 $250.00 $602.33
+Paid Charge Coordinatio...
+4780 - SD Forfeit
+Partially
+11/22/2024 (MoveOut cha... : $400.00 $352.33
+Paid Charge
+Cleaning
+4780 - SD Forfeit
+Paid Charge 11/22/2024 (MoveOut cha... : $387.81 ($47.67)
+Gen Repairs
+Charge Russell
+10/28/2024 4000 - Rent $435.48 ($435.48)
+Adjustment McElroy
+Payment of $950.50
+applied to [10/01/24,
+acct 4000, Russell
+Settled $2,700.00]/One Time Roberts
+10/04/2024 Z0JG2MGRA05 10/09/2024 $950.50 $0.00
+ePayment ePayment received McElroy-
+from Russell Roberts Bank acct
+McElroy, Paid from
+Bank acct account
+Payment of $948.50
+applied to [10/01/24,
+acct 4000, Jake
+$2,700.00]/One Time Stephen
+Settled
+10/04/2024 QVFD2MGRA05 ePayment received Duckworth- 10/09/2024 $948.50 $950.50
+ePayment
+from Jake Stephen Ducky?s
+Duckworth, Paid from account
+Ducky?s account
+account
+Settled 10/01/2024 CJJL1MGRA05 Payment of $65.00 Emma 10/04/2024 $935.00 $1,899.00
+ePayment applied to [10/01/24, Elizabeth
+acct 4037, $65.00] Stephens-
+and $39.00 applied to Updated
+[10/01/24, acct 4038,
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 1/18
+
+--- Page 2 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+$39.00] and $30.00
+applied to [10/01/24,
+acct 4024, $30.00]
+and $801.00 applied
+to [10/01/24, acct
+4000, $2,700.00]/One
+Time ePayment
+received from Emma
+Elizabeth Stephens,
+Paid from Updated
+account
+Paid Charge 10/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 10/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 10/01/2024 $65.00 $104.00
+Premium
+Paid Charge 10/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $965.00
+applied to [09/01/24,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+09/03/2024 9SKKQWCRA01 09/06/2024 $965.00 $0.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $936.00
+applied to [09/01/24,
+acct 4000, Russell
+Settled $2,700.00]/One Time Roberts
+09/03/2024 P30MQWCRA01 09/09/2024 $936.00 $965.00
+ePayment ePayment received McElroy-
+from Russell Roberts Bank acct
+McElroy, Paid from
+Bank acct account
+Payment of $39.00
+applied to [09/01/24,
+acct 4038, $39.00]
+and $799.00 applied
+to [09/01/24, acct
+4000, $2,700.00] and
+$65.00 applied to Jake
+[09/01/24, acct 4037, Stephen
+Settled
+09/03/2024 RVSHQWCRA01 $65.00] and $30.00 Duckworth- 09/06/2024 $933.00 $1,901.00
+ePayment
+applied to [09/01/24, Ducky?s
+acct 4024, account
+$30.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+Ducky?s account
+account
+Paid Charge 09/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 09/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 09/01/2024 $65.00 $104.00
+Premium
+Paid Charge 09/01/2024 4038 - RBP with Ins $39.00 $39.00
+Settled 08/04/2024 GC1DH59RA07 Payment of $935.00 Jake 08/07/2024 $935.00 $0.00
+ePayment applied to [08/01/24, Stephen
+acct 4000, Duckworth-
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 2/18
+
+--- Page 3 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+$2,700.00]/One Time Ducky?s
+ePayment received account
+from Jake Stephen
+Duckworth, Paid from
+Ducky?s account
+account
+Payment of $965.00
+applied to [08/01/24,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+08/04/2024 YLNXF59RA03 08/08/2024 $965.00 $935.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $800.00
+applied to [08/01/24,
+acct 4000, $2,700.00]
+and $39.00 applied to
+[08/01/24, acct 4038,
+$39.00] and $65.00
+Russell
+applied to [08/01/24,
+Settled Roberts
+08/02/2024 8FQMF59RA03 acct 4037, $65.00] 08/07/2024 $934.00 $1,900.00
+ePayment McElroy-
+and $30.00 applied to
+Bank acct
+[08/01/24, acct 4024,
+$30.00]/One Time
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+Paid Charge 08/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 08/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 08/01/2024 $65.00 $104.00
+Premium
+Paid Charge 08/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $935.00
+applied to [07/01/24, Jake
+acct 4000, Stephen
+Settled
+07/03/2024 7Q6PKF6RA07 $2,700.00]/Scheduled Duckworth- 07/09/2024 $935.00 $0.00
+ePayment
+One Time Payment Ducky?s
+Paid from Ducky?s account
+account account
+Payment of $30.00
+applied to [07/01/24,
+acct 4024, $30.00]
+and $39.00 applied to
+[07/01/24, acct 4038,
+$39.00] and $65.00
+applied to [07/01/24, Emma
+Settled acct 4037, $65.00] Elizabeth
+07/02/2024 B2CNKF6RA04 07/08/2024 $965.00 $935.00
+ePayment and $831.00 applied Stephens-
+to [07/01/24, acct Updated
+4000, $2,700.00]/One
+Time ePayment
+received from Emma
+Elizabeth Stephens,
+Paid from Updated
+account
+Settled 07/02/2024 QVVJKF6RA03 Payment of $934.00 Russell 07/08/2024 $934.00 $1,900.00
+ePayment applied to [07/01/24, Roberts
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 3/18
+
+--- Page 4 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+acct 4000, McElroy-
+$2,700.00]/One Time Bank acct
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+Paid Charge 07/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 07/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 07/01/2024 $65.00 $104.00
+Premium
+Paid Charge 07/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $960.34
+applied to [06/01/24,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+06/04/2024 1MNG313RA03 06/10/2024 $960.34 $0.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $939.00
+applied to [06/01/24,
+acct 4000, Jake
+$2,700.00]/One Time Stephen
+Settled
+06/03/2024 0S54313RA09 ePayment received Duckworth- 06/06/2024 $939.00 $960.34
+ePayment
+from Jake Stephen Ducky?s
+Duckworth, Paid from account
+Ducky?s account
+account
+Payment of $39.00
+applied to [06/01/24,
+acct 4038, $39.00]
+and $65.00 applied to
+[06/01/24, acct 4037,
+$65.00] and $800.66
+Russell
+applied to [06/01/24,
+Settled Roberts
+06/03/2024 B6K1313RA07 acct 4000, $2,700.00] 06/06/2024 $934.66 $1,899.34
+ePayment McElroy-
+and $30.00 applied to
+Bank acct
+[06/01/24, acct 4024,
+$30.00]/One Time
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+Paid Charge 06/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 06/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 06/01/2024 $65.00 $104.00
+Premium
+Paid Charge 06/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $934.33
+applied to [05/01/24, Jake
+acct 4000, Stephen
+Settled
+05/04/2024 D2BBS90RA09 $2,700.00]/Scheduled Duckworth- 05/08/2024 $934.33 ($0.00)
+ePayment
+One Time Payment Ducky?s
+Paid from Ducky?s account
+account account
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 4/18
+
+--- Page 5 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $965.00
+applied to [05/01/24,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+05/02/2024 XD1XR90RA05 05/08/2024 $965.00 $934.33
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $39.00
+applied to [05/01/24,
+acct 4038, $39.00]
+and $65.00 applied to
+[05/01/24, acct 4037,
+$65.00] and $30.00
+applied to [05/01/24, Russell
+Settled acct 4024, $30.00] Roberts
+05/02/2024 H5PRR90RA05 05/07/2024 $934.67 $1,899.33
+ePayment and $800.67 applied McElroy-
+to [05/01/24, acct Bank acct
+4000, $2,700.00]/One
+Time ePayment
+received from Russell
+Roberts McElroy,
+Paid from Bank acct
+account
+Paid Charge 05/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 05/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 05/01/2024 $65.00 $104.00
+Premium
+Paid Charge 05/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of
+$1,899.33 applied to
+[04/01/24, acct 4000, Jake
+$2,700.00]/One Time Stephen
+Settled
+04/03/2024 7PB0VWWQA09 ePayment received Duckworth- 04/08/2024 $1,899.33 $0.00
+ePayment
+from Jake Stephen Ducky?s
+Duckworth, Paid from account
+Ducky?s account
+account
+Payment of $30.00
+applied to [04/01/24,
+acct 4024, $30.00]
+and $800.67 applied
+to [04/01/24, acct
+4000, $2,700.00] and
+$39.00 applied to Russell
+Settled [04/01/24, acct 4038, Roberts
+04/03/2024 FMCWTWWQA03 04/08/2024 $934.67 $1,899.33
+ePayment $39.00] and $65.00 McElroy-
+applied to [04/01/24, Bank acct
+acct 4037,
+$65.00]/One Time
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+Paid Charge 04/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 04/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 04/01/2024 $65.00 $104.00
+Premium
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 5/18
+
+--- Page 6 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Paid Charge 04/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $934.33
+applied to [03/01/24,
+acct 4000, Jake
+$2,700.00]/One Time Stephen
+Settled
+03/03/2024 3RG3G5TQA08 ePayment received Duckworth- 03/07/2024 $934.33 ($0.00)
+ePayment
+from Jake Stephen Ducky?s
+Duckworth, Paid from account
+Ducky?s account
+account
+Payment of $965.00
+applied to [03/01/24,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+03/02/2024 4WDZF5TQA03 03/06/2024 $965.00 $934.33
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $800.67
+applied to [03/01/24,
+acct 4000, $2,700.00]
+and $30.00 applied to
+[03/01/24, acct 4024,
+$30.00] and $39.00
+Russell
+applied to [03/01/24,
+Settled Roberts
+03/02/2024 9CLYF5TQA08 acct 4038, $39.00] 03/06/2024 $934.67 $1,899.33
+ePayment McElroy-
+and $65.00 applied to
+Bank acct
+[03/01/24, acct 4037,
+$65.00]/One Time
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+Paid Charge 03/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 03/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 03/01/2024 $65.00 $104.00
+Premium
+Paid Charge 03/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $950.33
+applied to [02/01/24,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+02/04/2024 K7RZ1GQQA09 02/07/2024 $950.33 ($0.00)
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $949.00
+applied to [02/01/24,
+acct 4000, Jake
+$2,700.00]/One Time Stephen
+Settled
+02/04/2024 HX882GQQA07 ePayment received Duckworth- 02/07/2024 $949.00 $950.33
+ePayment
+from Jake Stephen Ducky?s
+Duckworth, Paid from account
+Ducky?s account
+account
+Settled 02/02/2024 DCKZ1GQQA03 Payment of $39.00 Russell 02/07/2024 $934.67 $1,899.33
+ePayment applied to [02/01/24, Roberts
+acct 4038, $39.00]
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 6/18
+
+--- Page 7 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+and $65.00 applied to McElroy-
+[02/01/24, acct 4037, Bank acct
+$65.00] and $800.67
+applied to [02/01/24,
+acct 4000, $2,700.00]
+and $30.00 applied to
+[02/01/24, acct 4024,
+$30.00]/One Time
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+Paid Charge 02/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 02/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 02/01/2024 $65.00 $104.00
+Premium
+Paid Charge 02/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $965.00
+applied to [01/01/24,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+01/03/2024 K0SM61MQA08 01/08/2024 $965.00 $0.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $14.67
+applied to [01/01/24,
+acct 4000, Jake
+$2,700.00]/One Time Stephen
+Settled
+01/03/2024 YDQK61MQA04 ePayment received Duckworth- 01/08/2024 $14.67 $965.00
+ePayment
+from Jake Stephen Ducky?s
+Duckworth, Paid from account
+Ducky?s account
+account
+Payment of $920.00
+applied to [01/01/24,
+acct 4000, Jake
+$2,700.00]/One Time Stephen
+Settled
+01/03/2024 G9HRCCMQA01 ePayment received Duckworth- 01/08/2024 $920.00 $979.67
+ePayment
+from Jake Stephen Ducky?s
+Duckworth, Paid from account
+Ducky?s account
+account
+Payment of $39.00
+applied to [01/01/24,
+acct 4038, $39.00]
+and $65.00 applied to
+[01/01/24, acct 4037,
+$65.00] and $30.00
+applied to [01/01/24, Russell
+Settled acct 4024, $30.00] Roberts
+01/02/2024 R90661MQA04 01/05/2024 $934.33 $1,899.67
+ePayment and $800.33 applied McElroy-
+to [01/01/24, acct Bank acct
+4000, $2,700.00]/One
+Time ePayment
+received from Russell
+Roberts McElroy,
+Paid from Bank acct
+account
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 7/18
+
+--- Page 8 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Paid Charge 01/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 01/01/2024 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 01/01/2024 $65.00 $104.00
+Premium
+Paid Charge 01/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $934.33
+applied to [12/01/23,
+Jake
+acct 4000,
+Stephen
+$2,700.00]/One Time
+Settled Duckworth-
+12/05/2023 29R5T9JQA01 ePayment received 12/05/2023 $934.33 ($0.00)
+ePayment Jacob
+from Jake Stephen
+Duckworth
+Duckworth, Paid from
+CC
+Jacob Duckworth CC
+account
+Payment of $965.00
+applied to [12/01/23,
+acct 4000, Emma
+Settled $2,700.00]/One Time Elizabeth
+12/03/2023 F2DPS9JQA02 12/06/2023 $965.00 $934.33
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $39.00
+applied to [12/01/23,
+acct 4038, $39.00]
+and $800.67 applied
+to [12/01/23, acct
+4000, $2,700.00] and
+$30.00 applied to Russell
+Settled [12/01/23, acct 4024, Roberts
+12/03/2023 XRDPS9JQA07 12/06/2023 $934.67 $1,899.33
+ePayment $30.00] and $65.00 McElroy-
+applied to [12/01/23, Bank acct
+acct 4037,
+$65.00]/One Time
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+Paid Charge 12/01/2023 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 12/01/2023 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 12/01/2023 $65.00 $104.00
+Premium
+Paid Charge 12/01/2023 4038 - RBP with Ins $39.00 $39.00
+Payment of $868.00
+applied to [11/01/23,
+acct 4000, $2,700.00]
+and $100.00 applied Jake
+to [11/01/23, acct Stephen
+Settled
+11/04/2023 KGNDFLFQA01 5013, $100.00]/One Duckworth- 11/08/2023 $968.00 $0.00
+ePayment
+Time ePayment Ducky?s
+received from Jake account
+Stephen Duckworth,
+Paid from Ducky?s
+account account
+Settled 11/03/2023 Q057FLFQA05 Payment of $998.00 Emma 11/08/2023 $998.00 $968.00
+ePayment applied to [11/01/23, Elizabeth
+acct 4000,
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 8/18
+
+--- Page 9 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+$2,700.00]/One Time Stephens-
+ePayment received Updated
+from Emma Elizabeth
+Stephens, Paid from
+Updated account
+Payment of $65.00
+applied to [11/01/23,
+acct 4037, $65.00]
+and $834.00 applied
+to [11/01/23, acct
+4000, $2,700.00] and
+$39.00 applied to Russell
+Settled [11/01/23, acct 4038, Roberts
+11/02/2023 MCNVDLFQA06 11/07/2023 $968.00 $1,966.00
+ePayment $39.00] and $30.00 McElroy-
+applied to [11/01/23, Bank acct
+acct 4024,
+$30.00]/One Time
+ePayment received
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+5013 - DO NOT USE
+Paid Charge 11/01/2023 $100.00 $2,934.00
+Tenant Lease...
+Paid Charge 11/01/2023 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 11/01/2023 4024 - Animal Fee $30.00 $134.00
+4037 - SDRP Monthly
+Paid Charge 11/01/2023 $65.00 $104.00
+Premium
+Paid Charge 11/01/2023 4038 - RBP with Ins $39.00 $39.00
+Payment of $65.00
+applied to [10/01/23,
+acct 4037, $65.00]
+and $30.00 applied to
+[10/01/23, acct 4024,
+$30.00] and $770.00
+Jake
+applied to [10/01/23,
+Stephen
+Settled acct 4000, $2,600.00]
+10/04/2023 JP0JPCBQA03 Duckworth- 10/10/2023 $904.00 $0.00
+ePayment and $39.00 applied to
+Ducky?s
+[10/01/23, acct 4038,
+account
+$39.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+Ducky?s account
+account
+Payment of $930.00
+applied to [10/01/23,
+acct 4000, Emma
+Settled $2,600.00]/One Time Elizabeth
+10/02/2023 XX3XNCBQA04 10/05/2023 $930.00 $904.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Settled 10/02/2023 M2KVNCBQA09 Payment of $900.00 Russell 10/05/2023 $900.00 $1,834.00
+ePayment applied to [10/01/23, Roberts
+acct 4000, McElroy-
+$2,600.00]/One Time Bank acct
+ePayment received
+from Russell Roberts
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 9/18
+
+--- Page 10 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+McElroy, Paid from
+Bank acct account
+Paid Charge 10/01/2023 4024 - Animal Fee $30.00 $2,734.00
+4037 - SDRP Monthly
+Paid Charge 10/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 10/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 10/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $65.00
+applied to [09/01/23,
+acct 4037, $65.00]
+and $39.00 applied to
+[09/01/23, acct 4038,
+$39.00] and $768.67
+Jake
+applied to [09/01/23,
+Stephen
+Settled acct 4000, $2,600.00]
+09/04/2023 294C3G7QA06 Duckworth- 09/07/2023 $902.67 $0.00
+ePayment and $30.00 applied to
+Ducky?s
+[09/01/23, acct 4024,
+account
+$30.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+Ducky?s account
+account
+Payment of $930.00
+applied to [09/01/23,
+acct 4000, Emma
+Settled $2,600.00]/One Time Elizabeth
+09/02/2023 P67FHL7QA04 09/07/2023 $930.00 $902.67
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $901.33
+applied to [09/01/23,
+acct 4000, Russell
+Settled $2,600.00]/One Time Roberts
+09/02/2023 6GVBHL7QA04 09/07/2023 $901.33 $1,832.67
+ePayment ePayment received McElroy-
+from Russell Roberts Bank acct
+McElroy, Paid from
+Bank acct account
+Paid Charge 09/01/2023 4024 - Animal Fee $30.00 $2,734.00
+4037 - SDRP Monthly
+Paid Charge 09/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 09/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 09/01/2023 4000 - Rent $2,600.00 $2,600.00
+Settled 08/04/2023 0CRPRQ4QA05 Payment of $768.00 Jake 08/09/2023 $902.00 $0.00
+ePayment applied to [08/01/23, Stephen
+acct 4000, $2,600.00] Duckworth-
+and $39.00 applied to Ducky?s
+[08/01/23, acct 4038, account
+$39.00] and $65.00
+applied to [08/01/23,
+acct 4037, $65.00]
+and $30.00 applied to
+[08/01/23, acct 4024,
+$30.00]/One Time
+ePayment received
+from Jake Stephen
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 10/18
+
+--- Page 11 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Duckworth, Paid from
+Ducky?s account
+account
+Payment of $930.00
+applied to [08/01/23,
+acct 4000, Emma
+Settled $2,600.00]/One Time Elizabeth
+08/03/2023 PJYXRQ4QA06 08/08/2023 $930.00 $902.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $902.00
+applied to [08/01/23,
+acct 4000, Russell
+Settled $2,600.00]/One Time Roberts
+08/01/2023 XP99RQ4QA06 08/07/2023 $902.00 $1,832.00
+ePayment ePayment received McElroy-
+from Russell Roberts Bank acct
+McElroy, Paid from
+Bank acct account
+Paid Charge 08/01/2023 4024 - Animal Fee $30.00 $2,734.00
+4037 - SDRP Monthly
+Paid Charge 08/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 08/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 08/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $30.00
+applied to [07/01/23,
+acct 4024, $30.00]
+and $65.00 applied to
+[07/01/23, acct 4037,
+$65.00] and $39.00
+Emma
+applied to [07/01/23,
+Elizabeth
+Settled acct 4038, $39.00]
+07/04/2023 G4G41J2QA02 Stephens- 07/04/2023 $902.00 $0.00
+ePayment and $768.00 applied
+Ducky?s
+to [07/01/23, acct
+CC
+4000, $2,600.00]/One
+Time ePayment
+received from Emma
+Elizabeth Stephens,
+Paid from Ducky?s
+CC account
+Payment of $930.00
+applied to [07/01/23,
+acct 4000, Emma
+Settled $2,600.00]/One Time Elizabeth
+07/02/2023 CBC51J2QA09 07/06/2023 $930.00 $902.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $902.00
+applied to [07/01/23,
+acct 4000, Russell
+Settled $2,600.00]/One Time Roberts
+07/02/2023 HVQX0J2QA07 07/06/2023 $902.00 $1,832.00
+ePayment ePayment received McElroy-
+from Russell Roberts Bank acct
+McElroy, Paid from
+Bank acct account
+Paid Charge 07/01/2023 4024 - Animal Fee $30.00 $2,734.00
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 11/18
+
+--- Page 12 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4037 - SDRP Monthly
+Paid Charge 07/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 07/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 07/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $65.00
+applied to [06/01/23,
+acct 4037, $65.00]
+and $30.00 applied to
+[06/01/23, acct 4024,
+$30.00] and $39.00
+Emma
+applied to [06/01/23,
+Elizabeth
+Settled acct 4038, $39.00]
+06/03/2023 TWYMPLYPLA3 Stephens- 06/03/2023 $902.00 $0.00
+ePayment and $768.00 applied
+Ducky?s
+to [06/01/23, acct
+CC
+4000, $2,600.00]/One
+Time ePayment
+received from Emma
+Elizabeth Stephens,
+Paid from Ducky?s
+CC account
+Payment of $930.00
+applied to [06/01/23,
+acct 4000, Emma
+Settled $2,600.00]/One Time Elizabeth
+06/02/2023 1PK8PLYPLA3 06/07/2023 $930.00 $902.00
+ePayment ePayment received Stephens-
+from Emma Elizabeth Updated
+Stephens, Paid from
+Updated account
+Payment of $902.00
+applied to [06/01/23,
+acct 4000, Russell
+Settled $2,600.00]/One Time Roberts
+06/01/2023 NC3RNLYPLA3 06/06/2023 $902.00 $1,832.00
+ePayment ePayment received McElroy-
+from Russell Roberts Bank acct
+McElroy, Paid from
+Bank acct account
+Paid Charge 06/01/2023 4024 - Animal Fee $30.00 $2,734.00
+4037 - SDRP Monthly
+Paid Charge 06/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 06/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 06/01/2023 4000 - Rent $2,600.00 $2,600.00
+Settled 05/02/2023 KK1L96VPLA2 Payment of $3.00 Jake 05/05/2023 $905.00 $0.00
+ePayment applied to [05/02/23, Stephen
+acct 4202, $3.00] and Duckworth-
+$30.00 applied to Ducky?s
+[05/01/23, acct 4024, account
+$30.00] and $768.00
+applied to [05/01/23,
+acct 4000, $2,600.00]
+and $39.00 applied to
+[05/01/23, acct 4038,
+$39.00] and $65.00
+applied to [05/01/23,
+acct 4037,
+$65.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 12/18
+
+--- Page 13 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Ducky?s account
+account
+4202 - Convenience
+Paid Charge 05/02/2023 Fee : Convenience $3.00 $905.00
+Fee
+Payment of $902.00
+applied to [05/01/23,
+acct 4000, $2,600.00]
+and $3.00 applied to Russell
+Settled [05/01/23, acct 4202, Roberts
+05/01/2023 3L2L96VPLA7 05/05/2023 $905.00 $902.00
+ePayment $3.00]/One Time McElroy-
+ePayment received Bank acct
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+4202 - Convenience
+Paid Charge 05/01/2023 Fee : Convenience $3.00 $1,807.00
+Fee
+Payment of $3.00
+applied to [05/01/23,
+acct 4202, $3.00] and
+$930.00 applied to Emma
+Settled [05/01/23, acct 4000, Elizabeth
+05/01/2023 N1Y696VPLA5 05/04/2023 $933.00 $1,804.00
+ePayment $2,600.00]/One Time Stephens-
+ePayment received Primary
+from Emma Elizabeth
+Stephens, Paid from
+Primary account
+4202 - Convenience
+Paid Charge 05/01/2023 Fee : Convenience $3.00 $2,737.00
+Fee
+Paid Charge 05/01/2023 4024 - Animal Fee $30.00 $2,734.00
+4037 - SDRP Monthly
+Paid Charge 05/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 05/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 05/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $768.67
+applied to [04/01/23,
+acct 4000, $2,600.00]
+and $3.00 applied to
+[04/02/23, acct 4202,
+$3.00] and $65.00
+applied to [04/01/23,
+acct 4037, $65.00] Jake
+and $39.00 applied to Stephen
+Settled
+04/02/2023 HJ9PM4SPLA8 [04/01/23, acct 4038, Duckworth- 04/06/2023 $905.67 $0.00
+ePayment
+$39.00] and $30.00 Ducky?s
+applied to [04/01/23, account
+acct 4024,
+$30.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+Ducky?s account
+account
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 13/18
+
+--- Page 14 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4202 - Convenience
+Paid Charge 04/02/2023 Fee : Convenience $3.00 $905.67
+Fee
+Payment of $901.33
+applied to [04/01/23,
+acct 4000, $2,600.00]
+and $3.00 applied to Russell
+Settled [04/01/23, acct 4202, Roberts
+04/01/2023 SF0LM4SPLA7 04/06/2023 $904.33 $902.67
+ePayment $3.00]/One Time McElroy-
+ePayment received Bank acct
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+4202 - Convenience
+Paid Charge 04/01/2023 Fee : Convenience $3.00 $1,807.00
+Fee
+Payment of $3.00
+applied to [04/01/23,
+acct 4202, $3.00] and
+$930.00 applied to Emma
+Settled [04/01/23, acct 4000, Elizabeth
+04/01/2023 7JJCM4SPLA5 04/06/2023 $933.00 $1,804.00
+ePayment $2,600.00]/One Time Stephens-
+ePayment received Primary
+from Emma Elizabeth
+Stephens, Paid from
+Primary account
+4202 - Convenience
+Paid Charge 04/01/2023 Fee : Convenience $3.00 $2,737.00
+Fee
+Paid Charge 04/01/2023 4024 - Animal Fee $30.00 $2,734.00
+4037 - SDRP Monthly
+Paid Charge 04/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 04/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 04/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $768.00
+applied to [03/01/23,
+acct 4000, $2,600.00]
+and $30.00 applied to
+[03/01/23, acct 4024,
+$30.00] and $65.00
+Jake
+applied to [03/01/23,
+Settled Stephen
+03/02/2023 Q6KH8RNPLA4 acct 4037, $65.00] 03/02/2023 $902.00 $0.00
+ePayment Duckworth-
+and $39.00 applied to
+Jake?s CC
+[03/01/23, acct 4038,
+$39.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+Jake?s CC account
+Settled 03/01/2023 8BY58RNPLA4 Payment of $902.00 Russell 03/06/2023 $905.00 $902.00
+ePayment applied to [03/01/23, Roberts
+acct 4000, $2,600.00] McElroy-
+and $3.00 applied to Bank acct
+[03/01/23, acct 4202,
+$3.00]/One Time
+ePayment received
+from Russell Roberts
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 14/18
+
+--- Page 15 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+McElroy, Paid from
+Bank acct account
+4202 - Convenience
+Paid Charge 03/01/2023 Fee : Convenience $3.00 $1,807.00
+Fee
+Payment of $930.00
+applied to [03/01/23,
+acct 4000, $2,600.00]
+and $3.00 applied to Emma
+Settled [03/01/23, acct 4202, Elizabeth
+03/01/2023 4F0BWQNPLA8 03/06/2023 $933.00 $1,804.00
+ePayment $3.00]/One Time Stephens-
+ePayment received Primary
+from Emma Elizabeth
+Stephens, Paid from
+Primary account
+4202 - Convenience
+Paid Charge 03/01/2023 Fee : Convenience $3.00 $2,737.00
+Fee
+Paid Charge 03/01/2023 4024 - Animal Fee $30.00 $2,734.00
+4037 - SDRP Monthly
+Paid Charge 03/01/2023 $65.00 $2,704.00
+Premium
+Paid Charge 03/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 03/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $65.00
+applied to [02/01/23,
+acct 4037, $65.00]
+and $30.00 applied to
+[02/01/23, acct 4012,
+$30.00] and $39.00
+applied to [02/01/23, Jake
+Settled acct 4038, $39.00] Stephen
+02/02/2023 409WF0LPLA4 02/02/2023 $871.00 $0.00
+ePayment and $737.00 applied Duckworth-
+to [02/01/23, acct Jake?s CC
+4000, $2,600.00]/One
+Time ePayment
+received from Jake
+Stephen Duckworth,
+Paid from Jake?s CC
+account
+Payment of $933.00
+applied to [02/01/23,
+acct 4000, $2,600.00]
+and $3.00 applied to Russell
+Settled [02/01/23, acct 4202, Roberts
+02/01/2023 BR0SF0LPLA1 02/07/2023 $936.00 $871.00
+ePayment $3.00]/One Time McElroy-
+ePayment received Bank acct
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+4202 - Convenience
+Paid Charge 02/01/2023 Fee : Convenience $3.00 $1,807.00
+Fee
+Settled 02/01/2023 BLYQF0LPLA1 Payment of $3.00 Emma 02/06/2023 $933.00 $1,804.00
+ePayment applied to [02/01/23, Elizabeth
+acct 4202, $3.00] and Stephens-
+$930.00 applied to Primary
+[02/01/23, acct 4000,
+$2,600.00]/One Time
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 15/18
+
+--- Page 16 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+ePayment received
+from Emma Elizabeth
+Stephens, Paid from
+Primary account
+4202 - Convenience
+Paid Charge 02/01/2023 Fee : Convenience $3.00 $2,737.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 02/01/2023 $65.00 $2,734.00
+Premium
+Paid Charge 02/01/2023 4038 - RBP with Ins $39.00 $2,669.00
+Paid Charge 02/01/2023 4012 - Animal Rent $30.00 $2,630.00
+Paid Charge 02/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $768.00
+applied to [01/01/23,
+acct 4000, $2,600.00]
+and $39.00 applied to
+[01/01/23, acct 4038,
+$39.00] and $30.00
+Jake
+applied to [01/01/23,
+Settled Stephen
+01/01/2023 5QN1QLGPLA2 acct 4012, $30.00] 01/01/2023 $902.00 $0.00
+ePayment Duckworth-
+and $65.00 applied to
+Jake?s CC
+[01/01/23, acct 4037,
+$65.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+Jake?s CC account
+Payment of $930.00
+applied to [01/01/23,
+acct 4000, $2,600.00]
+and $3.00 applied to Emma
+Settled [01/01/23, acct 4202, Elizabeth
+01/01/2023 GPPMPLGPLA5 01/06/2023 $933.00 $902.00
+ePayment $3.00]/One Time Stephens-
+ePayment received Primary
+from Emma Elizabeth
+Stephens, Paid from
+Primary account
+4202 - Convenience
+Paid Charge 01/01/2023 Fee : Convenience $3.00 $1,835.00
+Fee
+Payment of $902.00
+applied to [01/01/23,
+acct 4000, $2,600.00]
+and $3.00 applied to Russell
+Settled [01/01/23, acct 4202, Roberts
+01/01/2023 R2W1QLGPLA8 01/06/2023 $905.00 $1,832.00
+ePayment $3.00]/One Time McElroy-
+ePayment received Bank acct
+from Russell Roberts
+McElroy, Paid from
+Bank acct account
+4202 - Convenience
+Paid Charge 01/01/2023 Fee : Convenience $3.00 $2,737.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 01/01/2023 $65.00 $2,734.00
+Premium
+Paid Charge 01/01/2023 4038 - RBP with Ins $39.00 $2,669.00
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 16/18
+
+--- Page 17 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Paid Charge 01/01/2023 4012 - Animal Rent $30.00 $2,630.00
+Paid Charge 01/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $3.00
+applied to [12/01/22,
+acct 4202, $3.00] and
+$902.00 applied to Jake
+[12/01/22, acct 4000, Stephen
+Settled
+12/01/2022 B5ZH56CPLA4 $2,600.00]/One Time Duckworth- 12/06/2022 $905.00 $0.00
+ePayment
+ePayment received Ducky?s
+from Jake Stephen account
+Duckworth, Paid from
+Ducky?s account
+account
+4202 - Convenience
+Paid Charge 12/01/2022 Fee : Convenience $3.00 $905.00
+Fee
+Payment of $39.00
+applied to [12/01/22,
+acct 4038, $39.00]
+and $3.00 applied to
+[12/01/22, acct 4202,
+$3.00] and $30.00
+applied to [12/01/22,
+acct 4024, $30.00] Emma
+Settled and $65.00 applied to Elizabeth
+12/01/2022 X9ZH56CPLA4 12/06/2022 $933.00 $902.00
+ePayment [12/01/22, acct 4037, Stephens-
+$65.00] and $796.00 Primary
+applied to [12/01/22,
+acct 4000,
+$2,600.00]/One Time
+ePayment received
+from Emma Elizabeth
+Stephens, Paid from
+Primary account
+4202 - Convenience
+Paid Charge 12/01/2022 Fee : Convenience $3.00 $1,835.00
+Fee
+Payment of $902.00
+applied to [12/01/22,
+acct 4000, Russell
+Settled $2,600.00]/One Time Roberts
+12/01/2022 D8MB56CPLA3 12/01/2022 $902.00 $1,832.00
+ePayment ePayment received McElroy-
+from Russell Roberts Russ debit
+McElroy, Paid from
+Russ debit account
+4037 - SDRP Monthly
+Paid Charge 12/01/2022 $65.00 $2,734.00
+Premium
+Paid Charge 12/01/2022 4038 - RBP with Ins $39.00 $2,669.00
+Paid Charge 12/01/2022 4024 - Animal Fee $30.00 $2,630.00
+Paid Charge 12/01/2022 4000 - Rent $2,600.00 $2,600.00
+Settled 11/01/2022 QDW3RG8PLA3 Payment of $247.00 Jake 11/01/2022 $376.00 $0.00
+ePayment applied to [11/01/22, Stephen
+acct 4000, $419.35] Duckworth-
+and $39.00 applied to Jake D
+[11/01/22, acct 4038,
+$39.00] and $60.00
+applied to [11/01/22,
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 17/18
+
+--- Page 18 ---
+
+12/12/24, 4:23 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+acct 4037, $65.00]
+and $30.00 applied to
+[11/01/22, acct 4012,
+$30.00]/One Time
+ePayment received
+from Jake Stephen
+Duckworth, Paid from
+Jake D account
+Payment of $172.35
+applied to [11/01/22,
+acct 4000, Russell
+Settled $419.35]/One Time Roberts
+11/01/2022 GCVRQG8PLA5 11/01/2022 $172.35 $376.00
+ePayment ePayment received McElroy-
+from Russell Roberts Russ debit
+McElroy, Paid from
+Russ debit account
+Paid Charge 11/01/2022 4000 - Rent $419.35 $548.35
+4037 - SDRP Monthly
+Paid Charge 11/01/2022 $65.00 $129.00
+Premium
+Paid Charge 11/01/2022 4038 - RBP with Ins $39.00 $64.00
+Paid Charge 11/01/2022 4012 - Animal Rent $30.00 $25.00
+4205 - Lease
+Paid Charge 10/27/2022 $250.00 ($5.00)
+Admin/Insp Fee
+Paid Charge 10/27/2022 4024 - Animal Fee $30.00 ($255.00)
+Paid Charge 10/27/2022 4038 - RBP with Ins $39.00 ($285.00)
+Paid Charge 10/27/2022 4000 - Rent $2,600.00 ($324.00)
+4037 - SDRP Monthly
+Paid Charge 10/27/2022 $65.00 ($2,924.00)
+Premium
+Payment of $5.00
+applied to [11/01/22,
+acct 4037, $65.00]
+and $250.00 applied
+to [10/27/22, acct
+4205, $250.00] and
+$30.00 applied to
+[10/27/22, acct 4024,
+Russell
+Deposited $30.00] and $65.00
+10/19/2022 1098219690 Roberts 10/19/2022 $2,989.00 ($2,989.00)
+Payment applied to [10/27/22,
+McElroy
+acct 4037, $65.00]
+and $39.00 applied to
+[10/27/22, acct 4038,
+$39.00] and
+$2,600.00 applied to
+[10/27/22, acct 4000,
+$2,600.00]/First
+Months Rent
+Copyright © Propertyware® 2003-2024. All rights reserved.
+Various trademarks held by their respective owners.
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=4209967109&prn=1 18/18

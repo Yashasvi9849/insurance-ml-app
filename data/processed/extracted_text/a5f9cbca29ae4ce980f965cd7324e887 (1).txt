@@ -1,0 +1,41 @@
+Filename: a5f9cbca29ae4ce980f965cd7324e887 (1).pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:12:19.735246
+============================================================
+
+
+--- Page 1 ---
+
+Invoice
+Meld #TK8VHGR
+Tenant move out charges - Pet Damage
+101 Gatehouse Drive
+101 Gatehouse Dr
+UNIT 101 Gatehouse Drive
+Summerville, SC 29486-8229
+Total: $1306.00
+To From
+New Heights Property Management TnT Property Solutions, LLC
+237 Old Summerville Rd unit F PO Box 1492
+Summerville, SC 29486 Summerville, SC 29484
+(843) 231-0164
+Ticket Completed Invoice date
+Thu, 09 Feb 2023 Sun, 12 Feb 2023
+Notes
+tnt invoice 3279
+No. Description Quantity Price Amount
+1. Clean and paint back laundry room door from pet
+scratches--pet damage on window sill in dining
+room and living room-patch and paint 2. Garage -
+Paint back door and replace damaged trim.
+Repair/paint the damaged walls in the garage on
+the left and right walls (by the laundry room door).
+Clean all other dirty walls. Hose down floor in
+garage and spray kills on the floor.--had to spray
+the entire garage with KILZ in order to remove filth
+and smell 3. Ozone treatment for pet smell in
+house/ garage too 4. Backyard - Put down fresh
+1 grass seed due to pet damage 1.00 $1,306.00 $1,306.00
+Total: $1,306.00
+Page 1 of 1

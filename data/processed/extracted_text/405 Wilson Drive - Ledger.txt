@@ -1,0 +1,67 @@
+Filename: 405 Wilson Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:35:07.427537
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+Excalibur Homes, LLC
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 02/20/23 02/20/23
+678-825-1400
+Property Unit Type Acc #
+405Wils 405 Wilson Dr. HOUSE 55876
+TO:
+Previous Current Current Balance
+Reed, Georgia
+Balance Charges Credits Due
+405 Wilson Dr
+-1,750.00 7,643.97 3,822.99 2,070.98
+Kennesaw, GA 30144
+Last Payment Amount Enclosed
+11/5/22 $220.00 CashPay Payment
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance -1,750.00
+11/04/22 YRIG Prem - Owners 20.00
+11/04/22 Non-Refundable Admin Fee Admin fee per lease 200.00
+11/04/22 Rent Charge Prorated rent for 27 days 11/4/22- 1,575.00
+11/30/22
+11/05/22 CashPay Payment Payment Received CashPay Payment -220.00
+12/01/22 YRIG Prem - Owners 20.00
+12/01/22 Rent Charge 1,750.00
+12/01/22 Sec Dep Ins Charge to Tenant 48.00
+12/01/22 Latchel Concierge Service 14.99
+12/06/22 Late Fee to Owner 175.00
+01/01/23 YRIG Prem - Owners 20.00
+01/01/23 Rent Charge 1,750.00
+01/01/23 Sec Dep Ins Charge to Tenant 48.00
+01/01/23 Latchel Concierge Service 14.99
+01/04/23 Late Fee to Owner Waiving as a one time courtesy per CS -175.00
+01/04/23 Credit to Tenant Owner approved credit for December -1,595.00
+rent per AL
+01/06/23 Late Fee to Owner 175.00
+02/01/23 YRIG Prem - Owners 20.00
+02/01/23 Rent Charge 1,750.00
+02/01/23 Sec Dep Ins Charge to Tenant 48.00
+02/01/23 Latchel Concierge Service 14.99
+02/20/23 YRIG Prem - Owners Owner self managing as of 1/31/23. -20.00
+Reversing February charges
+02/20/23 Rent Charge Owner self managing as of 1/31/23. -1,750.00
+Reversing February charges
+02/20/23 Sec Dep Ins Charge to Tenant Owner self managing as of 1/31/23. -48.00
+Reversing February charges
+02/20/23 Latchel Concierge Service Owner self managing as of 1/31/23. -14.99
+Reversing February charges
+Sub Total 2,070.98
+Unapplied Credits 0.00
+Balance Due 2,070.98
+
+--- Page 2 ---
+
+Comments

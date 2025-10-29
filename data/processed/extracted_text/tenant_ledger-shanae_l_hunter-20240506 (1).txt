@@ -1,0 +1,80 @@
+Filename: tenant_ledger-shanae_l_hunter-20240506 (1).pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:12:29.655523
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Tenants:Shanae L. Hunter
+Mobile:(615) 594-4273
+Unit:--
+Property:04225KHST - 4225 Keith Street Huntsville, AL 35810
+Status:Evict
+Move in date:03/20/2023
+Move out date:02/22/2024
+Lease Expiration:03/19/2024
+Rent:1,200.00
+Deposit Paid:0.00
+Date Payer Description Charges Payments Balance
+Starting Balance 0.00
+06/01/2023 Rent Income - June 2023 - Rent 1,200.00 1,200.00
+06/01/2023 SDRP Fee - June 2023 - SDRP_$1,500.00 28.00 1,228.00
+06/01/2023 RBP w/ Insurance - June 2023 - RBP w/ Insurance 39.00 1,267.00
+06/04/2023 Late Fee Income - Late Fee for Jun 2023 120.00 1,387.00
+07/01/2023 Rent Income - July 2023 - Rent 1,200.00 2,587.00
+07/01/2023 SDRP Fee - July 2023 - SDRP_$1,500.00 28.00 2,615.00
+07/01/2023 RBP w/ Insurance - July 2023 - RBP w/ Insurance 39.00 2,654.00
+07/04/2023 Late Fee Income - Late Fee for Jul 2023 120.00 2,774.00
+08/01/2023 Rent Income - August 2023 - Rent 1,200.00 3,974.00
+08/01/2023 SDRP Fee - August 2023 - SDRP_$1,500.00 28.00 4,002.00
+08/01/2023 RBP w/ Insurance - August 2023 - RBP w/ Insurance 39.00 4,041.00
+08/04/2023 Late Fee Income - Late Fee for Aug 2023 120.00 4,161.00
+09/01/2023 Rent Income - September 2023 - Rent 1,200.00 5,361.00
+09/01/2023 RBP w/ Insurance - September 2023 - RBP w/ Insurance 39.00 5,400.00
+09/01/2023 SDRP Fee - September 2023 - SDRP_$1,500.00 28.00 5,428.00
+10/01/2023 Rent Income - October 2023 - Rent 1,200.00 6,628.00
+10/01/2023 RBP w/ Insurance - October 2023 - RBP w/ Insurance 39.00 6,667.00
+10/01/2023 SDRP Fee - October 2023 - SDRP_$1,500.00 28.00 6,695.00
+10/04/2023 Late Fee Income - Late Fee for Oct 2023 120.00 6,815.00
+11/01/2023 Rent Income - November 2023 - Rent 1,200.00 8,015.00
+11/01/2023 RBP w/ Insurance - November 2023 - RBP w/ Insurance 39.00 8,054.00
+11/01/2023 SDRP Fee - November 2023 - SDRP_$1,500.00 28.00 8,082.00
+11/04/2023 Late Fee Income - Late Fee for Nov 2023 120.00 8,202.00
+11/16/2023 Shanae L. Hunter Payment (Reference #829608) Partial Payment of past 1,000.00 7,202.00
+due rent
+11/16/2023 Shanae L. Hunter Payment (Reference #829609) Partial Payment of past 100.00 7,102.00
+due rent
+11/30/2023 Shanae L. Hunter Payment (Reference #831203) Partial Payment of past 700.00 6,402.00
+due rent
+12/01/2023 Rent Income - December 2023 - Rent 1,200.00 7,602.00
+12/01/2023 RBP w/ Insurance - December 2023 - RBP w/ Insurance 39.00 7,641.00
+12/01/2023 SDRP Fee - December 2023 - SDRP_$1,500.00 28.00 7,669.00
+12/04/2023 Late Fee Income - Late Fee for Dec 2023 120.00 7,789.00
+12/18/2023 Shanae L. Hunter Payment (Reference #833684) Partial Payment of past 600.00 7,189.00
+due rent
+01/01/2024 Rent Income - January 2024 - Rent 1,200.00 8,389.00
+01/01/2024 RBP w/ Insurance - January 2024 - RBP w/ Insurance 39.00 8,428.00
+Created on 05/06/2024 Page 1
+
+--- Page 2 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+01/01/2024 SDRP Fee - January 2024 - SDRP_$1,500.00 28.00 8,456.00
+01/04/2024 Late Fee Income - Late Fee for Jan 2024 120.00 8,576.00
+02/01/2024 Rent Income - February 2024 - Rent 1,200.00 9,776.00
+02/01/2024 RBP w/ Insurance - February 2024 - RBP w/ Insurance 39.00 9,815.00
+02/01/2024 SDRP Fee - February 2024 - SDRP_$1,500.00 28.00 9,843.00
+02/04/2024 Late Fee Income - Late Fee for Feb 2024 120.00 9,963.00
+03/13/2024 Legal Expenses - Legal Fees Associated with Eviction 1,275.00 11,238.00
+03/13/2024 Deposit Forfeit - Painting of interior - Writing on walls, etc. 2,975.00 14,213.00
+03/13/2024 Deposit Forfeit - Blind replacement 12 - 30x64 blinds 241.00 14,454.00
+03/13/2024 Deposit Forfeit - Professional Clean 350.00 14,804.00
+03/13/2024 Deposit Forfeit - Door replacement - damage to doors and 1,039.00 15,843.00
+frames throughout property
+03/25/2024 Shanae L. Hunter Payment (Reference #0000000358) SDRP Claim 1,500.00 14,343.00
+Total 14,343.00
+Created on 05/06/2024 Page 2

@@ -1,0 +1,29 @@
+Filename: Abdi Ilmi 24-6004 Move Out Statement.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:10:38.139991
+============================================================
+
+
+--- Page 1 ---
+
+Move Out Statement
+Date: 10/08/2024
+Code t0073272 Property ajc Lease From 10/27/2023
+Name Asiso Abdi Ilmi Unit 24-6004 Lease To 10/31/2024
+Address 6004 Glen Circle Status Past Move In 10/27/2023
+Rent 1,370.00 Move Out 10/01/2024
+City Johnston, IA 50131 Notice 07/30/2024
+Telephone (O)-( ) - (H)-(909) 374-1330
+Date Description Charge Payment Balance Chg/Rec
+Balance as of 10/01/2024 0.00
+10/01/2024 Residential Rent (10/2024) 1,370.00 0.00 1,370.00 3547798
+10/01/2024 Security Deposit Protection (10/2024) 33.00 0.00 1,403.00 3547800
+10/01/2024 Utility Revenue (10/2024) 60.00 0.00 1,463.00 3547802
+10/08/2024 Residential Rent (10/2024) Credit October -1,370.00 0.00 93.00 3569720
+10/08/2024 Utility Revenue (10/2024) Credit October -60.00 0.00 33.00 3569721
+10/08/2024 Security Deposit Protection (10/2024) Credit October -33.00 0.00 0.00 3569722
+10/08/2024 Carpet/LVP replace - new at MI prorate 2,577.00 0.00 2,577.00 3569723
+10/08/2024 Blinds replace x6 240.00 0.00 2,817.00 3569724
+10/08/2024 Replace stove and microwave - new at MI prorate 720.00 0.00 3,537.00 3569725
+10/08/2024 Painting/Drywall Repairs prorate 1,763.00 0.00 5,300.00 3569726

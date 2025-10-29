@@ -1,0 +1,519 @@
+Filename: Ledger - 231 Xavier St.pdf
+Method: pdfplumber
+Pages: 7
+Extracted: 2025-10-29T11:31:27.873735
+============================================================
+
+
+--- Page 1 ---
+
+5/10/23, 2:49 PM Propertyware - On Demand Real Estate Solution
+New Heights PM
+Lease: Burchfield - Upshaw
+Contact: Alicia Burchfield
+Contact: Bradley Upshaw
+Property Address: 231 Xavier St
+Charleston,SC 29414-9202
+Balance as of 05/10/2023 Prepayments Total Unpaid Deposit Held
+$6,413.00 $0.00 $6,413.00 $0.00
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Unpaid 5018 - Move-out
+05/10/2023 $2,500.00 $6,413.00
+Charge Repair
+4345 - Late
+Unpaid
+04/17/2023 Fee:Late Fee $100.00 $3,913.00
+Charge
+(Manu...
+4340 - Late Fee :
+Unpaid Calculated on
+04/06/2023 $99.00 $3,813.00
+Charge 04/06/2023 5:03
+AM by system
+Unpaid
+04/01/2023 4000 - Rent $660.00 $3,714.00
+Charge
+Unpaid 4037 - SDRP
+04/01/2023 $43.00 $3,054.00
+Charge Monthly Premium
+Unpaid 4038 - RBP with
+04/01/2023 $39.00 $3,011.00
+Charge Ins
+5018 - Move-out
+Unpaid
+03/21/2023 Repair : 2 mailbox $60.00 $2,972.00
+Charge
+box keys
+4010 -
+Unpaid
+03/21/2023 Maintenance $200.00 $2,912.00
+Charge
+Coordinatio...
+4345 - Late
+Unpaid
+03/20/2023 Fee:Late Fee $100.00 $2,712.00
+Charge
+(Manu...
+4340 - Late Fee :
+Unpaid Calculated on
+03/06/2023 $330.00 $2,612.00
+Charge 03/06/2023 5:04
+AM by system
+Unpaid 4037 - SDRP
+03/01/2023 $43.00 $2,282.00
+Charge Monthly Premium
+Unpaid 4038 - RBP with
+03/01/2023 $39.00 $2,239.00
+Charge Ins
+Unpaid
+03/01/2023 4000 - Rent $2,200.00 $2,200.00
+Charge
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=3806003206&prn=1 1/7
+
+--- Page 2 ---
+
+5/10/23, 2:49 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $43.00
+applied to
+[02/01/23, acct
+4037, $43.00] and
+$39.00 applied to
+[02/01/23, acct
+4038, $39.00] and
+$2,200.00 applied Alicia
+to [02/01/23, acct Joelle
+Settled
+02/04/2023 NMFLG0LPLA2 4000, $2,200.00] Burchfield- 02/09/2023 $2,285.00 $0.00
+ePayment
+and $3.00 applied BOA
+to [02/04/23, acct account
+4202, $3.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from BOA account
+account
+4202 -
+Paid Charge 02/04/2023 Convenience Fee : $3.00 $2,285.00
+Convenience Fee
+4037 - SDRP
+Paid Charge 02/01/2023 $43.00 $2,282.00
+Monthly Premium
+4038 - RBP with
+Paid Charge 02/01/2023 $39.00 $2,239.00
+Ins
+Paid Charge 02/01/2023 4000 - Rent $2,200.00 $2,200.00
+Payment of $3.00
+applied to
+[01/01/23, acct
+4202, $3.00] and
+$43.00 applied to
+[01/01/23, acct
+4037, $43.00] and
+$39.00 applied to
+Alicia
+[01/01/23, acct
+Joelle
+Settled 4038, $39.00] and
+01/01/2023 3LB0QLGPLA7 Burchfield- 01/06/2023 $2,285.00 $0.00
+ePayment $2,200.00 applied
+BOA
+to [01/01/23, acct
+account
+4000,
+$2,200.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from BOA account
+account
+4202 -
+Paid Charge 01/01/2023 Convenience Fee : $3.00 $2,285.00
+Convenience Fee
+4037 - SDRP
+Paid Charge 01/01/2023 $43.00 $2,282.00
+Monthly Premium
+4038 - RBP with
+Paid Charge 01/01/2023 $39.00 $2,239.00
+Ins
+Paid Charge 01/01/2023 4000 - Rent $2,200.00 $2,200.00
+4037 - SDRP
+Paid Charge 12/01/2022 $43.00 $0.00
+Monthly Premium
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=3806003206&prn=1 2/7
+
+--- Page 3 ---
+
+5/10/23, 2:49 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4038 - RBP with
+Paid Charge 12/01/2022 $39.00 ($43.00)
+Ins
+Paid Charge 12/01/2022 4000 - Rent $2,200.00 ($82.00)
+Payment of $39.00
+applied to
+[12/01/22, acct
+4038, $39.00] and
+$43.00 applied to
+[12/01/22, acct
+4037, $43.00] and
+$2,200.00 applied Alicia
+to [12/01/22, acct Joelle
+Settled
+11/30/2022 765N46CPLA5 4000, $2,200.00] Burchfield- 12/06/2022 $2,285.00 ($2,282.00)
+ePayment
+and $3.00 applied BOA
+to [11/30/22, acct account
+4202, $3.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from BOA account
+account
+4202 -
+Paid Charge 11/30/2022 Convenience Fee : $3.00 $3.00
+Convenience Fee
+Payment of $39.00
+applied to
+[11/01/22, acct
+4038, $39.00] and
+$43.00 applied to
+[11/01/22, acct
+4037, $43.00] and
+$2,200.00 applied Alicia
+to [11/01/22, acct Joelle
+Settled
+11/01/2022 832HQG8PLA5 4000, $2,200.00] Burchfield- 11/04/2022 $2,285.00 $0.00
+ePayment
+and $3.00 applied BOA
+to [11/01/22, acct account
+4202, $3.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from BOA account
+account
+4202 -
+Paid Charge 11/01/2022 Convenience Fee : $3.00 $2,285.00
+Convenience Fee
+4037 - SDRP
+Paid Charge 11/01/2022 $43.00 $2,282.00
+Monthly Premium
+4038 - RBP with
+Paid Charge 11/01/2022 $39.00 $2,239.00
+Ins
+Paid Charge 11/01/2022 4000 - Rent $2,200.00 $2,200.00
+Settled 10/04/2022 10LMZQ5PLA1 Payment of Alicia 10/07/2022 $2,285.00 $0.00
+ePayment $2,200.00 applied Joelle
+to [10/01/22, acct Burchfield-
+4000, $2,200.00] BOA
+and $43.00 account
+applied to
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=3806003206&prn=1 3/7
+
+--- Page 4 ---
+
+5/10/23, 2:49 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+[10/01/22, acct
+4037, $43.00] and
+$3.00 applied to
+[10/04/22, acct
+4202, $3.00] and
+$39.00 applied to
+[10/01/22, acct
+4038, $39.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from BOA account
+account
+4202 -
+Paid Charge 10/04/2022 Convenience Fee : $3.00 $2,285.00
+Convenience Fee
+4037 - SDRP
+Paid Charge 10/01/2022 $43.00 $2,282.00
+Monthly Premium
+4038 - RBP with
+Paid Charge 10/01/2022 $39.00 $2,239.00
+Ins
+Paid Charge 10/01/2022 4000 - Rent $2,200.00 $2,200.00
+Payment of $43.00
+applied to
+[09/01/22, acct
+4037, $43.00] and
+$3.00 applied to
+[09/06/22, acct
+4202, $3.00] and
+$39.00 applied to
+Alicia
+[09/01/22, acct
+Joelle
+Settled 4038, $39.00] and
+09/06/2022 PJN7N03PLA8 Burchfield- 09/09/2022 $2,285.00 $0.00
+ePayment $2,200.00 applied
+BOA
+to [09/01/22, acct
+account
+4000,
+$2,200.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from BOA account
+account
+4202 -
+Paid Charge 09/06/2022 Convenience Fee : $3.00 $2,285.00
+Convenience Fee
+4037 - SDRP
+Paid Charge 09/01/2022 $43.00 $2,282.00
+Monthly Premium
+4038 - RBP with
+Paid Charge 09/01/2022 $39.00 $2,239.00
+Ins
+Paid Charge 09/01/2022 4000 - Rent $2,200.00 $2,200.00
+Settled 08/03/2022 3ZXX6MZNLA5 Payment of $3.00 Alicia 08/08/2022 $2,285.00 $0.00
+ePayment applied to Joelle
+[08/03/22, acct Burchfield-
+4202, $3.00] and Allies Real
+$2,200.00 applied Account
+to [08/01/22, acct
+4000, $2,200.00]
+and $38.00
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=3806003206&prn=1 4/7
+
+--- Page 5 ---
+
+5/10/23, 2:49 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+applied to
+[08/01/22, acct
+4037, $38.00] and
+$5.00 applied to
+[08/01/22, acct
+4036, $5.00] and
+$39.00 applied to
+[08/01/22, acct
+4038, $39.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from Allies Real
+Account account
+4202 -
+Paid Charge 08/03/2022 Convenience Fee : $3.00 $2,285.00
+Convenience Fee
+4038 - RBP with
+Paid Charge 08/01/2022 $39.00 $2,282.00
+Ins
+4037 - SDRP
+Paid Charge 08/01/2022 $38.00 $2,243.00
+Monthly Premium
+4036 -
+Paid Charge 08/01/2022 $5.00 $2,205.00
+Administrative Fee
+Paid Charge 08/01/2022 4000 - Rent $2,200.00 $2,200.00
+4038 - RBP with
+Paid Charge 07/01/2022 $39.00 $0.00
+Ins
+4037 - SDRP
+Paid Charge 07/01/2022 $38.00 ($39.00)
+Monthly Premium
+4036 -
+Paid Charge 07/01/2022 $5.00 ($77.00)
+Administrative Fee
+Paid Charge 07/01/2022 4000 - Rent $2,200.00 ($82.00)
+Payment of
+$2,200.00 applied
+to [07/01/22, acct
+4000, $2,200.00]
+and $38.00
+applied to
+[07/01/22, acct
+4037, $38.00] and
+$39.00 applied to
+[07/01/22, acct Alicia
+4038, $39.00] and Joelle
+Settled
+06/30/2022 L7PPHWWNLA7 $5.00 applied to Burchfield- 07/07/2022 $2,285.00 ($2,282.00)
+ePayment
+[07/01/22, acct Allies Real
+4036, $5.00] and Account
+$3.00 applied to
+[06/30/22, acct
+4202, $3.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from Allies Real
+Account account
+Paid Charge 06/30/2022 4202 - $3.00 $3.00
+Convenience Fee :
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=3806003206&prn=1 5/7
+
+--- Page 6 ---
+
+5/10/23, 2:49 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Convenience Fee
+Payment of $3.00
+applied to
+[06/02/22, acct
+4202, $3.00] and
+$5.00 applied to
+[06/01/22, acct
+4036, $5.00] and
+$2,200.00 applied
+to [06/01/22, acct
+4000, $2,200.00] Alicia
+and $39.00 Joelle
+Settled
+06/02/2022 YV26WGSNLA8 applied to Burchfield- 06/07/2022 $2,285.00 $0.00
+ePayment
+[06/01/22, acct Allies Real
+4038, $39.00] and Account
+$38.00 applied to
+[06/01/22, acct
+4037, $38.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from Allies Real
+Account account
+4202 -
+Paid Charge 06/02/2022 Convenience Fee : $3.00 $2,285.00
+Convenience Fee
+4038 - RBP with
+Paid Charge 06/01/2022 $39.00 $2,282.00
+Ins
+4037 - SDRP
+Paid Charge 06/01/2022 $38.00 $2,243.00
+Monthly Premium
+4036 -
+Paid Charge 06/01/2022 $5.00 $2,205.00
+Administrative Fee
+Paid Charge 06/01/2022 4000 - Rent $2,200.00 $2,200.00
+Payment of $27.30
+applied to
+[05/01/22, acct
+4038, $27.30] and
+$26.60 applied to
+[05/01/22, acct
+4037, $26.60] and
+$1,537.00 applied
+to [05/01/22, acct
+Alicia
+4000, $1,540.00]
+Joelle
+Settled and $3.50 applied
+05/02/2022 X8YCLFQNL10 Burchfield- 05/06/2022 $1,597.40 ($0.00)
+ePayment to [05/01/22, acct
+Allies Real
+4036, $3.50] and
+Account
+$3.00 applied to
+[05/02/22, acct
+4202, $3.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from Allies Real
+Account account
+4202 -
+Paid Charge 05/02/2022 Convenience Fee : $3.00 $1,597.40
+Convenience Fee
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=3806003206&prn=1 6/7
+
+--- Page 7 ---
+
+5/10/23, 2:49 PM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4038 - RBP with
+Paid Charge 05/01/2022 $27.30 $1,594.40
+Ins
+4037 - SDRP
+Paid Charge 05/01/2022 $26.60 $1,567.10
+Monthly Premium
+4036 -
+Paid Charge 05/01/2022 $3.50 $1,540.50
+Administrative Fee
+Paid Charge 05/01/2022 4000 - Rent $1,540.00 $1,537.00
+4205 - Lease
+Paid Charge 04/10/2022 $250.00 ($3.00)
+Admin/Insp Fee
+4038 - RBP with
+Paid Charge 04/10/2022 $39.00 ($253.00)
+Ins
+4037 - SDRP
+Paid Charge 04/10/2022 $38.00 ($292.00)
+Monthly Premium
+4036 -
+Paid Charge 04/10/2022 $5.00 ($330.00)
+Administrative Fee
+Paid Charge 04/10/2022 4000 - Rent $2,200.00 ($335.00)
+Payment of $3.00
+applied to
+[05/01/22, acct
+4000, $1,540.00]
+and $250.00
+applied to
+[04/10/22, acct
+4205, $250.00]
+and $39.00
+applied to
+[04/10/22, acct
+4038, $39.00] and
+$38.00 applied to
+Alicia
+[04/10/22, acct
+Joelle
+Settled 4037, $38.00] and
+04/01/2022 LYYSV0MNLA2 Burchfield- 04/06/2022 $2,538.00 ($2,535.00)
+ePayment $5.00 applied to
+Allies Real
+[04/10/22, acct
+Account
+4036, $5.00] and
+$2,200.00 applied
+to [04/10/22, acct
+4000, $2,200.00]
+and $3.00 applied
+to [04/01/22, acct
+4202, $3.00]/One
+Time ePayment
+received from
+Alicia Joelle
+Burchfield, Paid
+from Allies Real
+Account account
+4202 -
+Paid Charge 04/01/2022 Convenience Fee : $3.00 $3.00
+Convenience Fee
+Copyright © Propertyware® 2003-2023. All rights reserved.
+Various trademarks held by their respective owners.
+https://app.propertyware.com/pw/leases/lease_detail.do?entityID=3806003206&prn=1 7/7

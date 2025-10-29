@@ -1,0 +1,28 @@
+Filename: 1018 Hunley Waters - McElroy - Duckworth - Stephens - Tidelands Invoice.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:14:39.992173
+============================================================
+
+
+--- Page 1 ---
+
+Invoice
+Meld #TAA6YMFB
+Turnover
+1018 Hunley Waters Cir
+North Charleston, SC 29405-7266
+Total: $387.81
+From
+PURE Property Management - Charleston
+237 Old Summerville Rd unit F
+Summerville, SC 29486
+Ticket Completed Invoice date
+Wed, 20 Nov 2024 Fri, 22 Nov 2024
+Notes
+Turn work - Jake
+No. Description Quantity Cost Price Amount
+1 Materials 1.0000 $147.81 $147.81 $147.81
+2 Labor 1.0000 hour(s) $240.00 $240.00 $240.00
+Total: $387.81
+Page 1 of 1

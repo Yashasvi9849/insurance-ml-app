@@ -1,0 +1,28 @@
+Filename: Condon 3201 Move Out Statement.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:33:29.098931
+============================================================
+
+
+--- Page 1 ---
+
+Move Out Statement
+Date: 05/06/2024
+Code t0073479 Property sun Lease From 09/29/2023
+Name Whitney Condon Unit 3201 Lease To 09/30/2024
+Address 1309 28th St Status Past Move In 09/29/2023
+Rent 1,445.00 Move Out 04/30/2024
+City Sioux City, IA 51104-2901 Notice 04/24/2024
+Telephone (O)-( ) - (H)-(712) 574-3496
+Date Description Charge Payment Balance Chg/Rec
+Balance as of 4/01/2024 0.00
+04/01/2024 Residential Rent (04/2024) 1,445.00 0.00 1,445.00 3401891
+04/01/2024 Garage Rent (04/2024) 85.00 0.00 1,530.00 3401892
+04/01/2024 Renters Insurance (04/2024) 19.00 0.00 1,549.00 3401893
+04/01/2024 Security Deposit Protection (04/2024) 33.00 0.00 1,582.00 3401894
+04/01/2024 Utility Revenue (04/2024) 40.00 0.00 1,622.00 3401895
+04/03/2024 chk# 411028419 Payer Last Name: Condon - ACH - PayLease 0.00 1,622.00 0.00 2421210
+05/06/2024 Replaced Bent Window Blinds in Master Bedroom 80.00 0.00 80.00 3437149
+05/06/2024 Replaced Screen in Door Due To Holes 75.00 0.00 155.00 3437150
+05/06/2024 Carpet Cleaning 90.00 0.00 245.00 3437151

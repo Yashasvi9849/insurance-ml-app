@@ -1,0 +1,55 @@
+Filename: Martinez ledger.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:31:21.953680
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+Billing Period Statement Date
+08/01/24 - 11/21/24 11/21/24
+Property Unit Type Acc #
+824 17th 824 17th Ave S O#7ffice Space 25661
+TO:
+Ailene Martinez Previous Current Current
+Balance Due
+Balance Charges Credits
+4548 S Giants Way 0.00 2,475.75 1,724.00 751.75
+Nampa, ID 83686
+Last Payment Amount Enclosed
+10/14/24 $206.00 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount Running Bal.
+08/01/24 CASH Payment Received Flex RM4453626185402 -386.00 -386.00
+08/01/24 Amenity Service Package 30.00 -356.00
+08/01/24 Rent 295.00 -61.00
+08/01/24 Zero Deposit Program Charge 45.00 -16.00
+08/01/24 Renters Insurance - YRIG policy 16.00 0.00
+09/01/24 Amenity Service Package 30.00 30.00
+09/01/24 Zero Deposit Program Charge 45.00 75.00
+09/01/24 Renters Insurance - YRIG policy 16.00 91.00
+09/01/24 Rent 305.00 396.00
+09/08/24 Late Charge Late Charge 50.00 446.00
+09/14/24 Web Pay CHK Payment Received [NSF] Paid By: Ailene Martinez (Ailenemtz12@-4g4m6.a0i0l.com). 0.00
+09/19/24 Web Pay CHK NSF Adjustment [NSF] Paid By: Ailene Martinez (Ailenemtz12@4g4m6.a0i0l.com). 446.00
+09/19/24 Web Pay VISA Payment Received Paid By: Ailene Martinez (Ailenemtz12@gmai-l4.c4o6m.0)0. Auth # - 8476607.002069651541
+10/01/24 Amenity Service Package 30.00 30.00
+10/01/24 Zero Deposit Program Charge 45.00 75.00
+10/01/24 Renters Insurance - YRIG policy 16.00 91.00
+10/01/24 Rent 305.00 396.00
+10/08/24 Late Charge Late Charge 50.00 446.00
+10/11/24 Web Pay CHK Payment Received [NSF] Paid By: Ailene Martinez (Ailenemtz12@-2g4m0.a0i0l.com). 206.00
+10/14/24 Web Pay CHK Payment Received [NSF] Paid By: Ailene Martinez (Ailenemtz12@-2g0m6.a0i0l.com). 0.00
+10/17/24 Web Pay CHK NSF Adjustment [NSF] Paid By: Ailene Martinez (Ailenemtz12@2g4m0.a0i0l.com). 240.00
+10/18/24 Web Pay CHK NSF Adjustment [NSF] Paid By: Ailene Martinez (Ailenemtz12@2g0m6.a0i0l.com). 446.00
+10/22/24 Three day notice service 3-day notice mailed and served per Idaho Law25.00 471.00
+10/24/24 Repair service Tenant responsible repairs, parts and labor 109.50 580.50
+10/24/24 Painting Non-normal wear and tear painting- Tona 101.25 681.75
+10/24/24 Carpet Cleaning Service Tenant responsible carpet cleaning- PG 70.00 751.75
+Sub Total 751.75
+Unapplied Credits 0.00
+Balance Due 751.75
+Comments
+Statement - 8.5x11 11/21/24 01:29 PM Page 1 rentmanager.com - property management systems rev.12.241100

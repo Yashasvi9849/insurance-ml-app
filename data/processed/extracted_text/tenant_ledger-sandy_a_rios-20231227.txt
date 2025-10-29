@@ -1,0 +1,137 @@
+Filename: tenant_ledger-sandy_a_rios-20231227.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:15:00.225627
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Tenants:Sandy A. Rios
+Mobile:(415) 283-8904
+Unit:--
+Property:2130 Prato Street-HW - 2130 Prato St Brentwood, CA 94513
+Status:Evict
+Move in date:11/01/2022
+Move out date:12/11/2023
+Lease Expiration:10/29/2023
+Rent:2,700.00
+Deposit Paid:0.00
+Date Payer Description Charges Payments Balance
+Starting Balance 0.00
+10/17/2022 Application Fee 35.00 35.00
+10/17/2022 Sandy A. Rios Credit Card Payment (Reference #8409-3D70) 35.00 0.00
+10/25/2022 Sandy A. Rios Credit Card Payment (Reference #F073-9C20) 2,639.00 -2,639.00
+11/01/2022 Rent - Move In Charge: Rent 2,600.00 -39.00
+11/01/2022 RBP w/ Insurance - Move In Charge: RBP with Ins. 39.00 0.00
+11/21/2022 Utility Chargeback - Water service 11/1 to 11/07 96.91 96.91
+12/01/2022 Rent - December 2022 2,600.00 2,696.91
+12/01/2022 RBP w/ Insurance - December 2022 39.00 2,735.91
+12/01/2022 SDRP Fee - December 2022 53.00 2,788.91
+12/01/2022 Admin Fee - December 2022 5.00 2,793.91
+12/02/2022 Sandy A. Rios Credit Card Payment (Reference #85A3-6020) 2,793.91 0.00
+12/19/2022 Water & Sewer - Credit for water overage due to leak -299.42 -299.42
+01/01/2023 Rent - January 2023 2,600.00 2,300.58
+01/01/2023 RBP w/ Insurance - January 2023 39.00 2,339.58
+01/01/2023 SDRP Fee - January 2023 53.00 2,392.58
+01/01/2023 Admin Fee - January 2023 5.00 2,397.58
+01/06/2023 Sandy A. Rios Credit Card Payment (Reference #56F1-1DC0) 2,397.58 0.00
+02/01/2023 Rent - February 2023 2,600.00 2,600.00
+02/01/2023 RBP w/ Insurance - February 2023 39.00 2,639.00
+02/01/2023 SDRP Fee - February 2023 53.00 2,692.00
+02/01/2023 Admin Fee - February 2023 5.00 2,697.00
+02/06/2023 Late Fee - February Rent 125.00 2,822.00
+02/06/2023 Sandy A. Rios Credit Card Payment (Reference #7808-58E0) 2,822.00 0.00
+Created on 12/27/2023 Page 1
+
+--- Page 2 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+03/01/2023 Rent - March 2023 2,600.00 2,600.00
+03/01/2023 RBP w/ Insurance - March 2023 39.00 2,639.00
+03/01/2023 SDRP Fee - March 2023 53.00 2,692.00
+03/01/2023 Admin Fee - March 2023 5.00 2,697.00
+03/03/2023 Sandy A. Rios Credit Card Payment (Reference #68F1-4E10) 2,697.00 0.00
+03/27/2023 Water & Sewer - Credit water for valve leak -225.00 -225.00
+04/01/2023 Rent - April 2023 2,600.00 2,375.00
+04/01/2023 RBP w/ Insurance - April 2023 39.00 2,414.00
+04/01/2023 SDRP Fee - April 2023 53.00 2,467.00
+04/01/2023 Admin Fee - April 2023 5.00 2,472.00
+04/04/2023 Sandy A. Rios Credit Card Payment (Reference #C5A1-DB10) 1,600.00 872.00
+04/04/2023 Sandy A. Rios Credit Card Payment (Reference #43B3-B750) 872.00 0.00
+05/01/2023 Rent - May 2023 2,600.00 2,600.00
+05/01/2023 RBP w/ Insurance - May 2023 39.00 2,639.00
+05/01/2023 SDRP Fee - May 2023 53.00 2,692.00
+05/01/2023 Admin Fee - May 2023 5.00 2,697.00
+05/05/2023 Sandy A. Rios Credit Card Payment (Reference #ADC2-AF00) 2,400.00 297.00
+05/05/2023 Sandy A. Rios Credit Card Payment (Reference #C572-F740) 297.00 0.00
+06/01/2023 Rent - June 2023 2,600.00 2,600.00
+06/01/2023 RBP w/ Insurance - June 2023 39.00 2,639.00
+06/01/2023 SDRP Fee - June 2023 53.00 2,692.00
+06/01/2023 Admin Fee - June 2023 5.00 2,697.00
+06/07/2023 Late Fee 125.00 2,822.00
+06/12/2023 Sandy A. Rios Credit Card Payment (Reference #BBA6-2BA0) 2,822.00 0.00
+07/01/2023 Rent - July 2023 2,600.00 2,600.00
+07/01/2023 RBP w/ Insurance - July 2023 39.00 2,639.00
+07/01/2023 SDRP Fee - July 2023 53.00 2,692.00
+07/01/2023 Admin Fee - July 2023 5.00 2,697.00
+07/11/2023 Late Fee 125.00 2,822.00
+07/12/2023 Sandy A. Rios Credit Card Payment (Reference #A1CF-35F0) 2,822.00 0.00
+08/01/2023 Rent - August 2023 2,600.00 2,600.00
+08/01/2023 SDRP Fee - August 2023 53.00 2,653.00
+08/01/2023 RBP w/ Insurance - August 2023 39.00 2,692.00
+08/01/2023 Admin Fee - August 2023 5.00 2,697.00
+Created on 12/27/2023 Page 2
+
+--- Page 3 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+08/07/2023 Late Fee 125.00 2,822.00
+08/10/2023 Admin Fee - Posting Notice 50.00 2,872.00
+08/16/2023 Sandy A. Rios Payment (Reference #1592637267) August 2023 2,872.00 0.00
+09/01/2023 Rent - September 2023 2,600.00 2,600.00
+09/01/2023 SDRP Fee - September 2023 53.00 2,653.00
+09/01/2023 RBP w/ Insurance - September 2023 39.00 2,692.00
+09/01/2023 Admin Fee - September 2023 5.00 2,697.00
+09/08/2023 Late Fee 125.00 2,822.00
+09/14/2023 Admin Fee - Posting Fee 50.00 2,872.00
+09/14/2023 Admin Fee - Posting fee, 3-day 50.00 2,922.00
+09/15/2023 Sandy A. Rios Payment (Reference #19-495511566) 500.00 2,422.00
+09/15/2023 Sandy A. Rios Payment (Reference #19-495511565) 500.00 1,922.00
+09/15/2023 Sandy A. Rios Payment (Reference #19-495511562) 500.00 1,422.00
+09/15/2023 Sandy A. Rios Payment (Reference #19-495511563) 500.00 922.00
+09/15/2023 Sandy A. Rios Payment (Reference #19-495511564) 500.00 422.00
+09/15/2023 Sandy A. Rios Payment (Reference #19-495511567) 422.00 0.00
+10/01/2023 Rent - October 2023 2,600.00 2,600.00
+10/01/2023 RBP w/ Insurance - October 2023 39.00 2,639.00
+10/01/2023 SDRP Fee - October 2023 53.00 2,692.00
+10/01/2023 Admin Fee - October 2023 5.00 2,697.00
+10/04/2023 Late Fee - October Rent 125.00 2,822.00
+10/10/2023 Admin Fee - Posting Fee 45.00 2,867.00
+11/01/2023 Rent - November 2023 2,600.00 5,467.00
+11/01/2023 RBP w/ Insurance - November 2023 39.00 5,506.00
+11/01/2023 SDRP Fee - November 2023 53.00 5,559.00
+11/01/2023 Admin Fee - November 2023 5.00 5,564.00
+11/04/2023 Late Fee - Late Fee for Nov 2023 104.00 5,668.00
+12/01/2023 RBP w/ Insurance - December 2023 39.00 5,707.00
+12/01/2023 SDRP Fee - December 2023 53.00 5,760.00
+12/01/2023 Admin Fee - December 2023 5.00 5,765.00
+12/01/2023 Rent - December 2023 (Prorated 12 Days) 1,080.00 6,845.00
+12/04/2023 Late Fee - Late Fee for Dec 2023 108.00 6,953.00
+12/08/2023 Tenant Chargeback - Eviction court fees-Invoice 9833 700.00 7,653.00
+12/26/2023 Deposit Forfeit - Diamond Construction-Blind, screen, bulbs, remove items 1,525.00 9,178.00
+left behind, switch
+Created on 12/27/2023 Page 3
+
+--- Page 4 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+12/26/2023 Deposit Forfeit - Paint touch up 450.00 9,628.00
+12/26/2023 Deposit Forfeit - Cleaning 250.00 9,878.00
+12/26/2023 Deposit Forfeit - Carpet Cleaning 270.00 10,148.00
+Total 10,148.00
+Created on 12/27/2023 Page 4

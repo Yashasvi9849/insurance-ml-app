@@ -6,7 +6,7 @@ print("FIXING TARGET VARIABLE")
 print("="*60 + "\n")
 
 input_path = Path('data/processed/extracted_features.csv')
-output_path = Path('data/processed/extracted_features_fixed.csv')
+output_path = Path('data/processed/extracted_features.csv')
 
 if not input_path.exists():
     print(f"❌ Error: {input_path} not found")

@@ -1,0 +1,130 @@
+Filename: tenant_ledger-elsa_woldeyesus-20241203.pdf
+Method: pdfplumber
+Pages: 3
+Extracted: 2025-10-29T11:30:33.374399
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Tenants:Elsa Woldeyesus
+Mobile:(614) 202-0036
+Phone:(614) 202-0036
+Unit:5724
+Property:The Ravines at Rocky Ridge - 5700 Rocky Ridge Landings Drive Westerville, OH 43081
+Status:Past
+Move in date:07/15/2017
+Move out date:10/31/2024
+Lease Expiration:09/30/2024
+Rent:0.00
+Deposit Paid:0.00
+Date Payer Description Charges Payments Balance
+Starting Balance 0.00
+07/15/2017 Mgmt Held Security Deposits 100.00 100.00
+07/15/2017 Elsa Woldeyesus Payment 100.00 0.00
+10/01/2022 Rent Income - October 2022 1,095.00 1,095.00
+10/01/2022 Trash Fee - October 2022 20.00 1,115.00
+10/03/2022 Elsa Woldeyesus ACH Payment (Reference #0B66-03C0) 475.00 640.00
+10/04/2022 RSC After hours E Call monthly credit -340.00 300.00
+10/04/2022 RSC Clubhouse close & after hours E-Call monthly credit -300.00 0.00
+10/30/2022 Elsa Woldeyesus ACH Payment (Reference #4875-FEB0) 475.00 -475.00
+11/01/2022 Rent Income - November 2022 1,095.00 620.00
+11/01/2022 Trash Fee - November 2022 20.00 640.00
+11/02/2022 RSC After hours E Call monthly credit -340.00 300.00
+11/02/2022 RSC Clubhouse close & after hours E-Call monthly credit -300.00 0.00
+11/30/2022 Elsa Woldeyesus ACH Payment (Reference #A578-1770) 475.00 -475.00
+12/01/2022 Rent Income - December 2022 1,095.00 620.00
+12/01/2022 Trash Fee - December 2022 20.00 640.00
+12/10/2022 RSC After hours E Call monthly credit -340.00 300.00
+12/10/2022 RSC Clubhouse close & after hours E-Call monthly credit -300.00 0.00
+12/30/2022 Elsa Woldeyesus ACH Payment (Reference #0086-09B0) 475.00 -475.00
+01/01/2023 Rent Income - January 2023 1,095.00 620.00
+01/01/2023 Trash Fee - January 2023 20.00 640.00
+01/11/2023 RSC Clubhouse close & after hours E-Call monthly credit -340.00 300.00
+- RSC monthly credits. RSC E-Call monthly rental credit is
+$340.
+01/11/2023 RSC After hours E Call monthly credit - Jan 2023 - RSC -300.00 0.00
+Clubhouse close monthly rental credit is $300
+01/26/2023 Elsa Woldeyesus Credit Card Payment (Reference #B47C-1220) 2,230.00 -2,230.00
+02/01/2023 Rent Income - February 2023 1,095.00 -1,135.00
+02/01/2023 Trash Fee - February 2023 20.00 -1,115.00
+02/09/2023 RSC After hours E Call monthly credit - Feb 2023 RSC E -90.67 -1,205.67
+Call rent credit proration from 02/01/23 thru 02/08/2023
+02/09/2023 RSC Clubhouse close & after hours E-Call monthly credit -80.00 -1,285.67
+- Feb 2023 RSC Clubhouse rent credit proration from 02/
+01/23 thru 02/08/2023
+02/28/2023 Elsa Woldeyesus ACH Payment (Reference #4537-BFE0) 2,059.33 -3,345.00
+03/01/2023 Rent Income - March 2023 1,095.00 -2,250.00
+03/01/2023 Trash Fee - March 2023 20.00 -2,230.00
+Created on 12/03/2024 Page 1
+
+--- Page 2 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+04/01/2023 Rent Income - April 2023 1,095.00 -1,135.00
+04/01/2023 Trash Fee - April 2023 20.00 -1,115.00
+05/01/2023 Rent Income - May 2023 1,095.00 -20.00
+05/01/2023 Trash Fee - May 2023 20.00 0.00
+05/26/2023 Elsa Woldeyesus ACH Payment (Reference #3745-5150) 1,115.00 -1,115.00
+06/01/2023 Rent Income - June 2023 1,095.00 -20.00
+06/01/2023 Trash Fee - June 2023 20.00 0.00
+06/28/2023 Elsa Woldeyesus ACH Payment (Reference #57F9-E470) 1,115.00 -1,115.00
+07/01/2023 Rent Income - July 2023 1,095.00 -20.00
+07/01/2023 Trash Fee - July 2023 20.00 0.00
+07/30/2023 Elsa Woldeyesus ACH Payment (Reference #B744-5E80) 1,115.00 -1,115.00
+08/01/2023 Rent Income - August 2023 1,095.00 -20.00
+08/01/2023 Trash Fee - August 2023 20.00 0.00
+08/23/2023 Elsa Woldeyesus ACH Payment (Reference #CDFE-4420) 1,115.00 -1,115.00
+09/01/2023 Rent Income - September 2023 1,095.00 -20.00
+09/01/2023 Trash Fee - September 2023 20.00 0.00
+10/01/2023 Mgmt Held Security Deposits - Security Deposit Waiver/ -100.00 -100.00
+Credit
+10/01/2023 TLL20 - October 2023 19.95 -80.05
+10/01/2023 Rent Income - October 2023 1,195.00 1,114.95
+10/01/2023 Garbage and Recycling - October 2023 20.00 1,134.95
+10/02/2023 Elsa Woldeyesus Payment (Reference #863) October Rent 1,134.95 0.00
+11/01/2023 Rent Income - November 2023 1,195.00 1,195.00
+11/01/2023 Garbage and Recycling - November 2023 20.00 1,215.00
+11/03/2023 TLL20 -19.95 1,195.05
+11/06/2023 Elsa Woldeyesus Payment (Reference #866) November Rent-LJS 1,195.05 0.00
+12/01/2023 Rent Income - December 2023 1,195.00 1,195.00
+12/01/2023 Garbage and Recycling - December 2023 20.00 1,215.00
+12/04/2023 Elsa Woldeyesus Payment (Reference #868) December Rent-LJS 1,215.00 0.00
+12/16/2023 Elsa Woldeyesus Credit Card Payment (Reference #5816-3EC0) 2,430.00 -2,430.00
+12/19/2023 Elsa Woldeyesus Credit Card Payment (Reference #6475-6CE0) 2,430.00 -4,860.00
+12/19/2023 Elsa Woldeyesus Credit Card Payment (Reference #BA8B-8CF0) 2,430.00 -7,290.00
+01/01/2024 Rent Income - January 2024 1,195.00 -6,095.00
+01/01/2024 Garbage and Recycling - January 2024 20.00 -6,075.00
+01/11/2024 Elsa Woldeyesus Credit Card Payment (Reference #B440-8CF0) 2,430.00 -8,505.00
+02/01/2024 Rent Income - February 2024 1,195.00 -7,310.00
+02/01/2024 Garbage and Recycling - February 2024 20.00 -7,290.00
+03/01/2024 Rent Income - March 2024 1,195.00 -6,095.00
+03/01/2024 Garbage and Recycling - March 2024 20.00 -6,075.00
+04/01/2024 Rent Income - April 2024 1,195.00 -4,880.00
+04/01/2024 Garbage and Recycling - April 2024 20.00 -4,860.00
+05/01/2024 Rent Income - May 2024 1,195.00 -3,665.00
+05/01/2024 Garbage and Recycling - May 2024 20.00 -3,645.00
+05/02/2024 Elsa Woldeyesus Credit Card Payment (Reference #36E6-7320) 2,430.00 -6,075.00
+06/01/2024 Rent Income - June 2024 1,195.00 -4,880.00
+06/01/2024 Garbage and Recycling - June 2024 20.00 -4,860.00
+07/01/2024 Rent Income SDW1000 - July 2024 1,195.00 -3,665.00
+Created on 12/03/2024 Page 2
+
+--- Page 3 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+07/01/2024 Garbage and Recycling - July 2024 20.00 -3,645.00
+08/01/2024 Rent Income SDW1000 - August 2024 1,195.00 -2,450.00
+08/01/2024 Garbage and Recycling - August 2024 20.00 -2,430.00
+09/01/2024 Rent Income SDW1000 - September 2024 1,195.00 -1,235.00
+09/01/2024 Garbage and Recycling - September 2024 20.00 -1,215.00
+10/01/2024 Garbage and Recycling - October 2024 20.00 -1,195.00
+10/01/2024 Rent Income SDW1000 - October 2024 - 2x2 monthly rate 1,449.00 254.00
+10/02/2024 Elsa Woldeyesus ACH Payment (Reference #2328-58F0) 254.00 0.00
+11/25/2024 Utility Reimbursement Fee - Final Utility Bill 10/15/24 - 10/ 81.99 81.99
+31/24
+Total 81.99
+Created on 12/03/2024 Page 3

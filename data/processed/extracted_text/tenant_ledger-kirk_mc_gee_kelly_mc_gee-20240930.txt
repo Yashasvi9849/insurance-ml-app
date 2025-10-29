@@ -1,0 +1,60 @@
+Filename: tenant_ledger-kirk_mc_gee_kelly_mc_gee-20240930.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:34:25.698416
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Tenants:Kirk McGee, Kelly McGee
+Mobile:(817) 204-9606
+Unit:--
+Property:McKavett1036 - 1036 McKavett DR Fort Worth, TX 76140
+Status:Past
+Move in date:12/11/2023
+Move out date:08/20/2024
+Lease Expiration:09/30/2025
+Rent:1,855.00
+Deposit Paid:0.00
+Date Payer Description Charges Payments Balance
+Starting Balance 0.00
+01/01/2024 Rent Income - January 2024 1,855.00 1,855.00
+01/01/2024 Security Deposit Alternative - January 2024 60.00 1,915.00
+02/01/2024 Rent Income - February 2024 1,855.00 3,770.00
+02/01/2024 Security Deposit Alternative - February 2024 60.00 3,830.00
+02/01/2024 Kirk McGee Credit Card Payment (Reference #D794-0F40) 1,915.00 1,915.00
+02/06/2024 Administration Fee to Tenant - 3 Day Notice - February 25.00 1,940.00
+02/22/2024 Kirk McGee Credit Card Payment (Reference #5356-5FA0) 1,927.50 12.50
+03/01/2024 Rent Income - March 2024 1,855.00 1,867.50
+03/01/2024 Security Deposit Alternative - March 2024 60.00 1,927.50
+03/03/2024 Kirk McGee Credit Card Payment (Reference #516C-35D0) 1,927.50 0.00
+04/01/2024 Rent Income - April 2024 1,855.00 1,855.00
+04/01/2024 Security Deposit Alternative - April 2024 60.00 1,915.00
+04/02/2024 Kirk McGee Credit Card Payment (Reference #12C2-D500) 1,915.00 0.00
+05/01/2024 Rent Income - May 2024 1,855.00 1,855.00
+05/01/2024 Security Deposit Alternative - May 2024 60.00 1,915.00
+05/09/2024 Kirk McGee Payment (Reference #22-057026395, 394, 393) 1,915.00 0.00
+06/01/2024 Rent Income - June 2024 1,855.00 1,855.00
+06/01/2024 Security Deposit Alternative - June 2024 60.00 1,915.00
+06/04/2024 Late Fee - Late Fee for Jun 2024 222.60 2,137.60
+06/04/2024 Administration Fee to Tenant - 3 Day Notice - June 25.00 2,162.60
+06/08/2024 Kirk McGee Payment (Reference #0459418030) 2,137.60 25.00
+07/01/2024 Rent Income - July 2024 1,855.00 1,880.00
+07/01/2024 Security Deposit Alternative - July 2024 60.00 1,940.00
+Created on 09/30/2024 Page 1
+
+--- Page 2 ---
+
+Tenant Ledger
+Date Payer Description Charges Payments Balance
+07/04/2024 Late Fee - Late Fee for Jul 2024 222.60 2,162.60
+07/08/2024 Administration Fee to Tenant - 3 Day Notice - July 25.00 2,187.60
+07/09/2024 Kirk McGee Payment (Reference #0459635577) 1,915.00 272.60
+08/01/2024 Rent Income - August 1-20 2024 1,196.77 1,469.37
+08/01/2024 Security Deposit Alternative - August 2024 60.00 1,529.37
+09/16/2024 Make-Ready 1,300.00 2,829.37
+09/16/2024 Repair - Flooring 1,085.71 3,915.08
+Total 3,915.08
+Created on 09/30/2024 Page 2

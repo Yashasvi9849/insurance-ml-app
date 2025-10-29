@@ -1,0 +1,392 @@
+Filename: tenant ledger.pdf
+Method: pdfplumber
+Pages: 6
+Extracted: 2025-10-29T11:31:38.781281
+============================================================
+
+
+--- Page 1 ---
+
+Propertyware - On Demand Real Estate Solu(cid:415)on h(cid:425)ps://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Blue Fox Properties, LLC
+Lease: King - King_1
+Contact: Justin King
+Contact: Riana King
+Property Address: 12090 N Goldenview Ln
+Marana,AZ 85653-0258
+Balance as of 06/05/2023 Prepayments Total Unpaid Deposit Held
+$1,010.00 $0.00 $1,010.00 $0.00
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Unpaid 5301 - Sec Dep-
+06/05/2023 $269.00 $1,010.00
+Charge Carpet &Tile
+Unpaid 5310 - Sec Dep-
+06/05/2023 $216.00 $741.00
+Charge Hndymn(less tha...
+Unpaid 5302 - Sec Dep-
+06/05/2023 $525.00 $525.00
+Charge General&Window
+Payment of
+$1,061.29 applied to
+[05/01/23, acct 4000,
+$1,061.29] and
+$25.00 applied to
+[05/01/23, acct 4014,
+$25.00] and $65.00
+applied to [05/01/23,
+Riana
+acct 4030, $65.00]
+Settled King-
+05/03/2023 7NZY96VPLA5 and $29.00 applied 05/08/2023 $1,334.97 $0.00
+ePayment Check
+to [05/01/23, acct
+WRT
+4025, $29.00] and
+$154.68 applied to
+[05/01/23, acct 4002,
+$154.68]/One Time
+ePayment received
+from Riana King,
+Paid from Check
+WRT account
+4030 - RIS - Monthly
+Paid Charge 05/01/2023 $65.00 $1,334.97
+fee to te...
+4014 - Monthly Pet
+Paid Charge 05/01/2023 $25.00 $1,269.97
+Fee
+4002 - Utility fees
+Paid Charge 05/01/2023 $154.68 $1,244.97
+collected ...
+4025 - Resident
+Paid Charge 05/01/2023 $29.00 $1,090.29
+Benefit Packag...
+05/01/23-05 4000 - Rent :
+Paid Charge 05/01/2023 $1,061.29 $1,061.29
+/14/23 05/01/23-05/14/23
+1 of 6 6/5/2023, 9:47 AM
+
+--- Page 2 ---
+
+Propertyware - On Demand Real Estate Solu(cid:415)on h(cid:425)ps://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $25.00
+applied to [04/01/23,
+acct 4014, $25.00]
+and $29.00 applied
+to [04/01/23, acct
+4025, $29.00] and
+$154.68 applied to
+[04/01/23, acct 4002,
+Riana
+$154.68] and $65.00
+Settled King-
+04/01/2023 PYXBM4SPLA5 applied to [04/01/23, 04/06/2023 $2,623.68 $0.00
+ePayment Check
+acct 4030, $65.00]
+WRT
+and $2,350.00
+applied to [04/01/23,
+acct 4000,
+$2,350.00]/One Time
+ePayment received
+from Riana King,
+Paid from Check
+WRT account
+4030 - RIS - Monthly
+Paid Charge 04/01/2023 $65.00 $2,623.68
+fee to te...
+4014 - Monthly Pet
+Paid Charge 04/01/2023 $25.00 $2,558.68
+Fee
+4002 - Utility fees
+Paid Charge 04/01/2023 $154.68 $2,533.68
+collected ...
+4025 - Resident
+Paid Charge 04/01/2023 $29.00 $2,379.00
+Benefit Packag...
+Paid Charge 04/01/2023 4000 - Rent $2,350.00 $2,350.00
+Payment of $29.00
+applied to [03/01/23,
+acct 4025, $29.00]
+and $2,350.00
+applied to [03/01/23,
+acct 4000,
+$2,350.00] and
+$65.00 applied to
+[03/01/23, acct 4030, Riana
+Settled $65.00] and $25.00 King-
+03/01/2023 8QC5WQNPLA8 03/06/2023 $2,623.68 $0.00
+ePayment applied to [03/01/23, Check
+acct 4014, $25.00] WRT
+and $154.68 applied
+to [03/01/23, acct
+4002, $154.68]/One
+Time ePayment
+received from Riana
+King, Paid from
+Check WRT account
+4030 - RIS - Monthly
+Paid Charge 03/01/2023 $65.00 $2,623.68
+fee to te...
+4014 - Monthly Pet
+Paid Charge 03/01/2023 $25.00 $2,558.68
+Fee
+4002 - Utility fees
+Paid Charge 03/01/2023 $154.68 $2,533.68
+collected ...
+4025 - Resident
+Paid Charge 03/01/2023 $29.00 $2,379.00
+Benefit Packag...
+2 of 6 6/5/2023, 9:47 AM
+
+--- Page 3 ---
+
+Propertyware - On Demand Real Estate Solu(cid:415)on h(cid:425)ps://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Paid Charge 03/01/2023 4000 - Rent $2,350.00 $2,350.00
+Payment of $65.00
+applied to [02/01/23,
+acct 4030, $65.00]
+and $154.68 applied
+to [02/01/23, acct
+4002, $154.68] and
+$25.00 applied to
+[02/01/23, acct 4014,
+Riana
+$25.00] and
+Settled King-
+02/01/2023 QV7PF0LPLA7 $2,350.00 applied to 02/06/2023 $2,623.68 $0.00
+ePayment Check
+[02/01/23, acct 4000,
+WRT
+$2,350.00] and
+$29.00 applied to
+[02/01/23, acct 4025,
+$29.00]/One Time
+ePayment received
+from Riana King,
+Paid from Check
+WRT account
+4030 - RIS - Monthly
+Paid Charge 02/01/2023 $65.00 $2,623.68
+fee to te...
+4014 - Monthly Pet
+Paid Charge 02/01/2023 $25.00 $2,558.68
+Fee
+4002 - Utility fees
+Paid Charge 02/01/2023 $154.68 $2,533.68
+collected ...
+4025 - Resident
+Paid Charge 02/01/2023 $29.00 $2,379.00
+Benefit Packag...
+Paid Charge 02/01/2023 4000 - Rent $2,350.00 $2,350.00
+Payment of $154.68
+applied to [01/01/23,
+acct 4002, $154.68]
+and $25.00 applied
+to [01/01/23, acct
+4014, $25.00] and
+$2,350.00 applied to
+[01/01/23, acct 4000,
+Riana
+$2,350.00] and
+Settled King-
+01/01/2023 2Z7TPLGPLA3 $29.00 applied to 01/06/2023 $2,623.68 $0.00
+ePayment Check
+[01/01/23, acct 4025,
+WRT
+$29.00] and $65.00
+applied to [01/01/23,
+acct 4030,
+$65.00]/One Time
+ePayment received
+from Riana King,
+Paid from Check
+WRT account
+4030 - RIS - Monthly
+Paid Charge 01/01/2023 $65.00 $2,623.68
+fee to te...
+4014 - Monthly Pet
+Paid Charge 01/01/2023 $25.00 $2,558.68
+Fee
+4002 - Utility fees
+Paid Charge 01/01/2023 $154.68 $2,533.68
+collected ...
+3 of 6 6/5/2023, 9:47 AM
+
+--- Page 4 ---
+
+Propertyware - On Demand Real Estate Solu(cid:415)on h(cid:425)ps://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4025 - Resident
+Paid Charge 01/01/2023 $29.00 $2,379.00
+Benefit Packag...
+Paid Charge 01/01/2023 4000 - Rent $2,350.00 $2,350.00
+Payment of
+$2,350.00 applied to
+[12/01/22, acct 4000,
+$2,350.00] and
+$25.00 applied to
+[12/01/22, acct 4014,
+$25.00] and $65.00
+applied to [12/01/22,
+Riana
+acct 4030, $65.00]
+Settled King-
+12/01/2022 PMTF56CPLA4 and $29.00 applied 12/06/2022 $2,623.68 $0.00
+ePayment Check
+to [12/01/22, acct
+WRT
+4025, $29.00] and
+$154.68 applied to
+[12/01/22, acct 4002,
+$154.68]/One Time
+ePayment received
+from Riana King,
+Paid from Check
+WRT account
+4030 - RIS - Monthly
+Paid Charge 12/01/2022 $65.00 $2,623.68
+fee to te...
+4014 - Monthly Pet
+Paid Charge 12/01/2022 $25.00 $2,558.68
+Fee
+4002 - Utility fees
+Paid Charge 12/01/2022 $154.68 $2,533.68
+collected ...
+4025 - Resident
+Paid Charge 12/01/2022 $29.00 $2,379.00
+Benefit Packag...
+Paid Charge 12/01/2022 4000 - Rent $2,350.00 $2,350.00
+Payment of $65.00
+applied to [11/01/22,
+acct 4030, $65.00]
+and $25.00 applied
+to [11/01/22, acct
+4014, $25.00] and
+$154.68 applied to
+[11/01/22, acct 4002,
+Riana
+$154.68] and $29.00
+Settled King-
+11/01/2022 DHYNQG8PLA1 applied to [11/01/22, 11/04/2022 $2,623.68 $0.00
+ePayment Check
+acct 4025, $29.00]
+WRT
+and $2,350.00
+applied to [11/01/22,
+acct 4000,
+$2,350.00]/One Time
+ePayment received
+from Riana King,
+Paid from Check
+WRT account
+4030 - RIS - Monthly
+Paid Charge 11/01/2022 $65.00 $2,623.68
+fee to te...
+4014 - Monthly Pet
+Paid Charge 11/01/2022 $25.00 $2,558.68
+Fee
+4 of 6 6/5/2023, 9:47 AM
+
+--- Page 5 ---
+
+Propertyware - On Demand Real Estate Solu(cid:415)on h(cid:425)ps://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4002 - Utility fees
+Paid Charge 11/01/2022 $154.68 $2,533.68
+collected ...
+4025 - Resident
+Paid Charge 11/01/2022 $29.00 $2,379.00
+Benefit Packag...
+Paid Charge 11/01/2022 4000 - Rent $2,350.00 $2,350.00
+Payment of $25.00
+applied to [10/01/22,
+acct 4014, $25.00]
+and $154.68 applied
+to [10/01/22, acct
+4002, $154.68] and
+$65.00 applied to
+[10/01/22, acct 4030,
+$65.00] and $20.00
+Riana
+applied to [10/02/22,
+Settled King-
+10/02/2022 W5G2YQ5PLA7 acct 4340, $20.00] 10/06/2022 $2,643.68 $0.00
+ePayment Check
+and $29.00 applied
+WRT
+to [10/01/22, acct
+4025, $29.00] and
+$2,350.00 applied to
+[10/01/22, acct 4000,
+$2,350.00]/One Time
+ePayment received
+from Riana King,
+Paid from Check
+WRT account
+4340 - Late Fee :
+Calculated on
+Paid Charge 10/02/2022 $20.00 $2,643.68
+10/02/2022 5:19 AM
+by system
+4030 - RIS - Monthly
+Paid Charge 10/01/2022 $65.00 $2,623.68
+fee to te...
+4014 - Monthly Pet
+Paid Charge 10/01/2022 $25.00 $2,558.68
+Fee
+4002 - Utility fees
+Paid Charge 10/01/2022 $154.68 $2,533.68
+collected ...
+4025 - Resident
+Paid Charge 10/01/2022 $29.00 $2,379.00
+Benefit Packag...
+Paid Charge 10/01/2022 4000 - Rent $2,350.00 $2,350.00
+Payment of $250.00
+applied to [09/02/22,
+acct 4008, $250.00]
+and $1,175.00
+applied to [09/02/22,
+acct 4000,
+Deposited $1,175.00] and Riana
+09/03/2022 BL3MM03PLA8 09/03/2022 $1,640.00 $0.00
+Payment $150.00 applied to King
+[09/02/22, acct 4021,
+$150.00] and $65.00
+applied to [09/02/22,
+acct 4030,
+$65.00]/RentMoney -
+Riana King
+4030 - RIS - Monthly
+Paid Charge 09/02/2022 $65.00 $1,640.00
+fee to te...
+5 of 6 6/5/2023, 9:47 AM
+
+--- Page 6 ---
+
+Propertyware - On Demand Real Estate Solu(cid:415)on h(cid:425)ps://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4021 - Non-
+Paid Charge 09/02/2022 Refundable Pet $150.00 $1,575.00
+Fee-...
+4008 - Tenant
+Paid Charge 09/02/2022 $250.00 $1,425.00
+Administrative F...
+Paid Charge 09/02/2022 4000 - Rent $1,175.00 $1,175.00
+Copyright © Propertyware® 2003-2023. All rights reserved.
+Various trademarks held by their respective owners.
+6 of 6 6/5/2023, 9:47 AM

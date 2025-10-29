@@ -1,0 +1,79 @@
+Filename: PGF DD Authorization Form.pdf
+Method: ocr
+Pages: 2
+Extracted: 2025-10-29T11:15:24.188884
+============================================================
+
+
+--- Page 1 ---
+
+YourRenters | Insurance
+Group
+
+CONSUMER AUTHORIZATION FOR DIRECT DEPOSIT VIA ACH (ACH CREDITS)
+
+| (we) hereby authorize YRIG Risk Retention Group, Inc or Your Renters Insurance Group,
+
+LLC (collectively YRIG) to electronically credit my (our) account and, if necessary, to
+
+electronically debit my (our) account to correct erroneous credits as follows:
+
+Select One:
+
+@ Checking Account
+[Savings Account
+
+at the depository financial institution named below (‘DEPOSITORY’). | (we) agree that ACH
+transactions | (we) authorize comply with all applicable law.
+
+Depository Name Pinnacle Bank
+
+Routing Number 104913912 Account Number 2300341522
+
+Name(s) on the Account GFALLS 370 LLC dba Mansions at Granite Falls
+
+| (we) understand that this authorization will remain in full force and effect until | (we) notify YRIG in
+writing, 15510 Wright Brothers Dr. Addison, TX 75001 that | (we) wish to revoke this authorization.
+| (we) understand that YRIG requires at least 1 week prior notice to cancel this authorization.
+Name(s) Craig Reid . (Please Print)
+Signature(s) y
+
+pate 07/01/2024 /
+
+Check Copy
+
+Pee
+
+
+--- Page 2 ---
+
+Pinnacle Bank
+| 5651 S 59th St
+GFALLS 370 LLC Lincoln, NE 68516 1234
+dba Mansions at Granite Falls (402) 434-3185
+9200 Andermatt Dr, Ste A 104913912
+| Lincoln, NE 68526 DATE 07/01/2024
+PERRY REID 402-488-1666 a
+$1,234.56***
+*““* ONE THOUSAND TWO HUNDRED THIRTY FOUR AND 56/100 DOLLARS
+MEMO: Optional check memo
+totue Vendor Name VOID AFTER 6 MONTHS
+_ ORDER OF AND Optional second vendor
+Line1 Vendor Address
+Line2 Vendor Address
+Line3 Vendor Address
+\ Ge SECURITY FEATURES INCLUDED. DETAILS ON BACK Ge
+Na ee
+BeOKNKbAGk et 2300940522" OOLZIL
+DATE:07/01/2024 CK#:1234 TOTAL:$1,234.56*** BANK:Pinnacle Bank - PGF(pgf)
+PAYEE:AND Optional second vendor() Vendor Name MEMO: Optional check memo
+Property Address - Code Invoice - Date Description Amount
+1234 North Main St. 333123: Replace windows north side 1000.55
+53 South Maple St. 22-100 Replace carpets downstairs #5 234.01
+4,234.56
+DATE:07/01/2024 CK#:1234 TOTAL:$1,234.56*** BANK:Pinnacle Bank - PGF(pgf)
+PAYEE:AND Optional second vendor() Vendor Name MEMO: Optional check memo
+Property Address - Code Invoice - Date Description Amount
+1234 North Main St. 333123 Replace windows north side 1000.55
+53 South Maple St. 22-100 Replace carpets downstairs #5 234.01
+1,234.56

@@ -1,0 +1,38 @@
+Filename: 405 Wilson Drive - No Refund Letter.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:35:16.095050
+============================================================
+
+
+--- Page 1 ---
+
+Excalibur Homes, LLC
+2855 Marconi Dr, Ste 310
+Alpharetta, GA 30005
+678-825-1400 Fax 678-825-1401
+2/20/2023
+Reed, Georgia
+405 Wilson Dr
+Kennesaw, GA 30144
+Re: Your Rental Account at: 405 Wilson Dr
+Kennesaw, GA 30144
+Dear Resident(s):
+Georgia law requires that we notify tenants regarding the disposition of their security deposit after they move out.
+Our Records indicate that you paid a deposit of $ 0.00 on the property you leased from Excalibur.
+Your current balance due is more than your Security Deposit amount. We have, therefore, applied the deposit to
+outstanding charges. The remaining balance is still due as shown on the attached ledger.
+If you moved out prior to the end of your lease without the Landlord's consent then you owe rent through the end of the
+lease or until a new tenant moves in and starts paying rent. If this is your circumstance then the charges on the attached
+register show rent charged through the end of the lease. Once the property has been re-rented and we know the date that
+the new tenant starts paying rent, your charges for rent will be reduced accordingly.
+Please send in certified funds for payment in full or call to arrange a payment schedule within 30 days of the date of this
+letter. If we have not heard from you within 30 days the unpaid balance may be sent to a collection agency. This might
+have a negative impact on your credit rating.
+Please contact our office as soon as possible so that we may resolve this situation.
+Sincerely,
+Ally Lawson
+For Excalibur Homes, LLC
+alawson@excaliburhomes.com
+678-825-1400
+NO REFUNDS COLLECTIONS

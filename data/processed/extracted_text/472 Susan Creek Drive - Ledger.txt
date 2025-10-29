@@ -1,0 +1,186 @@
+Filename: 472 Susan Creek Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:12:27.105944
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+09/01/22 - 11/20/23 11/20/23
+(678)825-1400
+Property Unit Type Acc #
+X1A-04449 472 Susan Creek HDOrUSE 56119
+TO:
+Previous Current Current Balance
+White, Shamillia(DISPO)(BR)
+Balance Charges Credits Due
+472 Susan Creek Dr
+0.00 41,675.17 27,333.19 14,341.98
+Stone mountain, GA 30083
+Last Payment Amount Enclosed
+6/15/23 $2,586.00 CASH
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+09/21/22 Rent Reservation Fee 2,225.00
+09/22/22 CashPay Payment Payment Received CashPay Payment -2,225.00
+09/23/22 Rent Reservation Fee reversing rr fee to allcoate payment to -2,225.00
+future rent
+09/30/22 CashPay Payment Payment Received CashPay Payment -200.00
+09/30/22 TBR Admin Fee to PM Admin fee per lease 200.00
+09/30/22 TBR Rent Charge Prorated rent for 1 day 9/30/22 74.17
+10/01/22 TBR Rent Charge 2,225.00
+10/01/22 Sec Dep Ins Charge to Tenant 59.00
+11/01/22 TBR Rent Charge 2,225.00
+11/01/22 Sec Dep Ins Charge to Tenant 59.00
+11/02/22 TBR EFT Service Fees 15.00
+11/02/22 Web Pay VISA Payment Received Paid By: Shamillia White -2,432.17
+(wshay79.sw@gmail.com). Auth # -
+83374521282361855
+12/01/22 TBR Rent Charge 2,225.00
+12/01/22 Sec Dep Ins Charge to Tenant 59.00
+12/03/22 TBR EFT Service Fees 15.00
+12/03/22 Web Pay VISA Payment Received Paid By: Shamillia White -2,299.00
+(wshay79.sw@gmail.com). Auth # -
+8296106884988388
+01/01/23 TBR Rent Charge 2,225.00
+01/01/23 Sec Dep Ins Charge to Tenant 59.00
+01/01/23 YRIG Prem 20.00
+01/06/23 TBR Late Charges 222.50
+01/12/23 TBR EFT Service Fees 15.00
+01/12/23 Web Pay VISA Payment Received Paid By: Shamillia White -2,541.50
+(wshay79.sw@gmail.com). Auth # -
+8208425693872345
+02/01/23 TBR Rent Charge 2,225.00
+02/01/23 Sec Dep Ins Charge to Tenant 59.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+09/01/22 - 11/20/23 11/20/23
+(678)825-1400
+Property Unit Type Acc #
+X1A-04449 472 Susan Creek HDOrUSE 56119
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 41,675.17 27,333.19 14,341.98
+Date Reference Description Amount
+02/01/23 YRIG Prem 20.00
+02/02/23 TBR EFT Service Fees 15.00
+02/02/23 Web Pay VISA Payment Received Paid By: Shamillia White -2,319.00
+(wshay79.sw@gmail.com). Auth # -
+83375169239836279
+03/01/23 TBR Rent Charge 2,225.00
+03/01/23 Sec Dep Ins Charge to Tenant 59.00
+03/01/23 YRIG Prem 20.00
+03/03/23 TBR EFT Service Fees 15.00
+03/03/23 Web Pay VISA Payment Received Paid By: Shamillia White -2,319.00
+(wshay79.sw@gmail.com). Auth # -
+83375376567020695
+04/01/23 TBR Rent Charge 2,225.00
+04/01/23 Sec Dep Ins Charge to Tenant 59.00
+04/01/23 YRIG Prem 20.00
+04/06/23 TBR Late Charges 222.50
+04/06/23 TBR EFT Service Fees 15.00
+04/06/23 Web Pay VISA Payment Received Paid By: Shamillia White -2,541.50
+(wshay79.sw@gmail.com). Auth # -
+8824751018306030
+05/01/23 TBR Rent Charge 2,225.00
+05/01/23 Sec Dep Ins Charge to Tenant 59.00
+05/01/23 YRIG Prem 20.00
+05/05/23 TBR EFT Service Fees 15.00
+05/05/23 Web Pay VISA Payment Received Paid By: Shamillia White -2,319.00
+(wshay79.sw@gmail.com). Auth # -
+83375822858462336
+06/01/23 TBR Rent Charge 2,225.00
+06/01/23 Sec Dep Ins Charge to Tenant 59.00
+06/01/23 YRIG Prem 20.00
+06/06/23 TBR Late Charges 222.50
+06/08/23 TBR EFT Service Fees 10.00
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+09/01/22 - 11/20/23 11/20/23
+(678)825-1400
+Property Unit Type Acc #
+X1A-04449 472 Susan Creek HDOrUSE 56119
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 41,675.17 27,333.19 14,341.98
+Date Reference Description Amount
+06/08/23 Web Pay CHK Payment Received [NSF] Paid By: Shamillia White -2,536.50
+(wshay79.sw@gmail.com).
+06/12/23 Web Pay CHK NSF Adjustment [NSF] Paid By: Shamillia White 2,536.50
+(wshay79.sw@gmail.com).
+06/12/23 TBR NSF Fees 1st NSF(6/8/2023) 50.00
+06/15/23 CASH Payment Received CCxx0552 June Rent, YRIG, SD Ins, -2,586.00
+EFT, NSF & Late Fees
+07/01/23 TBR Rent Charge 2,225.00
+07/01/23 Sec Dep Ins Charge to Tenant 59.00
+07/01/23 YRIG Prem 20.00
+07/06/23 TBR Late Charge to Owner 222.50
+07/18/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+08/01/23 TBR Rent Charge 2,225.00
+08/01/23 Sec Dep Ins Charge to Tenant 59.00
+08/01/23 YRIG Prem 20.00
+08/07/23 TBR Late Charge to Owner 222.50
+09/01/23 TBR Rent Charge 2,225.00
+09/01/23 Sec Dep Ins Charge to Tenant 59.00
+09/01/23 YRIG Prem 20.00
+09/06/23 TBR Late Charge to Owner 222.50
+10/01/23 TBR Rent Charge 2,225.00
+10/01/23 Sec Dep Ins Charge to Tenant 59.00
+10/01/23 YRIG Prem 20.00
+10/06/23 TBR Late Charge to Owner 222.50
+10/31/23 TBR Damages to Property Charges Trash out inside and outside 1,500.00
+10/31/23 TBR Damages to Property Charges damaged locks front door rekey 150.00
+10/31/23 TBR Damages to Property Charges Flea Treatment 450.00
+10/31/23 TBR Damages to Property Charges upstairs left front bedroom drywall 150.00
+damaged and stain
+10/31/23 TBR Damages to Property Charges carpet cleaning throughout 200.00
+10/31/23 TBR Damages to Property Charges Downstairs drywall removed and 300.00
+damaged
+Page 3
+
+--- Page 4 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+09/01/22 - 11/20/23 11/20/23
+(678)825-1400
+Property Unit Type Acc #
+X1A-04449 472 Susan Creek HDOrUSE 56119
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 41,675.17 27,333.19 14,341.98
+Date Reference Description Amount
+10/31/23 TBR Damages to Property Charges loset in left front bedroom door off the 75.00
+track
+10/31/23 TBR Damages to Property Charges Replace refrigerator 1,100.00
+10/31/23 TBR Damages to Property Charges clean microwave 0.00
+10/31/23 TBR Damages to Property Charges Deep Clean Home Throughout 300.00
+10/31/23 TBR Damages to Property Charges Replace damaged baseboards, 350.00
+10/31/23 TBR Damages to Property Charges drywall repair in laundry room 150.00
+11/19/23 TBR Rent Charge Tenant vacated on 10/20/23. Reversing -789.52
+10/21/23-10/31/23 rent
+Sub Total 14,341.98
+Unapplied Credits 0.00
+Balance Due 14,341.98
+Comments
+Page 4

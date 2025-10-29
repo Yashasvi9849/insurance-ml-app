@@ -1,0 +1,99 @@
+Filename: 30 Huckleberry Court - Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:35:05.412164
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+09/01/22 - 05/31/23 05/04/23
+6788251400
+Property Unit Type Acc #
+C1A-08203 30 Huckleberry CtHOUSE 56215
+TO:
+Previous Current Current Balance
+Shelby, Alexus(DISPONP)
+Balance Charges Credits Due
+30 Huckleberry Ct
+0.00 15,465.00 10,806.50 4,658.50
+Villa Rica, GA 30180
+Last Payment Amount Enclosed
+2/5/23 $1,773.00 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+09/23/22 Rent Reservation Fee 1,695.00
+09/23/22 CashPay Payment Payment Received CashPay Payment -1,695.00
+09/27/22 Rent Reservation Fee reversing rr fee to allocate payment to -1,695.00
+future rent
+09/27/22 CashPay Payment Payment Received CashPay Payment -200.00
+09/30/22 TBR Admin Fee to PM Admin fee per lease 200.00
+09/30/22 TBR Rent Charge Prorated rent for 1 day 9/30/22 56.50
+10/01/22 YRIG Prem 20.00
+10/01/22 TBR Rent Charge 1,695.00
+10/01/22 Sec Dep Ins Charge to Tenant 48.00
+10/01/22 TBR Credit to Tenant 7 day concession per lease -382.74
+11/01/22 YRIG Prem 20.00
+11/01/22 TBR Rent Charge 1,695.00
+11/01/22 Sec Dep Ins Charge to Tenant 48.00
+11/03/22 TBR EFT Service Fees 10.00
+11/03/22 Web Pay CHK Payment Received Paid By: Alexus Shelby -1,514.76
+(alexusshelby@aol.com).
+12/01/22 YRIG Prem 20.00
+12/01/22 TBR Rent Charge 1,695.00
+12/01/22 Sec Dep Ins Charge to Tenant 48.00
+12/05/22 TBR EFT Service Fees 10.00
+12/05/22 Web Pay CHK Payment Received Paid By: Alexus Shelby -1,773.00
+(alexusshelby@aol.com).
+01/01/23 YRIG Prem 20.00
+01/01/23 TBR Rent Charge 1,695.00
+01/01/23 Sec Dep Ins Charge to Tenant 48.00
+01/04/23 TBR EFT Service Fees 10.00
+01/04/23 Web Pay CHK Payment Received Paid By: Alexus Shelby -1,773.00
+(alexusshelby@aol.com).
+02/01/23 YRIG Prem 20.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+09/01/22 - 05/31/23 05/04/23
+6788251400
+Property Unit Type Acc #
+C1A-08203 30 Huckleberry CtHOUSE 56215
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 15,465.00 10,806.50 4,658.50
+Date Reference Description Amount
+02/01/23 TBR Rent Charge 1,695.00
+02/01/23 Sec Dep Ins Charge to Tenant 48.00
+02/05/23 TBR EFT Service Fees 10.00
+02/05/23 Web Pay CHK Payment Received Paid By: Alexus Shelby -1,773.00
+(alexusshelby@aol.com).
+03/01/23 YRIG Prem 20.00
+03/01/23 TBR Rent Charge 1,695.00
+03/01/23 Sec Dep Ins Charge to Tenant 48.00
+03/06/23 TBR Late Charge to Owner 169.50
+03/23/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+05/03/23 TBR Rent Charge Rent for 4/1/23-4/4/23 226.00
+05/03/23 TBR Damages to Property Charges Damaged lower right side screen 50.00
+05/03/23 TBR Damages to Property Charges Trash out 200.00
+05/03/23 TBR Damages to Property Charges Drywall damage throughout home 400.00
+05/03/23 TBR Damages to Property Charges Cracked outlet cover in living room 50.00
+05/03/23 TBR Damages to Property Charges Two damaged doors and door frames 500.00
+upstairs
+05/03/23 TBR Damages to Property Charges Replace fridge due to mold in freezer 1,000.00
+(power was off)
+Sub Total 4,658.50
+Unapplied Credits 0.00
+Balance Due 4,658.50
+Comments
+Page 2

@@ -1,0 +1,30 @@
+Filename: 2022-10-07_20_12_15.902767+00_00-7721_Suzane_dr_Glass.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:34:54.811590
+============================================================
+
+
+--- Page 1 ---
+
+Invoice 10/07/2022
+Customer Information One Stop Contracting
+Name: Anna - Meld
+Address: 7721 Suzane dr Stanley Fonseca
+City: North Charleston State: SC 498 Truman dr, Goose creek , SC 29445
+Day Phone: Zip Code
+Phone: 843 694 2581
+Project Information
+Project Description
+Glass door replacement
+Labor
+Description Quantity Unit Price Subtotal
+Glass door replacement $1,400.00
+Total $1,400.00
+Materials
+Description Quantity Unit Price Subtotal
+Total $0.00
+Total Due
+Labot + Material = $1,400.00
+Thank You!
+Notes: labor is described below acording to numbers .

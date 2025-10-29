@@ -1,0 +1,27 @@
+Filename: Coke 413 Move Out Statement.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:31:09.697850
+============================================================
+
+
+--- Page 1 ---
+
+Move Out Statement
+Date: 10/16/2024
+Code t0072987 Property ssv Lease From 09/01/2024
+Name Jeremiah Coke Unit 413 Lease To 08/31/2025
+Address 105 Toscanini Avenue Status Past Move In 09/01/2023
+413 Rent 995.00 Move Out 10/14/2024
+City Sierra Vista, AZ 85635 Notice 10/14/2024
+Telephone (O)-( ) - (H)-(520) 678-9643
+Date Description Charge Payment Balance Chg/Rec
+Balance as of 10/01/2024 1,632.00
+10/01/2024 Residential Rent (10/2024) 995.00 0.00 2,627.00 3556624
+10/01/2024 Liability Protection Option 1 (10/2024) 16.00 0.00 2,643.00 3556625
+10/01/2024 Security Deposit Protection (10/2024) 33.00 0.00 2,676.00 3556626
+10/01/2024 Utility Revenue (10/2024) 35.00 0.00 2,711.00 3556627
+10/06/2024 Late Charge Late Fee 50.00 0.00 2,761.00 3568615
+10/16/2024 Carpet Cleaning 85.00 0.00 2,846.00 3571036
+10/16/2024 Cleaning Charges 185.00 0.00 3,031.00 3571037
+10/16/2024 Future Months Rent - Improper Notice 995.00 0.00 4,026.00 3571038

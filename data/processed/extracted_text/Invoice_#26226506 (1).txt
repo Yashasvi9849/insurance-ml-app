@@ -1,0 +1,46 @@
+Filename: Invoice_#26226506 (1).pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:30:36.388244
+============================================================
+
+
+--- Page 1 ---
+
+Invoice 26226506
+Rooter-Man
+P.O. Box 30098 Invoice Date 4/5/2022
+Charleston, SC 29417 TermsNet 30
+843-766-3311
+Completed Date 4/5/2022
+Customer PO
+Billing Address Job Address
+New Heights Property Management Tenant
+237 Old Summerville Road #Suite F 628 Constant Drive
+Summerville, SC 29483 USA Charleston, SC 29412 USA
+Description of Work
+Anna approved to pull toilet to clear mainline $325.00
+Cleared back bathroom having issue. Line is cast iron with slight belly. Tampons were stuck in line. Pulled back 5 tampons and when clog
+released it carried the rest.
+No warranty due to pitted, bellied cast iron.
+Recommd, No Frminine Products, No wipes, No thick toilet paper.
+Task # Description Quantity Your Price Your Total
+Drc016 3"-6" pipe size. Using up to 100 ft of cable. 1.00 $325.00 $325.00
+Create access to open stoppage through toilet flange or exterior patch up to 24 inches deep
+in rock free soil.
+Camera inspection is included.
+Sewer patches are not preferred access points. Sewer clean outs must be installed at an
+additional charge.
+Sub-Total $325.00
+Tax $0.00
+Total Due $325.00
+Balance Due $325.00
+If you have any questions about the work that was performed, want to compliment an employee, or suggest a way we can improve our service, please call 843-766-
+3311. We appreciate your business and feedback.
+I authorize Rooter-Man to perform the described services and I agree to pay the amount of $325.00 indicated. I understand the Rooter-Man is
+not responsible for broken, settled, rusted, or lead pipes, fixtures, or clean outs and any damage resulting from cleaning or such line.
+I agree that the price quoted prior to start of work does not include and additional or unforeseen tasks nor materials which may be found to be
+necessary to complete repairs or replacements.
+4/5/2022
+I acknowledge completion of the above described work which has been done to my satisfaction.
+4/5/2022

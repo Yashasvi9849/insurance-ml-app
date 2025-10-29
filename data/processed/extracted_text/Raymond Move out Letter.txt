@@ -1,0 +1,31 @@
+Filename: Raymond Move out Letter.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:34:22.099522
+============================================================
+
+
+--- Page 1 ---
+
+Park Place Property Management
+3815 River Crossing Pkwy, Ste 100
+Indianapolis, IN 46240
+RC51300076
+(317) 214-8552
+Move Out Statement / 45-Day Letter
+Lease concerning the property at: 1622 East Raymond Street, Indianapolis, IN 46203
+Move-In: 06-29-2023 Move-Out Notice: 05-16-2024
+Move-Out: 06-30-2024 Lease Expiration: 06-28-2024
+Have the lease terms been violated? No
+Itemization of Charges
+Charges are based on preexisting unpaid balances, unpaid rent, and the condition of the Property
+When vacated.
+Credits
+Total Credits $0.00
+Charges
+Clean up overgrown lawn $75.00
+Full house clean, including windows, blinds, appliances $1,176.00
+Trash out property after tenant move out $840.00
+Total Charges $2,091.00
+Balance Due
+Total Balance Due $2,091.00

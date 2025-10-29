@@ -1,0 +1,92 @@
+Filename: Transactions_6909.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:35:05.192095
+============================================================
+
+
+--- Page 1 ---
+
+Transactions
+Date Range: All
+Tenant Account Property Unit Active Start Active End
+Ethan Dorsey 9454 6909 Circle S 6909CI 6/24/2022 6/22/2023
+Date Reference Description Comment Amount Balance
+06/04/22 Application Fee Charged via Application: Ethan Dorsey 60.00 60.00
+(Edorsey2443@gmail.com)
+06/04/22 Web Pay SAV Payment Received Paid By: Ethan Dorsey -60.00 0.00
+(Edorsey2443@gmail.com).
+06/07/22 Admin Fee 125.00 125.00
+06/09/22 Web Pay AMEX Payment Received Paid By: Ethan Dorsey -1,810.00 -1,685.00
+(Edorsey2443@gmail.com). Auth # -
+821757317473106369
+06/24/22 Rent Charge First Month 1,595.00 -90.00
+06/24/22 Tenant Benefits Package A3 First Month 39.00 -51.00
+06/24/22 Renters Choice Program First Month 51.00 0.00
+07/01/22 Rent Charge Prorated 372.17 372.17
+07/01/22 Tenant Benefits Package A3 Prorated 9.10 381.27
+07/01/22 Renters Choice Program Prorated 11.90 393.17
+07/02/22 Web Pay CHK Payment Received Paid By: Ethan Dorsey -393.17 0.00
+(Edorsey2443@gmail.com).
+08/01/22 Rent Charge 1,595.00 1,595.00
+08/01/22 Tenant Benefits Package A3 39.00 1,634.00
+08/01/22 Renters Choice Program 51.00 1,685.00
+08/01/22 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+08/05/22 Utilities (Water/Electric/Sewer) (Service Dates) 6/24/2022 - 6/30/2022 18.67 18.67
+09/01/22 Rent Charge 1,595.00 1,613.67
+09/01/22 Tenant Benefits Package A3 39.00 1,652.67
+09/01/22 Renters Choice Program 51.00 1,703.67
+09/01/22 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,703.67 0.00
+(Edorsey2443@gmail.com).
+10/01/22 Rent Charge 1,595.00 1,595.00
+10/01/22 Tenant Benefits Package A3 39.00 1,634.00
+10/01/22 Renters Choice Program 51.00 1,685.00
+10/01/22 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+11/01/22 Rent Charge 1,595.00 1,595.00
+11/01/22 Tenant Benefits Package A3 39.00 1,634.00
+11/01/22 Renters Choice Program 51.00 1,685.00
+11/03/22 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+12/01/22 Rent Charge 1,595.00 1,595.00
+12/01/22 Tenant Benefits Package A3 39.00 1,634.00
+12/01/22 Renters Choice Program 51.00 1,685.00
+12/02/22 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+01/01/23 Rent Charge 1,595.00 1,595.00
+01/01/23 Tenant Benefits Package A3 39.00 1,634.00
+01/01/23 Renters Choice Program 51.00 1,685.00
+01/03/23 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+02/01/23 Rent Charge 1,595.00 1,595.00
+02/01/23 Tenant Benefits Package A3 39.00 1,634.00
+02/01/23 Renters Choice Program 51.00 1,685.00
+02/02/23 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+03/01/23 Rent Charge 1,595.00 1,595.00
+03/01/23 Tenant Benefits Package A3 39.00 1,634.00
+03/01/23 Renters Choice Program 51.00 1,685.00
+03/01/23 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+Transactions 07/19/23 12:44 PM Page 1 of2 rentmanager.com - property management systems rev.12.975
+
+--- Page 2 ---
+
+04/01/23 Rent Charge 1,595.00 1,595.00
+04/01/23 Tenant Benefits Package A3 39.00 1,634.00
+04/01/23 Renters Choice Program 51.00 1,685.00
+04/03/23 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+05/01/23 Rent Charge 1,595.00 1,595.00
+05/01/23 Tenant Benefits Package A3 39.00 1,634.00
+05/01/23 Renters Choice Program 51.00 1,685.00
+05/03/23 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,685.00 0.00
+(Edorsey2443@gmail.com).
+06/01/23 Rent Charge Prorated 06-01-23 to 06-22-23 1,169.67 1,169.67
+06/01/23 Tenant Benefits Package A3 Prorated 06-01-23 to 06-22-23 28.60 1,198.27
+06/01/23 Renters Choice Program Prorated 06-01-23 to 06-22-23 37.40 1,235.67
+06/03/23 Web Pay CHK Payment Received Paid By: Ethan Dorsey -1,235.67 0.00
+(Edorsey2443@gmail.com).
+07/19/23 Make Ready Hauloff 125.00 125.00
+Transactions 07/19/23 12:44 PM Page 2 of2 rentmanager.com - property management systems rev.12.975

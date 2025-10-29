@@ -1,0 +1,27 @@
+Filename: 2024-05-20 17_36_54.887062+00_00-expenditures_20_May_2024_17_36_47.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:34:44.207280
+============================================================
+
+
+--- Page 1 ---
+
+Invoice
+Meld #TPU1FJ2
+Turnover (tenant charges clone)
+447 Brick Kiln Dr
+Summerville, SC 29483-5196
+Total: $305.57
+From
+PURE Property Management - Charleston
+237 Old Summerville Rd unit F
+Summerville, SC 29486
+Ticket Completed Invoice date
+Thu, 25 Apr 2024 Mon, 20 May 2024
+Notes
+Jake - 3 screens that need frames and 4 that just need rescreening, completed repairs.
+No. Description Quantity Cost Price Amount
+1 Jake Pye 1.00 $0.00 $305.57 $305.57
+Total: $305.57
+Page 1 of 1

@@ -1,0 +1,551 @@
+Filename: 3e7f73302a9a45b1af4c7a5fd4ebb908 (1).pdf
+Method: pdfplumber
+Pages: 9
+Extracted: 2025-10-29T11:12:18.842520
+============================================================
+
+
+--- Page 1 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+New Heights PM
+Lease: Key - Wrenn - Wrenn
+Contact: Jami Wrenn
+Contact: Jordan Wrenn
+Contact: Joshua Key
+Property Address: 101 Gatehouse Dr
+Summerville,SC 29486-8229
+Balance as of 02/23/2023 Prepayments Total Unpaid Deposit Held
+$3,006.00 $0.00 $3,006.00 $0.00
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Unpaid 4010 - Maintenance
+02/14/2023 $200.00 $3,006.00
+Charge Coordinatio...
+Unpaid 5018 - Move-out
+02/14/2023 $1,306.00 $2,806.00
+Charge Repair : TK8VHGR
+Unpaid 5018 - Move-out
+02/14/2023 $1,500.00 $1,500.00
+Charge Repair : TF4C4LN
+Payment of $3.00
+applied to [01/05/23,
+acct 4202, $3.00] and
+$28.00 applied to
+[01/01/23, acct 4037,
+$28.00] and $10.00
+applied to [01/01/23,
+Jami
+acct 4017, $10.00]
+Alexis
+Settled and $1,400.00 applied
+01/05/2023 1P2GRLGPLA4 Wrenn- 01/10/2023 $1,471.00 $0.00
+ePayment to [01/01/23, acct
+Lexis
+4000, $1,400.00] and
+bank
+$30.00 applied to
+[01/01/23, acct 4024,
+$30.00]/One Time
+ePayment received
+from Jami Alexis
+Wrenn, Paid from
+Lexis bank account
+4202 - Convenience
+Paid Charge 01/05/2023 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 01/01/2023 $28.00 $1,468.00
+Premium
+Paid Charge 01/01/2023 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 01/01/2023 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 01/01/2023 4000 - Rent $1,400.00 $1,400.00
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 1/9
+
+--- Page 2 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $10.00
+applied to [12/01/22,
+acct 4017, $10.00]
+and $1,400.00 applied
+to [12/01/22, acct
+4000, $1,400.00] and
+$28.00 applied to Jami
+Settled [12/01/22, acct 4037, Alexis
+12/05/2022 4PQP66CPLA3 12/05/2022 $1,468.00 $0.00
+ePayment $28.00] and $30.00 Wrenn-
+applied to [12/01/22, Jami
+acct 4024,
+$30.00]/One Time
+ePayment received
+from Jami Alexis
+Wrenn, Paid from
+Jami account
+4037 - SDRP Monthly
+Paid Charge 12/01/2022 $28.00 $1,468.00
+Premium
+Paid Charge 12/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 12/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 12/01/2022 4000 - Rent $1,400.00 $1,400.00
+Payment of $28.00
+applied to [11/01/22,
+acct 4037, $28.00]
+and $3.00 applied to
+[11/05/22, acct 4202,
+$3.00] and $1,400.00
+applied to [11/01/22,
+acct 4000, $1,400.00]
+Joshua
+Settled and $10.00 applied to
+11/05/2022 12LDSG8PLA3 David 11/10/2022 $1,471.00 $0.00
+ePayment [11/01/22, acct 4017,
+Key-Dad
+$10.00] and $30.00
+applied to [11/01/22,
+acct 4024,
+$30.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from Dad
+account
+4202 - Convenience
+Paid Charge 11/05/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 11/01/2022 $28.00 $1,468.00
+Premium
+Paid Charge 11/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 11/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 11/01/2022 4000 - Rent $1,400.00 $1,400.00
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 2/9
+
+--- Page 3 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $1,400.00
+applied to [10/01/22,
+acct 4000, $1,400.00]
+and $28.00 applied to
+[10/01/22, acct 4037,
+$28.00] and $10.00
+applied to [10/01/22,
+Joshua
+acct 4017, $10.00]
+Settled David
+10/05/2022 08N90R5PLA2 and $30.00 applied to 10/11/2022 $1,471.00 $0.00
+ePayment Key-
+[10/01/22, acct 4024,
+Checking
+$30.00] and $3.00
+applied to [10/05/22,
+acct 4202, $3.00]/One
+Time ePayment
+received from Joshua
+David Key, Paid from
+Checking account
+4202 - Convenience
+Paid Charge 10/05/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 10/01/2022 $28.00 $1,468.00
+Premium
+Paid Charge 10/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 10/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 10/01/2022 4000 - Rent $1,400.00 $1,400.00
+Payment of $3.00
+applied to [09/05/22,
+acct 4202, $3.00] and
+$28.00 applied to
+[09/01/22, acct 4037,
+$28.00] and $30.00
+applied to [09/01/22,
+acct 4024, $30.00]
+Joshua
+Settled and $10.00 applied to
+09/05/2022 RL84N03PLA4 David 09/09/2022 $1,471.00 $0.00
+ePayment [09/01/22, acct 4017,
+Key-Dad
+$10.00] and $1,400.00
+applied to [09/01/22,
+acct 4000,
+$1,400.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from Dad
+account
+4202 - Convenience
+Paid Charge 09/05/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 09/01/2022 $28.00 $1,468.00
+Premium
+Paid Charge 09/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 09/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 09/01/2022 4000 - Rent $1,400.00 $1,400.00
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 3/9
+
+--- Page 4 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $10.00
+applied to [08/01/22,
+acct 4017, $10.00]
+and $1,400.00 applied
+to [08/01/22, acct
+4000, $1,400.00] and
+$5.00 applied to
+[08/01/22, acct 4036,
+$5.00] and $3.00
+Joshua
+applied to [08/05/22,
+Settled David
+08/05/2022 X3533YZNLA8 acct 4202, $3.00] and 08/10/2022 $1,471.00 $0.00
+ePayment Key-
+$30.00 applied to
+Anna
+[08/01/22, acct 4024,
+$30.00] and $23.00
+applied to [08/01/22,
+acct 4037,
+$23.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from Anna
+account
+4202 - Convenience
+Paid Charge 08/05/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 08/01/2022 $23.00 $1,468.00
+Premium
+4036 - Administrative
+Paid Charge 08/01/2022 $5.00 $1,445.00
+Fee
+Paid Charge 08/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 08/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 08/01/2022 4000 - Rent $1,400.00 $1,400.00
+Payment of $10.00
+applied to [07/01/22,
+acct 4017, $10.00]
+and $1,400.00 applied
+to [07/01/22, acct
+4000, $1,400.00] and
+$5.00 applied to
+[07/01/22, acct 4036,
+Joshua
+Settled $5.00] and $30.00
+07/05/2022 ZYTSJWWNLA5 David 07/05/2022 $1,468.00 $0.00
+ePayment applied to [07/01/22,
+Key-Suzi
+acct 4024, $30.00]
+and $23.00 applied to
+[07/01/22, acct 4037,
+$23.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from Suzi
+account
+4037 - SDRP Monthly
+Paid Charge 07/01/2022 $23.00 $1,468.00
+Premium
+4036 - Administrative
+Paid Charge 07/01/2022 $5.00 $1,445.00
+Fee
+Paid Charge 07/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 07/01/2022 4017 - Filter Program $10.00 $1,410.00
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 4/9
+
+--- Page 5 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Paid Charge 07/01/2022 4000 - Rent $1,400.00 $1,400.00
+Payment of $1,400.00
+applied to [06/01/22,
+acct 4000, $1,400.00]
+and $3.00 applied to
+[06/03/22, acct 4202,
+$3.00] and $10.00
+applied to [06/01/22,
+acct 4017, $10.00]
+and $5.00 applied to Joshua
+Settled [06/01/22, acct 4036, David
+06/03/2022 8H91WGSNL18 06/08/2022 $1,471.00 $0.00
+ePayment $5.00] and $30.00 Key-
+applied to [06/01/22, Checking
+acct 4024, $30.00]
+and $23.00 applied to
+[06/01/22, acct 4037,
+$23.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from
+Checking account
+4202 - Convenience
+Paid Charge 06/03/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 06/01/2022 $23.00 $1,468.00
+Premium
+4036 - Administrative
+Paid Charge 06/01/2022 $5.00 $1,445.00
+Fee
+Paid Charge 06/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 06/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 06/01/2022 4000 - Rent $1,400.00 $1,400.00
+Payment of $10.00
+applied to [05/01/22,
+acct 4017, $10.00]
+and $30.00 applied to
+[05/01/22, acct 4024,
+$30.00] and $1,400.00
+applied to [05/01/22,
+acct 4000, $1,400.00]
+and $3.00 applied to Joshua
+Settled [05/05/22, acct 4202, David
+05/05/2022 8FKRMFQNLA4 05/10/2022 $1,471.00 $0.00
+ePayment $3.00] and $5.00 Key-
+applied to [05/01/22, Checking
+acct 4036, $5.00] and
+$23.00 applied to
+[05/01/22, acct 4037,
+$23.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from
+Checking account
+4202 - Convenience
+Paid Charge 05/05/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 05/01/2022 $23.00 $1,468.00
+Premium
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 5/9
+
+--- Page 6 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4036 - Administrative
+Paid Charge 05/01/2022 $5.00 $1,445.00
+Fee
+Paid Charge 05/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 05/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 05/01/2022 4000 - Rent $1,400.00 $1,400.00
+Payment of $3.00
+applied to [04/05/22,
+acct 4202, $3.00] and
+$10.00 applied to
+[04/01/22, acct 4017,
+$10.00] and $1,400.00
+applied to [04/01/22,
+acct 4000, $1,400.00]
+and $5.00 applied to Joshua
+Settled [04/01/22, acct 4036, David
+04/05/2022 KCKXV0MNL10 04/08/2022 $1,471.00 $0.00
+ePayment $5.00] and $30.00 Key-
+applied to [04/01/22, Checking
+acct 4024, $30.00]
+and $23.00 applied to
+[04/01/22, acct 4037,
+$23.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from
+Checking account
+4202 - Convenience
+Paid Charge 04/05/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 04/01/2022 $23.00 $1,468.00
+Premium
+4036 - Administrative
+Paid Charge 04/01/2022 $5.00 $1,445.00
+Fee
+Paid Charge 04/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 04/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 04/01/2022 4000 - Rent $1,400.00 $1,400.00
+Payment of $30.00
+applied to [03/01/22,
+acct 4024, $30.00]
+and $5.00 applied to
+[03/01/22, acct 4036,
+$5.00] and $23.00
+applied to [03/01/22,
+acct 4037, $23.00]
+and $3.00 applied to Joshua
+Settled [03/05/22, acct 4202, David
+03/05/2022 5ZX56MHNLA2 03/10/2022 $1,471.00 $0.00
+ePayment $3.00] and $1,400.00 Key-
+applied to [03/01/22, Checking
+acct 4000, $1,400.00]
+and $10.00 applied to
+[03/01/22, acct 4017,
+$10.00]/One Time
+ePayment received
+from Joshua David
+Key, Paid from
+Checking account
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 6/9
+
+--- Page 7 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4202 - Convenience
+Paid Charge 03/05/2022 Fee : Convenience $3.00 $1,471.00
+Fee
+4037 - SDRP Monthly
+Paid Charge 03/01/2022 $23.00 $1,468.00
+Premium
+4036 - Administrative
+Paid Charge 03/01/2022 $5.00 $1,445.00
+Fee
+Paid Charge 03/01/2022 4024 - Animal Fee $30.00 $1,440.00
+Paid Charge 03/01/2022 4017 - Filter Program $10.00 $1,410.00
+Paid Charge 03/01/2022 4000 - Rent $1,400.00 $1,400.00
+4460 - Fee For
+Paid Charge 02/16/2022 Returned Paymen... : $45.00 $0.00
+Epayment Returned
+Returned Returned
+Returned Payment
+Payment 02/16/2022 Payment ($287.14) ($45.00)
+Adjustment
+Adjustment Adjustment
+Payment of $45.00
+applied to [02/16/22,
+acct 4460, $45.00]
+and $5.81 applied to
+[02/01/22, acct 4024,
+$5.81] and $3.00
+applied to [02/10/22,
+acct 4202, $3.00] and
+$0.97 applied to
+[02/01/22, acct 4036,
+$0.97] and $4.45
+Joshua
+applied to [02/01/22,
+Settled David
+02/15/2022 WD3H2MHNLA2 acct 4037, $4.45] and 02/18/2022 $335.14 ($332.14)
+ePayment Key-
+$270.97 applied to
+Checking
+[02/01/22, acct 4000,
+$270.97] and $3.00
+applied to [02/15/22,
+acct 4202, $3.00] and
+$1.94 applied to
+[02/01/22, acct 4017,
+$1.94]/One Time
+ePayment received
+from Joshua David
+Key, Paid from
+Checking account
+4202 - Convenience
+Paid Charge 02/15/2022 Fee : Convenience $3.00 $3.00
+Fee
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 7/9
+
+--- Page 8 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $5.81
+applied to [02/01/22,
+acct 4024, $5.81] and
+$1.94 applied to
+[02/01/22, acct 4017,
+$1.94] and $4.45
+applied to [02/01/22, Joshua
+Deposited
+acct 4037, $4.45] and David
+Payment 02/10/2022 6SBT3LFNL18 02/15/2022 $287.14 $0.00
+$0.97 applied to Key-
+(Returned)
+[02/01/22, acct 4036, Checking
+$0.97] and $270.97
+applied to [02/01/22,
+acct 4000, $270.97]
+and $3.00 applied to
+[02/10/22, acct 4202,
+$3.00]/Returned_NSF
+4202 - Convenience
+Paid Charge 02/10/2022 Fee : Convenience $3.00 $287.14
+Fee
+4037 - SDRP Monthly
+Paid Charge 02/01/2022 $4.45 $284.14
+Premium
+4036 - Administrative
+Paid Charge 02/01/2022 $0.97 $279.69
+Fee
+Paid Charge 02/01/2022 4024 - Animal Fee $5.81 $278.72
+Paid Charge 02/01/2022 4017 - Filter Program $1.94 $272.91
+Paid Charge 02/01/2022 4000 - Rent $270.97 $270.97
+4205 - Lease
+Paid Charge 01/26/2022 $250.00 $0.00
+Admin/Insp Fee
+4037 - SDRP Monthly
+Paid Charge 01/26/2022 $23.00 ($250.00)
+Premium
+4036 - Administrative
+Paid Charge 01/26/2022 $5.00 ($273.00)
+Fee
+Paid Charge 01/26/2022 4024 - Animal Fee $30.00 ($278.00)
+Paid Charge 01/26/2022 4017 - Filter Program $10.00 ($308.00)
+Paid Charge 01/26/2022 4000 - Rent $1,400.00 ($318.00)
+Payment of $68.00
+Jami
+Deposited applied to [01/26/22,
+01/25/2022 21024426605 Alexis 01/25/2022 $68.00 ($1,718.00)
+Payment acct 4205,
+Wrenn
+$250.00]/Pet fee
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 8/9
+
+--- Page 9 ---
+
+2/23/23, 11:20 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Payment of $182.00
+applied to [01/26/22,
+acct 4205, $250.00]
+and $23.00 applied to
+[01/26/22, acct 4037,
+$23.00] and $5.00
+applied to [01/26/22,
+acct 4036, $5.00] and Jami
+Deposited
+01/25/2022 0501478011 $30.00 applied to Alexis 01/25/2022 $1,650.00 ($1,650.00)
+Payment
+[01/26/22, acct 4024, Wrenn
+$30.00] and $10.00
+applied to [01/26/22,
+acct 4017, $10.00]
+and $1,400.00 applied
+to [01/26/22, acct
+4000, $1,400.00]/First
+Months Rent
+Copyright © Propertyware® 2003-2023. All rights reserved.
+Various trademarks held by their respective owners.
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 9/9

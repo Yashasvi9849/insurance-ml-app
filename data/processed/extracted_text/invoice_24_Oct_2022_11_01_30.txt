@@ -1,0 +1,45 @@
+Filename: invoice_24_Oct_2022_11_01_30.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:34:52.344455
+============================================================
+
+
+--- Page 1 ---
+
+Invoice
+Meld #TZ6YWAF
+Tenant Move Out Charges
+7721 Suzanne Dr
+North Charleston, SC 29418-3111
+Total: $1375.00
+To From
+New Heights Property Management TnT Property Solutions, LLC
+237 Old Summerville Rd unit F PO Box 1492
+Summerville, SC 29486 Summerville, SC 29484
+(843) 231-0164
+Ticket Completed Invoice date
+Thu, 13 Oct 2022 Mon, 24 Oct 2022
+Notes
+tnt invoice 3046
+No. Description Quantity Price Amount
+Landscaping including weeding, moving, edging,
+trimming, remove vines: grass was very tall; items
+in the tall grass that had to be removed prior to
+1 landscape 1.00 $175.00 $175.00
+2 Full Interior Clean-walls were very dusty 1.00 $250.00 $250.00
+3. Remove bell on wall in dining room by glass door
+4. Change air filter and clean grate 5. Reattach
+door to second bedroom 6. Master bedroom -
+remove lights on walls and command strip pieces 7.
+Remove broken glass off back patio 8. Ozone
+treatment for smell 9. Broken blinds in living room
+need replacing 10. Paint master bedroom left and
+right wall from nail holes and wall damage 11.
+Bedroom 2 - put screen back in window 12. Put
+laundry room door back on track 13. Remove any
+left over items/trash 14. Replace shower head to
+standard one 15. Replace damaged door trim in
+3 2nd bedroom 1.00 $950.00 $950.00
+Total: $1,375.00
+Page 1 of 1

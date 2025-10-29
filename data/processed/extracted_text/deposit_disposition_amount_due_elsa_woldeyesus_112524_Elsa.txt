@@ -1,0 +1,30 @@
+Filename: deposit_disposition_amount_due_elsa_woldeyesus_112524_Elsa.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:30:33.176153
+============================================================
+
+
+--- Page 1 ---
+
+11/25/2024
+The Ravines at Rocky Ridge
+5724 Nineteen Rock Crossing
+Westerville, OH 43081
+Elsa Woldeyesus
+5724 Nineteen Rock Crossing
+Westerville, OH 43081
+Re: Security Deposit Statement
+Dear Elsa Woldeyesus:
+Enclosed please find an itemized list of charges. Based on these charges, you have a
+balance due of $81.99.
+Charges
+Final Utility Bill 10/15/24 - 10/31/24 $81.99
+Total Charges $81.99
+Amount Due $81.99
+Please remit the balance due immediately. If you have any questions or concerns
+regarding the charges or balance due, please email us at
+614rentmeleasingoffice@gmail.com.
+Regards,
+Management
+The Ravines at Rocky Ridge

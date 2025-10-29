@@ -1,0 +1,24 @@
+Filename: Pruitt bill cleaning.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:18:04.884673
+============================================================
+
+
+--- Page 1 ---
+
+I N V O I C E 4 3
+Issued: 2/22/24
+B ILL TO: PAYABLE TO:
+Johnson Property Second To None Cleaning LLC
+Management 1534 W Heartland Dr E103
+1905 W Bella Ln #2 Kuna, ID 83634
+Nampa ID 83651
+DESCRIPTION DATE SQ FT PRICE TOTAL
+Move Out Clean 2/17/24 880 $0.25 $220
+Total Amount Due $220
+Payment is required within 30 days or a 15% late fee will be added. Please mail checks to the
+payable address above.
+Second To None Cleaning
+secondtononecleaningllc@gmail.com
+208-985-0336

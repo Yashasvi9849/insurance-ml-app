@@ -1,0 +1,39 @@
+Filename: Invoice_28682065.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:34:53.996316
+============================================================
+
+
+--- Page 1 ---
+
+Invoice 28682065
+Rooter-Man
+P.O. Box 30098 Invoice Date 6/22/2022
+Charleston, SC 29417 Completed Date 6/22/2022
+843-766-3311
+Customer PO
+Billing Address Job Address
+New Heights Property Management New Heights - Tenant
+237 Old Summerville Road #Suite F 7721 Suzanne Drive
+Summerville, SC 29483 USA North Charleston, SC 29418 USA
+Description of Work
+Came for clogged main line - after assessing, found toilet clogged and bath tub draining slow from hair build up on top of drain cover - I
+removed hair from tub and tub is draining properly at this time - I augured toilet to free up clog, freed clog - toilet is flushing properly at
+this time.
+Task # Description Quantity Your Price Your Total
+Drc008 Clear minor stoppage in sinks, tubs or other traps using hand auger and or plunger, an for 1.00 $175.00 $175.00
+clearing hair in tub drain.
+Sub-Total $175.00
+Tax $0.00
+Total Due $175.00
+Balance Due $175.00
+If you have any questions about the work that was performed, want to compliment an employee, or suggest a way we can improve our service, please call 843-766-
+3311. We appreciate your business and feedback.
+I authorize Rooter-Man to perform the described services and I agree to pay the amount of $175.00 indicated. I understand the Rooter-Man is
+not responsible for broken, settled, rusted, or lead pipes, fixtures, or clean outs and any damage resulting from cleaning or such line.
+I agree that the price quoted prior to start of work does not include and additional or unforeseen tasks nor materials which may be found to be
+necessary to complete repairs or replacements.
+6/22/2022
+I acknowledge completion of the above described work which has been done to my satisfaction.
+6/22/2022

@@ -1,0 +1,242 @@
+Filename: 3475 Deer Trace - Ledger.pdf
+Method: pdfplumber
+Pages: 5
+Extracted: 2025-10-29T11:18:04.610494
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/30/23 09/29/23
+(678)825-1400
+Property Unit Type Acc #
+X4A-03734 3475 Deer TraceHOUSE 54412
+TO:
+Previous Current Current Balance
+Ousley (R06), Shatoria
+Balance Charges Credits Due
+3475 Deer Trace
+0.00 31,786.65 28,714.16 3,072.49
+Lithonia, GA 30038
+Last Payment Amount Enclosed
+7/21/23 $2,242.66 Web Pay VISA
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+08/19/22 Rent Reservation Fee 1,895.00
+08/19/22 CashPay Payment Payment Received CashPay Payment -1,895.00
+08/23/22 Rent Reservation Fee reversing rr fee to allocate to future rent -1,895.00
+08/31/22 CashPay Payment Payment Received CashPay Payment -230.00
+08/31/22 TBR Admin Fee to PM Admin fee per lease 200.00
+08/31/22 TBR Rent Charge Prorated rent for 1 day 8/31/22 61.13
+08/31/22 TBR Smart Home Fee Prorated smart home fee for 1 day 0.97
+8/31/22
+09/01/22 TBR Rent Charge 1,895.00
+09/01/22 TBR Smart Home Fee 30.00
+09/01/22 YRIG Prem 20.00
+09/01/22 Sec Dep Ins Charge to Tenant 48.00
+09/01/22 Latchel Concierge Service 14.99
+09/09/22 TBR Smart Home Fee Property is not a smart home. -30.97
+Reversing charges
+09/14/22 TBR EFT Service Fees 15.00
+09/14/22 Web Pay VISA Payment Received Paid By: Valtrene Larkins -129.12
+(lvaltrene@gmail.com). Auth # -
+821318199904448699
+09/24/22 TBR EFT Service Fees 15.00
+09/24/22 Web Pay VISA Payment Received Paid By: Valtrene Larkins -1,973.00
+(lvaltrene@gmail.com). Auth # -
+8735413233937226
+09/27/22 TBR EFT Service Fees 0.70
+09/27/22 Web Pay VISA Payment Received Paid By: Shatoria Ousley -20.70
+(shatoriao@gmail.com). Auth # -
+8383591094105986
+09/27/22 TBR EFT Service Fees 0.70
+09/27/22 Web Pay VISA Payment Received Paid By: Shatoria Ousley -20.70
+(shatoriao@gmail.com). Auth # -
+8295630167711663
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/30/23 09/29/23
+(678)825-1400
+Property Unit Type Acc #
+X4A-03734 3475 Deer TraceHOUSE 54412
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 31,786.65 28,714.16 3,072.49
+Date Reference Description Amount
+10/01/22 TBR Rent Charge 1,895.00
+10/01/22 YRIG Prem 20.00
+10/01/22 Sec Dep Ins Charge to Tenant 48.00
+10/01/22 Latchel Concierge Service 14.99
+11/01/22 TBR Rent Charge 1,895.00
+11/01/22 YRIG Prem 20.00
+11/01/22 Sec Dep Ins Charge to Tenant 48.00
+11/01/22 Latchel Concierge Service 14.99
+11/04/22 TBR EFT Service Fees 15.00
+11/04/22 Web Pay VISA Payment Received Paid By: Shatoria Ousley -1,972.98
+(shatoriao@gmail.com). Auth # -
+8735704110970052
+12/01/22 TBR Rent Charge 1,895.00
+12/01/22 YRIG Prem 20.00
+12/01/22 Sec Dep Ins Charge to Tenant 48.00
+12/01/22 Latchel Concierge Service 14.99
+12/06/22 TBR Late Charges 189.50
+12/29/22 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+12/30/22 CASH Payment Received MO4732 Dec partial rent -500.00
+12/30/22 CASH Payment Received MOxx4733 Dec partial rent -500.00
+12/30/22 CASH Payment Received MOxx4731 Dec partial rent -500.00
+12/30/22 CASH Payment Received MOxx4730 Dec rent and Eviction fee -500.00
+12/30/22 CASH Payment Received MOxx4735 Eviction and Dec late fee -310.00
+12/30/22 CASH Payment Received MOxx4734 Dec all fees and Jan partial -160.00
+rent
+01/01/23 TBR Rent Charge 1,895.00
+01/01/23 YRIG Prem 20.00
+01/01/23 Sec Dep Ins Charge to Tenant 48.00
+01/01/23 Latchel Concierge Service 14.99
+01/06/23 TBR Late Charges 189.50
+01/18/23 TBR EFT Service Fees 10.00
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/30/23 09/29/23
+(678)825-1400
+Property Unit Type Acc #
+X4A-03734 3475 Deer TraceHOUSE 54412
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 31,786.65 28,714.16 3,072.49
+Date Reference Description Amount
+01/18/23 Web Pay CHK Payment Received Paid By: Valtrene Larkins -2,174.98
+(lvaltrene@gmail.com).
+02/01/23 TBR Rent Charge 1,895.00
+02/01/23 YRIG Prem 20.00
+02/01/23 Sec Dep Ins Charge to Tenant 48.00
+02/01/23 Latchel Concierge Service 14.99
+02/06/23 TBR Late Charges 189.50
+02/10/23 TBR EFT Service Fees 75.86
+02/10/23 Web Pay VISA Payment Received Paid By: Shatoria Ousley -2,243.35
+(shatoriao@gmail.com). Auth # -
+8208632807585503
+03/01/23 TBR Rent Charge 1,895.00
+03/01/23 YRIG Prem 20.00
+03/01/23 Sec Dep Ins Charge to Tenant 48.00
+03/01/23 Latchel Concierge Service 14.99
+03/06/23 TBR Late Charges 189.50
+03/12/23 TBR EFT Service Fees 75.86
+03/12/23 Web Pay VISA Payment Received Paid By: Shatoria Ousley -2,243.35
+(shatoriao@gmail.com). Auth # -
+8560689461093499
+04/01/23 TBR Rent Charge 1,895.00
+04/01/23 YRIG Prem 20.00
+04/01/23 Sec Dep Ins Charge to Tenant 48.00
+04/01/23 Latchel Concierge Service 14.99
+04/06/23 TBR Late Charge to Owner 189.50
+04/06/23 TBR EFT Service Fees 75.86
+04/06/23 Web Pay VISA Payment Received [NSF] Paid By: Valtrene Larkins -2,243.35
+(lvaltrene@gmail.com). Auth # -
+83375613729778608
+04/28/23 Web Pay VISA NSF Adjustment [NSF] Paid By: Valtrene Larkins 2,243.35
+(lvaltrene@gmail.com). Auth # -
+83375613729778608
+Page 3
+
+--- Page 4 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/30/23 09/29/23
+(678)825-1400
+Property Unit Type Acc #
+X4A-03734 3475 Deer TraceHOUSE 54412
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 31,786.65 28,714.16 3,072.49
+Date Reference Description Amount
+04/28/23 TBR NSF Fees (4/6/2023) 50.00
+05/01/23 TBR Rent Charge 1,895.00
+05/01/23 YRIG Prem 20.00
+05/01/23 Sec Dep Ins Charge to Tenant 48.00
+05/01/23 Latchel Concierge Service 14.99
+05/08/23 TBR Late Charges 189.50
+05/10/23 CASH Payment Received MOxx0791 April Rent -1,000.00
+05/10/23 CASH Payment Received MOxx0792 April & May Rent -1,000.00
+05/10/23 CASH Payment Received MOxx0793 May Rent -1,000.00
+05/10/23 CASH Payment Received MOxx0794 May Rent & EFT, NSF & -1,000.00
+Late Fees
+05/10/23 CASH Payment Received MOxx0795 Late Fees -200.00
+05/10/23 CASH Payment Received MOxx0797 Latchel, YRIG, SD Ins, & -261.00
+Late Fee
+06/01/23 TBR Rent Charge 1,895.00
+06/01/23 YRIG Prem 20.00
+06/01/23 Sec Dep Ins Charge to Tenant 48.00
+06/01/23 Latchel Concierge Service 14.99
+06/06/23 TBR Late Charge to Owner 189.50
+06/26/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+07/01/23 TBR Rent Charge 1,895.00
+07/01/23 YRIG Prem 20.00
+07/01/23 Sec Dep Ins Charge to Tenant 48.00
+07/01/23 Latchel Concierge Service 14.99
+07/03/23 CASH Payment Received MOxx1357 June rent -1,000.00
+07/03/23 CASH Payment Received MOxx1355 June rent & evict fee -1,000.00
+07/03/23 CASH Payment Received MOxx1359 Evict fee -137.00
+07/03/23 CASH Payment Received MOxx1358 Evict fee and June late fee -187.00
+07/03/23 CASH Payment Received MOxx1356 June late fee, June latchel, -144.00
+June YRIG, June SD insurance, &
+partial July rent
+Page 4
+
+--- Page 5 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/30/23 09/29/23
+(678)825-1400
+Property Unit Type Acc #
+X4A-03734 3475 Deer TraceHOUSE 54412
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 31,786.65 28,714.16 3,072.49
+Date Reference Description Amount
+07/06/23 TBR Late Charges 189.50
+07/21/23 TBR EFT Service Fees 75.84
+07/21/23 Web Pay VISA Payment Received Paid By: Shatoria Ousley -2,242.66
+(shatoriao@gmail.com). Auth # -
+8209773195933183
+08/01/23 TBR Rent Charge 1,895.00
+08/01/23 YRIG Prem 20.00
+08/01/23 Sec Dep Ins Charge to Tenant 48.00
+08/01/23 Latchel Concierge Service 14.99
+08/07/23 TBR Late Charge to Owner 189.50
+09/01/23 TBR Damages to Property Charges Missing towel rack in master bathroom 55.00
+09/01/23 TBR Damages to Property Charges Damaged drywall in hallway bathroom 75.00
+09/01/23 TBR Damages to Property Charges repair damaged drywall and remove 100.00
+adhesive in right center bedroom
+09/01/23 TBR Damages to Property Charges Repair damaged drywall- garage wall 200.00
+09/01/23 TBR Damages to Property Charges Kitchen drawer broken- right of stove 100.00
+09/01/23 TBR Damages to Property Charges Reinstall right side, tri fold laundry door 75.00
+09/01/23 TBR Damages to Property Charges Removed trash inside and outside of 300.00
+home
+Sub Total 3,072.49
+Unapplied Credits 0.00
+Balance Due 3,072.49
+Comments
+Page 5

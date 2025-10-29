@@ -1,0 +1,29 @@
+Filename: 16-6138 Dohrn Move Out Statement.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:12:31.249164
+============================================================
+
+
+--- Page 1 ---
+
+Move Out Statement
+Date: 07/23/2024
+Code t0072006 Property ajc Lease From 06/23/2023
+Name Trisha Dohrn Unit 16-6138 Lease To 06/30/2024
+Address 6138 Chapel Ridge Way Status Past Move In 06/23/2023
+Rent 1,320.00 Move Out 07/15/2024
+City Johnston, IA 50131 Notice 05/15/2024
+Telephone (O)-( ) - (H)-(515) 441-4281
+Date Description Charge Payment Balance Chg/Rec
+Balance as of 7/01/2024 1,582.00
+07/01/2024 Residential Rent (07/2024) 1,320.00 0.00 2,902.00 3481357
+07/01/2024 Renters Insurance (07/2024) 19.00 0.00 2,921.00 3481358
+07/01/2024 Security Deposit Protection (07/2024) 33.00 0.00 2,954.00 3481359
+07/01/2024 Utility Revenue (07/2024) 60.00 0.00 3,014.00 3481360
+07/06/2024 Late Charge Late Fee 100.00 0.00 3,114.00 3489799
+07/15/2024 Eviction fees 250.00 0.00 3,364.00 3490991
+07/23/2024 Cleaning Charges - full clean 190.00 0.00 3,554.00 3492062
+07/23/2024 Trash out, washer and dryer left behind 50.00 0.00 3,604.00 3492063
+07/23/2024 Several sets of broken blinds 150.00 0.00 3,754.00 3492064
+07/23/2024 Carpet Replacement due to pet urine 1,387.71 0.00 5,141.71 3492065

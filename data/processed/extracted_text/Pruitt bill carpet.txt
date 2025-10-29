@@ -1,0 +1,78 @@
+Filename: Pruitt bill carpet.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:18:06.476270
+============================================================
+
+
+--- Page 1 ---
+
+Page:1
+Invoice 3-312698
+Due Date/Terms 3/21/2024 N 30
+JOHNSON PROPERTY MANAGEMENT Invoice Date 2/20/2024
+750 S PROGRESS AVE #110 Install Date 2/16/2024
+MERIDIAN, ID 83642 Br/Job 3-313338
+Customer P.O.#
+Phone 208-884-3310
+Ordered By
+Salesperson Name MADDY LUEDER
+Special Instructions Ship To
+Quote #: 308904 JOHN3310 / 0000
+Type: 2X2 COMBO JOHNSON PROPERTY MANAGEMENT P 208-884-3310
+1905 W BELLA LN
+#2
+NAMPA, ID 83651
+Line Description Amount
+001 M A RVEL
+- AGATE $392.91
+002 3 / 8 " STANDARD PAD
+- STANDARD PAD $98.33
+003 I N STALL CARPET
+- OVER PAD PER SY $265.48
+004 T E AR OUT CARPET
+- PER SY $84.33
+005 S E AL FLOOR
+- PER SY $164.99
+006 S T AIRS
+- WITH WRAP $202.50
+007 I M PACT LVT
+- CAMBEN ST TAN $834.11
+008 I N STALL LVP
+- PER SF $1,234.49
+009 R & R WOOD BASE
+- PER LF $170.20
+010 F L OOR PREP
+- PER HOUR $375.00
+011 R & R APPLIANCES
+- 2 WAYS $140.00
+012 R & R TOILET
+- 2 WAYS $90.00
+013 D I SPOSAL
+$66.57
+Taxable $1,325.35
+Non-Taxable $2,793.56
+Sales Tax $79.52
+Grand Total $4,198.43
+Deposit $0.00
+Balance $4,198.43
+Pay: $4,261.41 after 3/21/2024 / Pay: $4,325.33 after 4/20/2024 / Pay: $4,390.21 after 5/20/2024
+
+--- Page 2 ---
+
+Page:2
+Invoice 3-312698
+Due Date/Terms 3/21/2024 N 30
+JOHNSON PROPERTY MANAGEMENT Invoice Date 2/20/2024
+750 S PROGRESS AVE #110 Install Date 2/16/2024
+MERIDIAN, ID 83642 Br/Job 3-313338
+Customer P.O.#
+Phone 208-884-3310
+Ordered By
+Salesperson Name MADDY LUEDER
+Special Instructions Ship To
+Quote #: 308904 JOHN3310 / 0000
+Type: 2X2 COMBO JOHNSON PROPERTY MANAGEMENT P 208-884-3310
+1905 W BELLA LN
+#2
+NAMPA, ID 83651

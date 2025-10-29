@@ -1,0 +1,43 @@
+Filename: Transactions_20230706113235701.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:26:30.653009
+============================================================
+
+
+--- Page 1 ---
+
+Transactions
+Date Range: From 1/01/23
+Tenant Account Property Unit Active Start Active End
+Saad Maraqa 10391 5817 Signal Pt 5817SI 9/7/2022 4/30/2023
+Date Reference Description Comment Amount Balance
+01/01/23 Rent Charge 1,875.00 1,883.00
+01/01/23 Tenant Benefits Package A3 39.00 1,922.00
+01/01/23 Monthly Pet Fee 30.00 1,952.00
+01/01/23 Renters Choice 60.00 2,012.00
+01/02/23 Auto Pay CHK Payment Received Paid By: smaraqa@gmail.com. -2,000.00 12.00
+02/01/23 Rent Charge 1,875.00 1,887.00
+02/01/23 Tenant Benefits Package A3 39.00 1,926.00
+02/01/23 Monthly Pet Fee 30.00 1,956.00
+02/01/23 Renters Choice 60.00 2,016.00
+02/02/23 Auto Pay CHK Payment Received Paid By: smaraqa@gmail.com. -2,000.00 16.00
+03/01/23 Rent Charge 1,875.00 1,891.00
+03/01/23 Tenant Benefits Package A3 39.00 1,930.00
+03/01/23 Monthly Pet Fee 30.00 1,960.00
+03/01/23 Renters Choice 60.00 2,020.00
+03/02/23 Auto Pay CHK Payment Received Paid By: smaraqa@gmail.com. -2,000.00 20.00
+03/20/23 Security Deposits Reletting Fee 1,875.00 1,895.00
+04/01/23 Rent Charge 1,875.00 3,770.00
+04/01/23 Tenant Benefits Package A3 39.00 3,809.00
+04/01/23 Monthly Pet Fee 30.00 3,839.00
+04/01/23 Renters Choice 60.00 3,899.00
+04/02/23 Auto Pay CHK Payment Received (Total Amount:2000.00)Paid By: smaraqa@gmail.com. -125.00 3,774.00
+04/02/23 Auto Pay CHK Payment Received (Total Amount:2000.00)Paid By: smaraqa@gmail.com. -1,875.00 1,899.00
+04/17/23 Web Pay CHK Payment Received Paid By: Saad Maraqa -1,875.00 24.00
+(smaraqa@gmail.com).
+05/30/23 Reletting Fee reletting fee - early termination 1,875.00 1,899.00
+05/30/23 Security Deposits Security deposits from holdings -1,875.00 24.00
+05/30/23 Make Ready Lawn, Hauloff, maintenance 242.48 266.48
+05/30/23 Carpet Cleaning Fee 178.61 445.09
+Transactions 07/06/23 11:32 AM Page 1 of1 rentmanager.com - property management systems rev.12.973

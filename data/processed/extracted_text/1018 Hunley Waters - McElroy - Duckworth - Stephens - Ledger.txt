@@ -1,0 +1,780 @@
+Filename: 1018 Hunley Waters - McElroy - Duckworth - Stephens - Ledger.pdf
+Method: pdfplumber
+Pages: 16
+Extracted: 2025-10-29T11:14:41.441760
+============================================================
+
+
+--- Page 1 ---
+
+PURE Property Management of South Carolina
+Lease: McElroy - Duckworth - Stephens
+Contact: Amy McElroy
+Contact: Emma Stephens
+Contact: Jake Duckworth
+Contact: Robert Duckworth
+Contact: Russell McElroy
+Property Address: 1018 Hunley Waters Cir
+North Charleston,SC 29405-7266
+Balance as of 11/22/2024 Prepayments Total Unpaid Deposit Held
+$602.33 $0.00 $602.33 $0.00
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Unpaid Charge 11/22/2024 4010 - Maintenance Coordinatio... $250.00 $602.33
+Partially Paid 4780 - SD Forfeit (MoveOut cha... :
+11/22/2024 $400.00 $352.33
+Charge Cleaning
+4780 - SD Forfeit (MoveOut cha... : Gen
+Paid Charge 11/22/2024 $387.81 ($47.67)
+Repairs
+Charge Russell
+10/28/2024 4000 - Rent $435.48 ($435.48)
+Adjustment McElroy
+Payment of $950.50 applied to [10/01/24, Russell
+acct 4000, $2,700.00]/One Time ePayment Roberts
+Settled ePayment 10/04/2024 Z0JG2MGRA05 10/09/2024 $950.50 $0.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Payment of $948.50 applied to [10/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 10/04/2024 QVFD2MGRA05 10/09/2024 $948.50 $950.50
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+Settled ePayment 10/01/2024 CJJL1MGRA05 Payment of $65.00 applied to [10/01/24, Emma 10/04/2024 $935.00 $1,899.00
+acct 4037, $65.00] and $39.00 applied to Elizabeth
+[10/01/24, acct 4038, $39.00] and $30.00 Stephens-
+applied to [10/01/24, acct 4024, $30.00] Updated
+and $801.00 applied to [10/01/24, acct
+
+--- Page 2 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+4000, $2,700.00]/One Time ePayment
+received from Emma Elizabeth Stephens,
+Paid from Updated account
+Paid Charge 10/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 10/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 10/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 10/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $965.00 applied to [09/01/24, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 09/03/2024 9SKKQWCRA01 09/06/2024 $965.00 $0.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $936.00 applied to [09/01/24, Russell
+acct 4000, $2,700.00]/One Time ePayment Roberts
+Settled ePayment 09/03/2024 P30MQWCRA01 09/09/2024 $936.00 $965.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Payment of $39.00 applied to [09/01/24,
+acct 4038, $39.00] and $799.00 applied to
+[09/01/24, acct 4000, $2,700.00] and Jake Stephen
+$65.00 applied to [09/01/24, acct 4037, Duckworth-
+Settled ePayment 09/03/2024 RVSHQWCRA01 09/06/2024 $933.00 $1,901.00
+$65.00] and $30.00 applied to [09/01/24, Ducky?s
+acct 4024, $30.00]/One Time ePayment account
+received from Jake Stephen Duckworth,
+Paid from Ducky?s account account
+Paid Charge 09/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 09/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 09/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 09/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $935.00 applied to [08/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 08/04/2024 GC1DH59RA07 08/07/2024 $935.00 $0.00
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+Payment of $965.00 applied to [08/01/24, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 08/04/2024 YLNXF59RA03 08/08/2024 $965.00 $935.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Settled ePayment 08/02/2024 8FQMF59RA03 Payment of $800.00 applied to [08/01/24, Russell 08/07/2024 $934.00 $1,900.00
+acct 4000, $2,700.00] and $39.00 applied Roberts
+to [08/01/24, acct 4038, $39.00] and $65.00
+
+--- Page 3 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+applied to [08/01/24, acct 4037, $65.00] McElroy-
+and $30.00 applied to [08/01/24, acct 4024, Bank acct
+$30.00]/One Time ePayment received from
+Russell Roberts McElroy, Paid from Bank
+acct account
+Paid Charge 08/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 08/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 08/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 08/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $935.00 applied to [07/01/24, Jake Stephen
+acct 4000, $2,700.00]/Scheduled One Time Duckworth-
+Settled ePayment 07/03/2024 7Q6PKF6RA07 07/09/2024 $935.00 $0.00
+Payment Paid from Ducky?s account Ducky?s
+account account
+Payment of $30.00 applied to [07/01/24,
+acct 4024, $30.00] and $39.00 applied to
+[07/01/24, acct 4038, $39.00] and $65.00 Emma
+applied to [07/01/24, acct 4037, $65.00] Elizabeth
+Settled ePayment 07/02/2024 B2CNKF6RA04 07/08/2024 $965.00 $935.00
+and $831.00 applied to [07/01/24, acct Stephens-
+4000, $2,700.00]/One Time ePayment Updated
+received from Emma Elizabeth Stephens,
+Paid from Updated account
+Payment of $934.00 applied to [07/01/24, Russell
+acct 4000, $2,700.00]/One Time ePayment Roberts
+Settled ePayment 07/02/2024 QVVJKF6RA03 07/08/2024 $934.00 $1,900.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Paid Charge 07/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 07/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 07/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 07/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $960.34 applied to [06/01/24, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 06/04/2024 1MNG313RA03 06/10/2024 $960.34 $0.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $939.00 applied to [06/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 06/03/2024 0S54313RA09 06/06/2024 $939.00 $960.34
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+
+--- Page 4 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Payment of $39.00 applied to [06/01/24,
+acct 4038, $39.00] and $65.00 applied to
+[06/01/24, acct 4037, $65.00] and $800.66 Russell
+applied to [06/01/24, acct 4000, $2,700.00] Roberts
+Settled ePayment 06/03/2024 B6K1313RA07 06/06/2024 $934.66 $1,899.34
+and $30.00 applied to [06/01/24, acct 4024, McElroy-
+$30.00]/One Time ePayment received from Bank acct
+Russell Roberts McElroy, Paid from Bank
+acct account
+Paid Charge 06/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 06/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 06/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 06/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $934.33 applied to [05/01/24, Jake Stephen
+acct 4000, $2,700.00]/Scheduled One Time Duckworth-
+Settled ePayment 05/04/2024 D2BBS90RA09 05/08/2024 $934.33 ($0.00)
+Payment Paid from Ducky?s account Ducky?s
+account account
+Payment of $965.00 applied to [05/01/24, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 05/02/2024 XD1XR90RA05 05/08/2024 $965.00 $934.33
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $39.00 applied to [05/01/24,
+acct 4038, $39.00] and $65.00 applied to
+[05/01/24, acct 4037, $65.00] and $30.00 Russell
+applied to [05/01/24, acct 4024, $30.00] Roberts
+Settled ePayment 05/02/2024 H5PRR90RA05 05/07/2024 $934.67 $1,899.33
+and $800.67 applied to [05/01/24, acct McElroy-
+4000, $2,700.00]/One Time ePayment Bank acct
+received from Russell Roberts McElroy,
+Paid from Bank acct account
+Paid Charge 05/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 05/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 05/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 05/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $1,899.33 applied to [04/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 04/03/2024 7PB0VWWQA09 04/08/2024 $1,899.33 $0.00
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+Settled ePayment 04/03/2024 FMCWTWWQA03 Payment of $30.00 applied to [04/01/24, Russell 04/08/2024 $934.67 $1,899.33
+acct 4024, $30.00] and $800.67 applied to Roberts
+
+--- Page 5 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+[04/01/24, acct 4000, $2,700.00] and McElroy-
+$39.00 applied to [04/01/24, acct 4038, Bank acct
+$39.00] and $65.00 applied to [04/01/24,
+acct 4037, $65.00]/One Time ePayment
+received from Russell Roberts McElroy,
+Paid from Bank acct account
+Paid Charge 04/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 04/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 04/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 04/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $934.33 applied to [03/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 03/03/2024 3RG3G5TQA08 03/07/2024 $934.33 ($0.00)
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+Payment of $965.00 applied to [03/01/24, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 03/02/2024 4WDZF5TQA03 03/06/2024 $965.00 $934.33
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $800.67 applied to [03/01/24,
+acct 4000, $2,700.00] and $30.00 applied
+to [03/01/24, acct 4024, $30.00] and $39.00 Russell
+applied to [03/01/24, acct 4038, $39.00] Roberts
+Settled ePayment 03/02/2024 9CLYF5TQA08 03/06/2024 $934.67 $1,899.33
+and $65.00 applied to [03/01/24, acct 4037, McElroy-
+$65.00]/One Time ePayment received from Bank acct
+Russell Roberts McElroy, Paid from Bank
+acct account
+Paid Charge 03/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 03/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 03/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 03/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $950.33 applied to [02/01/24, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 02/04/2024 K7RZ1GQQA09 02/07/2024 $950.33 ($0.00)
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $949.00 applied to [02/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 02/04/2024 HX882GQQA07 02/07/2024 $949.00 $950.33
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+
+--- Page 6 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Payment of $39.00 applied to [02/01/24,
+acct 4038, $39.00] and $65.00 applied to
+[02/01/24, acct 4037, $65.00] and $800.67 Russell
+applied to [02/01/24, acct 4000, $2,700.00] Roberts
+Settled ePayment 02/02/2024 DCKZ1GQQA03 02/07/2024 $934.67 $1,899.33
+and $30.00 applied to [02/01/24, acct 4024, McElroy-
+$30.00]/One Time ePayment received from Bank acct
+Russell Roberts McElroy, Paid from Bank
+acct account
+Paid Charge 02/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 02/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 02/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 02/01/2024 4038 - RBP with Ins $39.00 $39.00
+Payment of $965.00 applied to [01/01/24, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 01/03/2024 K0SM61MQA08 01/08/2024 $965.00 $0.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $14.67 applied to [01/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 01/03/2024 YDQK61MQA04 01/08/2024 $14.67 $965.00
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+Payment of $920.00 applied to [01/01/24, Jake Stephen
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+Settled ePayment 01/03/2024 G9HRCCMQA01 01/08/2024 $920.00 $979.67
+received from Jake Stephen Duckworth, Ducky?s
+Paid from Ducky?s account account account
+Payment of $39.00 applied to [01/01/24,
+acct 4038, $39.00] and $65.00 applied to
+[01/01/24, acct 4037, $65.00] and $30.00 Russell
+applied to [01/01/24, acct 4024, $30.00] Roberts
+Settled ePayment 01/02/2024 R90661MQA04 01/05/2024 $934.33 $1,899.67
+and $800.33 applied to [01/01/24, acct McElroy-
+4000, $2,700.00]/One Time ePayment Bank acct
+received from Russell Roberts McElroy,
+Paid from Bank acct account
+Paid Charge 01/01/2024 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 01/01/2024 4024 - Animal Fee $30.00 $134.00
+Paid Charge 01/01/2024 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 01/01/2024 4038 - RBP with Ins $39.00 $39.00
+Settled ePayment 12/05/2023 29R5T9JQA01 Payment of $934.33 applied to [12/01/23, Jake Stephen 12/05/2023 $934.33 ($0.00)
+acct 4000, $2,700.00]/One Time ePayment Duckworth-
+
+--- Page 7 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+received from Jake Stephen Duckworth, Jacob
+Paid from Jacob Duckworth CC account Duckworth
+CC
+Payment of $965.00 applied to [12/01/23, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 12/03/2023 F2DPS9JQA02 12/06/2023 $965.00 $934.33
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $39.00 applied to [12/01/23,
+acct 4038, $39.00] and $800.67 applied to
+[12/01/23, acct 4000, $2,700.00] and Russell
+$30.00 applied to [12/01/23, acct 4024, Roberts
+Settled ePayment 12/03/2023 XRDPS9JQA07 12/06/2023 $934.67 $1,899.33
+$30.00] and $65.00 applied to [12/01/23, McElroy-
+acct 4037, $65.00]/One Time ePayment Bank acct
+received from Russell Roberts McElroy,
+Paid from Bank acct account
+Paid Charge 12/01/2023 4000 - Rent $2,700.00 $2,834.00
+Paid Charge 12/01/2023 4024 - Animal Fee $30.00 $134.00
+Paid Charge 12/01/2023 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 12/01/2023 4038 - RBP with Ins $39.00 $39.00
+Payment of $868.00 applied to [11/01/23,
+acct 4000, $2,700.00] and $100.00 applied Jake Stephen
+to [11/01/23, acct 5013, $100.00]/One Time Duckworth-
+Settled ePayment 11/04/2023 KGNDFLFQA01 11/08/2023 $968.00 $0.00
+ePayment received from Jake Stephen Ducky?s
+Duckworth, Paid from Ducky?s account account
+account
+Payment of $998.00 applied to [11/01/23, Emma
+acct 4000, $2,700.00]/One Time ePayment Elizabeth
+Settled ePayment 11/03/2023 Q057FLFQA05 11/08/2023 $998.00 $968.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $65.00 applied to [11/01/23,
+acct 4037, $65.00] and $834.00 applied to
+[11/01/23, acct 4000, $2,700.00] and Russell
+$39.00 applied to [11/01/23, acct 4038, Roberts
+Settled ePayment 11/02/2023 MCNVDLFQA06 11/07/2023 $968.00 $1,966.00
+$39.00] and $30.00 applied to [11/01/23, McElroy-
+acct 4024, $30.00]/One Time ePayment Bank acct
+received from Russell Roberts McElroy,
+Paid from Bank acct account
+Paid Charge 11/01/2023 5013 - DO NOT USE Tenant Lease... $100.00 $2,934.00
+Paid Charge 11/01/2023 4000 - Rent $2,700.00 $2,834.00
+
+--- Page 8 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Paid Charge 11/01/2023 4024 - Animal Fee $30.00 $134.00
+Paid Charge 11/01/2023 4037 - SDRP Monthly Premium $65.00 $104.00
+Paid Charge 11/01/2023 4038 - RBP with Ins $39.00 $39.00
+Payment of $65.00 applied to [10/01/23,
+acct 4037, $65.00] and $30.00 applied to
+[10/01/23, acct 4024, $30.00] and $770.00 Jake Stephen
+applied to [10/01/23, acct 4000, $2,600.00] Duckworth-
+Settled ePayment 10/04/2023 JP0JPCBQA03 10/10/2023 $904.00 $0.00
+and $39.00 applied to [10/01/23, acct 4038, Ducky?s
+$39.00]/One Time ePayment received from account
+Jake Stephen Duckworth, Paid from
+Ducky?s account account
+Payment of $930.00 applied to [10/01/23, Emma
+acct 4000, $2,600.00]/One Time ePayment Elizabeth
+Settled ePayment 10/02/2023 XX3XNCBQA04 10/05/2023 $930.00 $904.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $900.00 applied to [10/01/23, Russell
+acct 4000, $2,600.00]/One Time ePayment Roberts
+Settled ePayment 10/02/2023 M2KVNCBQA09 10/05/2023 $900.00 $1,834.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Paid Charge 10/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 10/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+Paid Charge 10/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 10/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $65.00 applied to [09/01/23,
+acct 4037, $65.00] and $39.00 applied to
+[09/01/23, acct 4038, $39.00] and $768.67 Jake Stephen
+applied to [09/01/23, acct 4000, $2,600.00] Duckworth-
+Settled ePayment 09/04/2023 294C3G7QA06 09/07/2023 $902.67 $0.00
+and $30.00 applied to [09/01/23, acct 4024, Ducky?s
+$30.00]/One Time ePayment received from account
+Jake Stephen Duckworth, Paid from
+Ducky?s account account
+Payment of $930.00 applied to [09/01/23, Emma
+acct 4000, $2,600.00]/One Time ePayment Elizabeth
+Settled ePayment 09/02/2023 P67FHL7QA04 09/07/2023 $930.00 $902.67
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+
+--- Page 9 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Payment of $901.33 applied to [09/01/23, Russell
+acct 4000, $2,600.00]/One Time ePayment Roberts
+Settled ePayment 09/02/2023 6GVBHL7QA04 09/07/2023 $901.33 $1,832.67
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Paid Charge 09/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 09/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+Paid Charge 09/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 09/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $768.00 applied to [08/01/23,
+acct 4000, $2,600.00] and $39.00 applied
+to [08/01/23, acct 4038, $39.00] and $65.00 Jake Stephen
+applied to [08/01/23, acct 4037, $65.00] Duckworth-
+Settled ePayment 08/04/2023 0CRPRQ4QA05 08/09/2023 $902.00 $0.00
+and $30.00 applied to [08/01/23, acct 4024, Ducky?s
+$30.00]/One Time ePayment received from account
+Jake Stephen Duckworth, Paid from
+Ducky?s account account
+Payment of $930.00 applied to [08/01/23, Emma
+acct 4000, $2,600.00]/One Time ePayment Elizabeth
+Settled ePayment 08/03/2023 PJYXRQ4QA06 08/08/2023 $930.00 $902.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $902.00 applied to [08/01/23, Russell
+acct 4000, $2,600.00]/One Time ePayment Roberts
+Settled ePayment 08/01/2023 XP99RQ4QA06 08/07/2023 $902.00 $1,832.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Paid Charge 08/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 08/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+Paid Charge 08/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 08/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $30.00 applied to [07/01/23,
+acct 4024, $30.00] and $65.00 applied to
+[07/01/23, acct 4037, $65.00] and $39.00 Emma
+applied to [07/01/23, acct 4038, $39.00] Elizabeth
+Settled ePayment 07/04/2023 G4G41J2QA02 07/04/2023 $902.00 $0.00
+and $768.00 applied to [07/01/23, acct Stephens-
+4000, $2,600.00]/One Time ePayment Ducky?s CC
+received from Emma Elizabeth Stephens,
+Paid from Ducky?s CC account
+Settled ePayment 07/02/2023 CBC51J2QA09 Payment of $930.00 applied to [07/01/23, Emma 07/06/2023 $930.00 $902.00
+acct 4000, $2,600.00]/One Time ePayment Elizabeth
+
+--- Page 10 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $902.00 applied to [07/01/23, Russell
+acct 4000, $2,600.00]/One Time ePayment Roberts
+Settled ePayment 07/02/2023 HVQX0J2QA07 07/06/2023 $902.00 $1,832.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Paid Charge 07/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 07/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+Paid Charge 07/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 07/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $65.00 applied to [06/01/23,
+acct 4037, $65.00] and $30.00 applied to
+[06/01/23, acct 4024, $30.00] and $39.00 Emma
+applied to [06/01/23, acct 4038, $39.00] Elizabeth
+Settled ePayment 06/03/2023 TWYMPLYPLA3 06/03/2023 $902.00 $0.00
+and $768.00 applied to [06/01/23, acct Stephens-
+4000, $2,600.00]/One Time ePayment Ducky?s CC
+received from Emma Elizabeth Stephens,
+Paid from Ducky?s CC account
+Payment of $930.00 applied to [06/01/23, Emma
+acct 4000, $2,600.00]/One Time ePayment Elizabeth
+Settled ePayment 06/02/2023 1PK8PLYPLA3 06/07/2023 $930.00 $902.00
+received from Emma Elizabeth Stephens, Stephens-
+Paid from Updated account Updated
+Payment of $902.00 applied to [06/01/23, Russell
+acct 4000, $2,600.00]/One Time ePayment Roberts
+Settled ePayment 06/01/2023 NC3RNLYPLA3 06/06/2023 $902.00 $1,832.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Bank acct account Bank acct
+Paid Charge 06/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 06/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+Paid Charge 06/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 06/01/2023 4000 - Rent $2,600.00 $2,600.00
+Settled ePayment 05/02/2023 KK1L96VPLA2 Payment of $3.00 applied to [05/02/23, acct Jake Stephen 05/05/2023 $905.00 $0.00
+4202, $3.00] and $30.00 applied to Duckworth-
+[05/01/23, acct 4024, $30.00] and $768.00 Ducky?s
+applied to [05/01/23, acct 4000, $2,600.00] account
+and $39.00 applied to [05/01/23, acct 4038,
+$39.00] and $65.00 applied to [05/01/23,
+acct 4037, $65.00]/One Time ePayment
+
+--- Page 11 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+received from Jake Stephen Duckworth,
+Paid from Ducky?s account account
+4202 - Convenience Fee : Convenience
+Paid Charge 05/02/2023 $3.00 $905.00
+Fee
+Payment of $902.00 applied to [05/01/23,
+Russell
+acct 4000, $2,600.00] and $3.00 applied to
+Roberts
+Settled ePayment 05/01/2023 3L2L96VPLA7 [05/01/23, acct 4202, $3.00]/One Time 05/05/2023 $905.00 $902.00
+McElroy-
+ePayment received from Russell Roberts
+Bank acct
+McElroy, Paid from Bank acct account
+4202 - Convenience Fee : Convenience
+Paid Charge 05/01/2023 $3.00 $1,807.00
+Fee
+Payment of $3.00 applied to [05/01/23, acct
+Emma
+4202, $3.00] and $930.00 applied to
+Elizabeth
+Settled ePayment 05/01/2023 N1Y696VPLA5 [05/01/23, acct 4000, $2,600.00]/One Time 05/04/2023 $933.00 $1,804.00
+Stephens-
+ePayment received from Emma Elizabeth
+Primary
+Stephens, Paid from Primary account
+4202 - Convenience Fee : Convenience
+Paid Charge 05/01/2023 $3.00 $2,737.00
+Fee
+Paid Charge 05/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 05/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+Paid Charge 05/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 05/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $768.67 applied to [04/01/23,
+acct 4000, $2,600.00] and $3.00 applied to
+[04/02/23, acct 4202, $3.00] and $65.00
+Jake Stephen
+applied to [04/01/23, acct 4037, $65.00]
+Duckworth-
+Settled ePayment 04/02/2023 HJ9PM4SPLA8 and $39.00 applied to [04/01/23, acct 4038, 04/06/2023 $905.67 $0.00
+Ducky?s
+$39.00] and $30.00 applied to [04/01/23,
+account
+acct 4024, $30.00]/One Time ePayment
+received from Jake Stephen Duckworth,
+Paid from Ducky?s account account
+4202 - Convenience Fee : Convenience
+Paid Charge 04/02/2023 $3.00 $905.67
+Fee
+Payment of $901.33 applied to [04/01/23,
+Russell
+acct 4000, $2,600.00] and $3.00 applied to
+Roberts
+Settled ePayment 04/01/2023 SF0LM4SPLA7 [04/01/23, acct 4202, $3.00]/One Time 04/06/2023 $904.33 $902.67
+McElroy-
+ePayment received from Russell Roberts
+Bank acct
+McElroy, Paid from Bank acct account
+
+--- Page 12 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+4202 - Convenience Fee : Convenience
+Paid Charge 04/01/2023 $3.00 $1,807.00
+Fee
+Payment of $3.00 applied to [04/01/23, acct
+Emma
+4202, $3.00] and $930.00 applied to
+Elizabeth
+Settled ePayment 04/01/2023 7JJCM4SPLA5 [04/01/23, acct 4000, $2,600.00]/One Time 04/06/2023 $933.00 $1,804.00
+Stephens-
+ePayment received from Emma Elizabeth
+Primary
+Stephens, Paid from Primary account
+4202 - Convenience Fee : Convenience
+Paid Charge 04/01/2023 $3.00 $2,737.00
+Fee
+Paid Charge 04/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 04/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+Paid Charge 04/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 04/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $768.00 applied to [03/01/23,
+acct 4000, $2,600.00] and $30.00 applied
+to [03/01/23, acct 4024, $30.00] and $65.00
+Jake Stephen
+applied to [03/01/23, acct 4037, $65.00]
+Settled ePayment 03/02/2023 Q6KH8RNPLA4 Duckworth- 03/02/2023 $902.00 $0.00
+and $39.00 applied to [03/01/23, acct 4038,
+Jake?s CC
+$39.00]/One Time ePayment received from
+Jake Stephen Duckworth, Paid from Jake?s
+CC account
+Payment of $902.00 applied to [03/01/23,
+Russell
+acct 4000, $2,600.00] and $3.00 applied to
+Roberts
+Settled ePayment 03/01/2023 8BY58RNPLA4 [03/01/23, acct 4202, $3.00]/One Time 03/06/2023 $905.00 $902.00
+McElroy-
+ePayment received from Russell Roberts
+Bank acct
+McElroy, Paid from Bank acct account
+4202 - Convenience Fee : Convenience
+Paid Charge 03/01/2023 $3.00 $1,807.00
+Fee
+Payment of $930.00 applied to [03/01/23,
+Emma
+acct 4000, $2,600.00] and $3.00 applied to
+Elizabeth
+Settled ePayment 03/01/2023 4F0BWQNPLA8 [03/01/23, acct 4202, $3.00]/One Time 03/06/2023 $933.00 $1,804.00
+Stephens-
+ePayment received from Emma Elizabeth
+Primary
+Stephens, Paid from Primary account
+4202 - Convenience Fee : Convenience
+Paid Charge 03/01/2023 $3.00 $2,737.00
+Fee
+Paid Charge 03/01/2023 4024 - Animal Fee $30.00 $2,734.00
+Paid Charge 03/01/2023 4037 - SDRP Monthly Premium $65.00 $2,704.00
+
+--- Page 13 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Paid Charge 03/01/2023 4038 - RBP with Ins $39.00 $2,639.00
+Paid Charge 03/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $65.00 applied to [02/01/23,
+acct 4037, $65.00] and $30.00 applied to
+[02/01/23, acct 4012, $30.00] and $39.00
+Jake Stephen
+applied to [02/01/23, acct 4038, $39.00]
+Settled ePayment 02/02/2023 409WF0LPLA4 Duckworth- 02/02/2023 $871.00 $0.00
+and $737.00 applied to [02/01/23, acct
+Jake?s CC
+4000, $2,600.00]/One Time ePayment
+received from Jake Stephen Duckworth,
+Paid from Jake?s CC account
+Payment of $933.00 applied to [02/01/23,
+Russell
+acct 4000, $2,600.00] and $3.00 applied to
+Roberts
+Settled ePayment 02/01/2023 BR0SF0LPLA1 [02/01/23, acct 4202, $3.00]/One Time 02/07/2023 $936.00 $871.00
+McElroy-
+ePayment received from Russell Roberts
+Bank acct
+McElroy, Paid from Bank acct account
+4202 - Convenience Fee : Convenience
+Paid Charge 02/01/2023 $3.00 $1,807.00
+Fee
+Payment of $3.00 applied to [02/01/23, acct
+Emma
+4202, $3.00] and $930.00 applied to
+Elizabeth
+Settled ePayment 02/01/2023 BLYQF0LPLA1 [02/01/23, acct 4000, $2,600.00]/One Time 02/06/2023 $933.00 $1,804.00
+Stephens-
+ePayment received from Emma Elizabeth
+Primary
+Stephens, Paid from Primary account
+4202 - Convenience Fee : Convenience
+Paid Charge 02/01/2023 $3.00 $2,737.00
+Fee
+Paid Charge 02/01/2023 4037 - SDRP Monthly Premium $65.00 $2,734.00
+Paid Charge 02/01/2023 4038 - RBP with Ins $39.00 $2,669.00
+Paid Charge 02/01/2023 4012 - Animal Rent $30.00 $2,630.00
+Paid Charge 02/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $768.00 applied to [01/01/23,
+acct 4000, $2,600.00] and $39.00 applied
+to [01/01/23, acct 4038, $39.00] and $30.00
+Jake Stephen
+applied to [01/01/23, acct 4012, $30.00]
+Settled ePayment 01/01/2023 5QN1QLGPLA2 Duckworth- 01/01/2023 $902.00 $0.00
+and $65.00 applied to [01/01/23, acct 4037,
+Jake?s CC
+$65.00]/One Time ePayment received from
+Jake Stephen Duckworth, Paid from Jake?s
+CC account
+Settled ePayment 01/01/2023 GPPMPLGPLA5 Payment of $930.00 applied to [01/01/23, Emma 01/06/2023 $933.00 $902.00
+acct 4000, $2,600.00] and $3.00 applied to Elizabeth
+[01/01/23, acct 4202, $3.00]/One Time
+
+--- Page 14 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+ePayment received from Emma Elizabeth Stephens-
+Stephens, Paid from Primary account Primary
+4202 - Convenience Fee : Convenience
+Paid Charge 01/01/2023 $3.00 $1,835.00
+Fee
+Payment of $902.00 applied to [01/01/23,
+Russell
+acct 4000, $2,600.00] and $3.00 applied to
+Roberts
+Settled ePayment 01/01/2023 R2W1QLGPLA8 [01/01/23, acct 4202, $3.00]/One Time 01/06/2023 $905.00 $1,832.00
+McElroy-
+ePayment received from Russell Roberts
+Bank acct
+McElroy, Paid from Bank acct account
+4202 - Convenience Fee : Convenience
+Paid Charge 01/01/2023 $3.00 $2,737.00
+Fee
+Paid Charge 01/01/2023 4037 - SDRP Monthly Premium $65.00 $2,734.00
+Paid Charge 01/01/2023 4038 - RBP with Ins $39.00 $2,669.00
+Paid Charge 01/01/2023 4012 - Animal Rent $30.00 $2,630.00
+Paid Charge 01/01/2023 4000 - Rent $2,600.00 $2,600.00
+Payment of $3.00 applied to [12/01/22, acct
+4202, $3.00] and $902.00 applied to Jake Stephen
+[12/01/22, acct 4000, $2,600.00]/One Time Duckworth-
+Settled ePayment 12/01/2022 B5ZH56CPLA4 12/06/2022 $905.00 $0.00
+ePayment received from Jake Stephen Ducky?s
+Duckworth, Paid from Ducky?s account account
+account
+4202 - Convenience Fee : Convenience
+Paid Charge 12/01/2022 $3.00 $905.00
+Fee
+Payment of $39.00 applied to [12/01/22,
+acct 4038, $39.00] and $3.00 applied to
+[12/01/22, acct 4202, $3.00] and $30.00
+Emma
+applied to [12/01/22, acct 4024, $30.00]
+Elizabeth
+Settled ePayment 12/01/2022 X9ZH56CPLA4 and $65.00 applied to [12/01/22, acct 4037, 12/06/2022 $933.00 $902.00
+Stephens-
+$65.00] and $796.00 applied to [12/01/22,
+Primary
+acct 4000, $2,600.00]/One Time ePayment
+received from Emma Elizabeth Stephens,
+Paid from Primary account
+4202 - Convenience Fee : Convenience
+Paid Charge 12/01/2022 $3.00 $1,835.00
+Fee
+Payment of $902.00 applied to [12/01/22, Russell
+acct 4000, $2,600.00]/One Time ePayment Roberts
+Settled ePayment 12/01/2022 D8MB56CPLA3 12/01/2022 $902.00 $1,832.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Russ debit account Russ debit
+
+--- Page 15 ---
+
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Paid Charge 12/01/2022 4037 - SDRP Monthly Premium $65.00 $2,734.00
+Paid Charge 12/01/2022 4038 - RBP with Ins $39.00 $2,669.00
+Paid Charge 12/01/2022 4024 - Animal Fee $30.00 $2,630.00
+Paid Charge 12/01/2022 4000 - Rent $2,600.00 $2,600.00
+Payment of $247.00 applied to [11/01/22,
+acct 4000, $419.35] and $39.00 applied to
+[11/01/22, acct 4038, $39.00] and $60.00
+Jake Stephen
+applied to [11/01/22, acct 4037, $65.00] and
+Settled ePayment 11/01/2022 QDW3RG8PLA3 Duckworth- 11/01/2022 $376.00 $0.00
+$30.00 applied to [11/01/22, acct 4012,
+Jake D
+$30.00]/One Time ePayment received from
+Jake Stephen Duckworth, Paid from Jake D
+account
+Payment of $172.35 applied to [11/01/22, Russell
+acct 4000, $419.35]/One Time ePayment Roberts
+Settled ePayment 11/01/2022 GCVRQG8PLA5 11/01/2022 $172.35 $376.00
+received from Russell Roberts McElroy, McElroy-
+Paid from Russ debit account Russ debit
+Paid Charge 11/01/2022 4000 - Rent $419.35 $548.35
+Paid Charge 11/01/2022 4037 - SDRP Monthly Premium $65.00 $129.00
+Paid Charge 11/01/2022 4038 - RBP with Ins $39.00 $64.00
+Paid Charge 11/01/2022 4012 - Animal Rent $30.00 $25.00
+Paid Charge 10/27/2022 4205 - Lease Admin/Insp Fee $250.00 ($5.00)
+Paid Charge 10/27/2022 4024 - Animal Fee $30.00 ($255.00)
+Paid Charge 10/27/2022 4038 - RBP with Ins $39.00 ($285.00)
+Paid Charge 10/27/2022 4000 - Rent $2,600.00 ($324.00)
+Paid Charge 10/27/2022 4037 - SDRP Monthly Premium $65.00 ($2,924.00)
+Payment of $5.00 applied to [11/01/22, acct
+4037, $65.00] and $250.00 applied to
+[10/27/22, acct 4205, $250.00] and $30.00
+applied to [10/27/22, acct 4024, $30.00] Russell
+Deposited
+10/19/2022 1098219690 and $65.00 applied to [10/27/22, acct 4037, Roberts 10/19/2022 $2,989.00 ($2,989.00)
+Payment
+$65.00] and $39.00 applied to [10/27/22, McElroy
+acct 4038, $39.00] and $2,600.00 applied
+to [10/27/22, acct 4000, $2,600.00]/First
+Months Rent
+
+--- Page 16 ---
+
+Copyright © Propertyware® 2003-2024. All rights reserved.
+Various trademarks held by their respective owners.

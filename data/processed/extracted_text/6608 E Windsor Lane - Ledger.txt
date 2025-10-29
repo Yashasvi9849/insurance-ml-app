@@ -1,0 +1,150 @@
+Filename: 6608 E Windsor Lane - Ledger.pdf
+Method: pdfplumber
+Pages: 3
+Extracted: 2025-10-29T11:30:14.813447
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/26/22 - 12/15/23 12/15/23
+6788251400
+Property Unit Type Acc #
+XNA-07067 6608 E Windsor LHnOUSE 53940
+TO:
+Previous Current Current Balance
+Canady, Jason (DISPONP)
+Balance Charges Credits Due
+6608 E Windsor Ln
+-4,190.00 42,414.48 5,757.15 32,467.33
+Norcross, GA 30093
+Last Payment Amount Enclosed
+11/2/22 $2,173.00 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance -4,190.00
+08/26/22 TBR Sec Dep Charge SD per lease 1,895.00
+08/26/22 TBR Admin Fee to PM Admin fee per lease 200.00
+08/26/22 TBR Rent Charge Prorated rent for 6 days 8/26/22- 405.48
+8/31/22
+09/02/22 TBR Rent Charge 2,095.00
+09/30/22 Sec Dep Ins Charge to Tenant Sept SD charge per lease agreement 48.00
+09/30/22 TBR Sec Dep Charge reversing security deposit per tenant -1,895.00
+lease agreement
+10/01/22 TBR Rent Charge 2,095.00
+10/01/22 Sec Dep Ins Charge to Tenant 48.00
+10/05/22 TBR EFT Service Fees 10.00
+10/05/22 Web Pay CHK Payment Received Paid By: Jason Canady -711.48
+(prettyyboyfresh@icloud.com).
+11/01/22 TBR Rent Charge 2,095.00
+11/01/22 Sec Dep Ins Charge to Tenant 48.00
+11/01/22 YRIG Prem 20.00
+11/02/22 TBR EFT Service Fees 10.00
+11/02/22 Web Pay CHK Payment Received Paid By: Jason Canady -2,173.00
+(prettyyboyfresh@icloud.com).
+12/01/22 TBR Rent Charge 2,095.00
+12/01/22 Sec Dep Ins Charge to Tenant 48.00
+12/01/22 YRIG Prem 20.00
+12/06/22 TBR Late Charge to Owner 209.50
+01/01/23 TBR Rent Charge 2,095.00
+01/01/23 Sec Dep Ins Charge to Tenant 48.00
+01/01/23 YRIG Prem 20.00
+01/06/23 TBR Late Charge to Owner 209.50
+01/30/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+02/01/23 TBR Rent Charge 2,095.00
+02/01/23 Sec Dep Ins Charge to Tenant 48.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/26/22 - 12/15/23 12/15/23
+6788251400
+Property Unit Type Acc #
+XNA-07067 6608 E Windsor LHnOUSE 53940
+Previous Current Current Balance
+Balance Charges Credits Due
+-4,190.00 42,414.48 5,757.15 32,467.33
+Date Reference Description Amount
+02/01/23 YRIG Prem 20.00
+02/06/23 TBR Late Charge to Owner 209.50
+03/01/23 TBR Rent Charge 2,095.00
+03/01/23 Sec Dep Ins Charge to Tenant 48.00
+03/01/23 YRIG Prem 20.00
+03/06/23 TBR Late Charge to Owner 209.50
+04/01/23 TBR Rent Charge 2,095.00
+04/01/23 Sec Dep Ins Charge to Tenant 48.00
+04/01/23 YRIG Prem 20.00
+04/06/23 TBR Late Charge to Owner 209.50
+05/01/23 TBR Rent Charge 2,095.00
+05/01/23 Sec Dep Ins Charge to Tenant 48.00
+05/01/23 YRIG Prem 20.00
+05/08/23 TBR Late Charge to Owner 209.50
+06/01/23 TBR Rent Charge 2,095.00
+06/01/23 Sec Dep Ins Charge to Tenant 48.00
+06/01/23 YRIG Prem 20.00
+06/06/23 TBR Late Charge to Owner 209.50
+07/01/23 TBR Rent Charge 2,095.00
+07/01/23 Sec Dep Ins Charge to Tenant 48.00
+07/01/23 YRIG Prem 20.00
+07/06/23 TBR Late Charge to Owner 209.50
+08/01/23 TBR Rent Charge 2,095.00
+08/01/23 Sec Dep Ins Charge to Tenant 48.00
+08/01/23 YRIG Prem 20.00
+08/07/23 TBR Late Charge to Owner 209.50
+09/01/23 TBR Rent Charge 2,095.00
+09/01/23 Sec Dep Ins Charge to Tenant 48.00
+09/01/23 YRIG Prem 20.00
+09/06/23 TBR Late Charge to Owner 209.50
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/26/22 - 12/15/23 12/15/23
+6788251400
+Property Unit Type Acc #
+XNA-07067 6608 E Windsor LHnOUSE 53940
+Previous Current Current Balance
+Balance Charges Credits Due
+-4,190.00 42,414.48 5,757.15 32,467.33
+Date Reference Description Amount
+10/01/23 TBR Rent Charge 2,095.00
+10/01/23 Sec Dep Ins Charge to Tenant 48.00
+10/01/23 YRIG Prem 20.00
+10/06/23 TBR Late Charge to Owner 209.50
+11/01/23 TBR Rent Charge 2,095.00
+11/01/23 Sec Dep Ins Charge to Tenant 48.00
+11/01/23 YRIG Prem 20.00
+11/06/23 TBR Late Charge to Owner 209.50
+11/29/23 TBR Damages to Property Charges Broken garage door 1,000.00
+11/29/23 TBR Damages to Property Charges Deep clean/ disenfect/deoforize home 1,500.00
+due to feces in the carpet
+11/29/23 TBR Damages to Property Charges Steam Clean/Deodorize carpet 500.00
+11/29/23 TBR Damages to Property Charges Replace one broken blind 60.00
+11/29/23 TBR Damages to Property Charges Damage to dryall and ceiling 170.00
+11/29/23 TBR Damages to Property Charges Trash Removal interior of home 400.00
+11/29/23 TBR Damages to Property Charges Repair broken faucet in master 100.00
+bedroom
+11/29/23 TBR Damages to Property Charges Broken Toilet Seat 45.00
+11/29/23 TBR Damages to Property Charges Replace Broken Showerhead 100.00
+11/29/23 TBR Damages to Property Charges Two trip flea treatment 450.00
+11/29/23 TBR Damages to Property Charges Replace Bathroom Door Frame 150.00
+11/29/23 TBR Damages to Property Charges Perform Weed Treament 200.00
+12/14/23 TBR Rent Charge Tenant vacated on 11/16/23. Reversing -977.67
+11/17/23-11/30/23 rent
+Sub Total 32,467.33
+Unapplied Credits 0.00
+Balance Due 32,467.33
+Comments
+Page 3

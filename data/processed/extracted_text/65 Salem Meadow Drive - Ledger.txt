@@ -1,0 +1,185 @@
+Filename: 65 Salem Meadow Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:34:52.296377
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 10/31/23 10/17/23
+6788251400
+Property Unit Type Acc #
+C1A-08052 65 Salem MeadowH ODrUSE 58270
+TO:
+Previous Current Current Balance
+Abdulahad, Athena (DISPONP)
+Balance Charges Credits Due
+65 Salem Meadow Dr
+0.00 25,003.85 13,803.28 11,200.57
+Covington, GA 30016
+Last Payment Amount Enclosed
+4/29/23 $490.98 Web Pay VISA
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+11/08/22 Rent Reservation Fee 1,895.00
+11/09/22 CashPay Payment Payment Received CashPay Payment -1,895.00
+11/10/22 Rent Reservation Fee reversing rr fee to allocate payment to -1,895.00
+future rent charge
+11/11/22 CashPay Payment Payment Received CashPay Payment -200.00
+11/22/22 YRIG Prem 20.00
+11/22/22 CashPay Payment Payment Received CashPay Payment -20.00
+11/22/22 TBR Admin Fee to PM Admin fee per lease 200.00
+11/22/22 TBR Rent Charge Prorated rent for 9 days 11/22/22- 568.50
+11/30/22
+11/30/22 TBR EFT Service Fees 15.00
+11/30/22 Web Pay VISA Payment Received Paid By: Athena Abdulahad -615.00
+(athenasdaley@yahoo.com). Auth # -
+8559965983329626
+11/30/22 TBR EFT Service Fees 15.00
+11/30/22 Web Pay VISA Payment Received Paid By: Athena Abdulahad -66.49
+(athenasdaley@yahoo.com). Auth # -
+8384047138258967
+12/01/22 YRIG Prem 20.00
+12/01/22 TBR Rent Charge 1,895.00
+12/01/22 Sec Dep Ins Charge to Tenant 48.00
+12/01/22 Latchel Concierge Service 14.99
+12/28/22 TBR EFT Service Fees 15.00
+12/28/22 Web Pay VISA Payment Received Paid By: Athena Abdulahad -1,910.00
+(athenasdaley@yahoo.com). Auth # -
+8824046014693279
+01/01/23 YRIG Prem 20.00
+01/01/23 TBR Rent Charge 1,895.00
+01/01/23 Sec Dep Ins Charge to Tenant 48.00
+01/01/23 Latchel Concierge Service 14.99
+01/02/23 TBR EFT Service Fees 15.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 10/31/23 10/17/23
+6788251400
+Property Unit Type Acc #
+C1A-08052 65 Salem MeadowH ODrUSE 58270
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 25,003.85 13,803.28 11,200.57
+Date Reference Description Amount
+01/02/23 Web Pay VISA Payment Received Paid By: Athena Abdulahad -97.99
+(athenasdaley@yahoo.com). Auth # -
+83374949785649569
+01/30/23 TBR EFT Service Fees 15.00
+01/30/23 Web Pay VISA Payment Received Paid By: Athena Abdulahad -1,915.00
+(athenasdaley@yahoo.com). Auth # -
+8296514119315626
+02/01/23 YRIG Prem 20.00
+02/01/23 TBR Rent Charge 1,895.00
+02/01/23 Sec Dep Ins Charge to Tenant 48.00
+02/01/23 Latchel Concierge Service 14.99
+02/03/23 TBR EFT Service Fees 15.00
+02/03/23 Web Pay VISA Payment Received Paid By: Athena Abdulahad -92.99
+(athenasdaley@yahoo.com). Auth # -
+83375178446503101
+02/27/23 TBR EFT Service Fees 15.00
+02/27/23 Web Pay VISA Payment Received Paid By: Athena Abdulahad -1,915.00
+(athenasdaley@yahoo.com). Auth # -
+8560599593041938
+03/01/23 YRIG Prem 20.00
+03/01/23 TBR Rent Charge 1,895.00
+03/01/23 Sec Dep Ins Charge to Tenant 48.00
+03/01/23 Latchel Concierge Service 14.99
+03/30/23 TBR EFT Service Fees 15.00
+03/30/23 Web Pay VISA Payment Received Paid By: Athena Abdulahad -1,995.00
+(athenasdaley@yahoo.com). Auth # -
+8121008772779153
+04/01/23 YRIG Prem 20.00
+04/01/23 TBR Rent Charge 1,895.00
+04/01/23 Sec Dep Ins Charge to Tenant 48.00
+04/01/23 Latchel Concierge Service 14.99
+04/29/23 TBR EFT Service Fees 15.00
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 10/31/23 10/17/23
+6788251400
+Property Unit Type Acc #
+C1A-08052 65 Salem MeadowH ODrUSE 58270
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 25,003.85 13,803.28 11,200.57
+Date Reference Description Amount
+04/29/23 Web Pay VISA Payment Received Paid By: Athena Abdulahad -490.98
+(athenasdaley@yahoo.com). Auth # -
+8297144854041317
+05/01/23 YRIG Prem 20.00
+05/01/23 TBR Rent Charge 1,895.00
+05/01/23 Sec Dep Ins Charge to Tenant 48.00
+05/01/23 Latchel Concierge Service 14.99
+05/08/23 TBR Late Charge to Owner 189.50
+06/01/23 YRIG Prem 20.00
+06/01/23 TBR Rent Charge 1,895.00
+06/01/23 Sec Dep Ins Charge to Tenant 48.00
+06/01/23 Latchel Concierge Service 14.99
+06/06/23 TBR Late Charge to Owner 189.50
+06/21/23 Eviction Cancellation Fee to Halt Dispo 300.00
+07/01/23 YRIG Prem 20.00
+07/01/23 TBR Rent Charge 1,895.00
+07/01/23 Sec Dep Ins Charge to Tenant 48.00
+07/01/23 Latchel Concierge Service 14.99
+07/06/23 TBR Late Charge to Owner 189.50
+07/10/23 Tiber Utility Chargebacks Gas invoice for 5/25/23-6/26/23 32.95
+08/01/23 YRIG Prem 20.00
+08/01/23 TBR Rent Charge 1,895.00
+08/01/23 Sec Dep Ins Charge to Tenant 48.00
+08/01/23 Latchel Concierge Service 14.99
+08/07/23 TBR Late Charge to Owner 189.50
+09/01/23 YRIG Prem 20.00
+09/01/23 TBR Rent Charge 1,895.00
+09/01/23 Sec Dep Ins Charge to Tenant 48.00
+09/01/23 Latchel Concierge Service 14.99
+09/06/23 TBR Late Charge to Owner 189.50
+09/22/23 TBR Damages to Property Charges Rekey 4 locks @$50 per cylinder 200.00
+Page 3
+
+--- Page 4 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 10/31/23 10/17/23
+6788251400
+Property Unit Type Acc #
+C1A-08052 65 Salem MeadowH ODrUSE 58270
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 25,003.85 13,803.28 11,200.57
+Date Reference Description Amount
+09/22/23 TBR Damages to Property Charges Torn garage door seal 200.00
+09/22/23 TBR Damages to Property Charges Drywall repair throughout from nails and 250.00
+screws
+09/22/23 TBR Damages to Property Charges Replacement of 2 garage remotes @ 100.00
+$50 each
+09/22/23 TBR Damages to Property Charges Overgrown lawn 350.00
+09/22/23 TBR Damages to Property Charges Missing door stopper 25.00
+10/16/23 TBR Rent Charge Tenant vacated on 9/19/23. Reversing -694.83
+9/20/23-9/30/23 rent
+Sub Total 11,200.57
+Unapplied Credits 0.00
+Balance Due 11,200.57
+Comments
+Page 4

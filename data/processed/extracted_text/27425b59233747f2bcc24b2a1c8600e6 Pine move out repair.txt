@@ -1,0 +1,33 @@
+Filename: 27425b59233747f2bcc24b2a1c8600e6 Pine move out repair.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:12:20.002020
+============================================================
+
+
+--- Page 1 ---
+
+Invoice
+Meld #TJ8FDQF
+Tenant move out charges
+115 W Pine St
+Summerville, SC 29485-7126
+Total: $1135.00
+To From
+New Heights Property Management TnT Property Solutions, LLC
+237 Old Summerville Rd unit F PO Box 1492
+Summerville, SC 29486 Summerville, SC 29484
+(843) 231-0164
+Ticket Completed Invoice date
+Sun, 12 Feb 2023 Fri, 17 Feb 2023
+Notes
+tnt invoice 3282
+No. Description Quantity Price Amount
+Trash out all left over items interior and exterior
+1 Complete full cleaning per move out instructions 1.00 $700.00 $700.00
+2 Complete carpet cleaning 1.00 $150.00 $150.00
+3 Replace out lightbulbs Replace air filters 1.00 $60.00 $60.00
+Complete general landscaping and trim bushes
+4 (large yard about 2 acres) 1.00 $225.00 $225.00
+Total: $1,135.00
+Page 1 of 1

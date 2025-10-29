@@ -1,0 +1,43 @@
+Filename: Martinez invoice repairs.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:31:22.278460
+============================================================
+
+
+--- Page 1 ---
+
+INVOICE
+Bill To
+Johnson Property Management
+280 E Corporate Dr. #230
+Meridian, ID 83642
+McIntyre Remodel Payment terms Due upon receipt
+Invoice # 145
+1066 S Silverstone Way A326
+Date 10/28/2024
+Meridian, Idaho 83642
+Phone: (208) 800-2209
+Email: jacobmorenzoni@gmail.com
+Description Total
+Labor $97.50
+Material $12.00
+Subtotal $109.50
+Total $109.50
+Page 1 of 2
+
+--- Page 2 ---
+
+Notes:
+Property Name: 824 17th Ave S #7
+Property Address: 824 17th Ave S, Nampa, ID 83651
+WO1: Office 1: Flooring/Baseboard
+WO1: There are some extra flooring tiles in the mechanical room (code 5150) please cut and
+replace the ones with the stains on them.
+WO2: Office 1: Switch/Outlet
+WO2: White outlet cover plate to replace the broken one.
+WO3: Office 1: Wall/Ceiling
+WO3: Please remove the sticky tabs screws tape from on the vent and on the window, fill holes
+and prep for paint
+All complete
+Page 2 of 2

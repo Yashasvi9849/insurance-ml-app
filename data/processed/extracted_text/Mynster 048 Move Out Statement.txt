@@ -1,0 +1,29 @@
+Filename: Mynster 048 Move Out Statement.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:15:19.522074
+============================================================
+
+
+--- Page 1 ---
+
+Move Out Statement
+Date: 10/08/2024
+Code t0072780 Property pgf Lease From 10/20/2023
+Name Kaleah Mynster Unit 048 Lease To 09/30/2024
+Address 10921 Wittmus Drive 048 Status Past Move In 10/20/2023
+Rent 1,155.00 Move Out 09/30/2024
+City Papillion, NE 68046 Notice 08/01/2024
+Telephone (O)-( ) - (H)-(402) 210-6588
+Date Description Charge Payment Balance Chg/Rec
+Balance as of 9/01/2024 1,310.00
+09/01/2024 Residential Rent (09/2024) 1,155.00 0.00 2,465.00 3537408
+09/01/2024 Renters Insurance (09/2024) 17.00 0.00 2,482.00 3537409
+09/01/2024 Security Deposit Protection (09/2024) 33.00 0.00 2,515.00 3537410
+09/01/2024 Utility Revenue (09/2024) 30.00 0.00 2,545.00 3537411
+09/06/2024 chk# 438550592 Payer Last Name: Mynster - Credit Card - PayLease 0.00 700.00 1,845.00 2492345
+09/06/2024 Late Charge 75.00 0.00 1,920.00 3541866
+09/13/2024 chk# 439319504 Payer Last Name: Mynster - Credit Card - PayLease 0.00 1,000.00 920.00 2493782
+10/01/2024 chk# 440347983 Payer Last Name: Mynster - Credit Card - PayLease 0.00 500.00 420.00 2495599
+10/08/2024 Carpet Cleaning 200.00 0.00 620.00 3569779
+10/08/2024 Removal of Box Spring 150.00 0.00 770.00 3569780

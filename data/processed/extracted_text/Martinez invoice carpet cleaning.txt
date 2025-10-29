@@ -1,0 +1,35 @@
+Filename: Martinez invoice carpet cleaning.pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:31:22.318849
+============================================================
+
+
+--- Page 1 ---
+
+Page:1
+Invoice 3-326567
+Due Date/Terms 11/30/2024 N 30
+JOHNSON PROPERTY MANAGEMENT Invoice Date 10/31/2024
+750 S PROGRESS AVE #110 Install Date 10/30/2024
+MERIDIAN, ID 83642 Br/Job 3-328341
+Customer P.O.#
+Phone 208-884-3310
+Ordered By EVANN
+Salesperson Name MATTHEW BUCHANAN
+Special Instructions Ship To
+VACANT/ OFFICE JOHN3310 / 0000
+Type: CLEAN JOHNSON PROPERTY MANAGEMENT P 208-884-3310
+824 17 TH AVE SOUTH
+#7
+NAMPA, ID 83651
+Line Description Amount
+001 M I NIMUM CHARGE
+- * $70.00
+SMALL OFFICE SPACE
+Taxable $0.00
+Non-Taxable $70.00
+Sales Tax $0.00
+Grand Total $70.00
+Deposit $0.00
+Balance $70.00

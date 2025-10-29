@@ -1,0 +1,153 @@
+Filename: Condon 3201 Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:33:30.037896
+============================================================
+
+
+--- Page 1 ---
+
+Resident Ledger
+Date: 05/17/2024
+Code t0073479 Property sun Lease From 09/29/2023
+Name Whitney Condon Unit 3201 Lease To 09/30/2024
+Address 1309 28th St Status Past Move In 09/29/2023
+Rent 1445.00 Move Out 04/30/2024
+City Sioux City, IA 51104-2901 Phone (H) (712) 574-3496 Phone (W)
+Date Chg Code Description Charge Payment Balance Chg/Rec
+09/29/2023 app.fee Applicaton Fee 40.00 40.00 3259261
+09/29/2023 admin Administration Fee 100.00 140.00 3259262
+09/29/2023 .rent Rent for 2 days 96.00 236.00 3259276
+09/29/2023 concess One Time Move-in Special (96.00) 140.00 3259277
+09/29/2023 utility Monthly Utility Charge for 2 days 3.00 143.00 3259278
+09/29/2023 ins.ren Renters Insurance for 2 days 1.00 144.00 3259279
+09/29/2023 sd.pro Security Deposit Protection for 2 days 2.00 146.00 3259280
+10/01/2023 .rent Residential Rent (10/2023) 1,445.00 1,591.00 3268215
+10/01/2023 concess Rent Concessions (10/2023) (1,445.00) 146.00 3268216
+10/01/2023 ins.ren Renters Insurance (10/2023) 19.00 165.00 3268217
+10/01/2023 sd.pro Security Deposit Protection (10/2023) 33.00 198.00 3268218
+10/01/2023 utility Utility Revenue (10/2023) 40.00 238.00 3268219
+chk# 378098188 Payer Last Name: Condon - CheckScan - PayLease Check Number:
+10/02/2023 146.00 92.00 2343046
+001003
+10/04/2023 chk# 379173142 Payer Last Name: Condon - ACH - PayLease 92.00 0.00 2345782
+11/01/2023 .rent Residential Rent (11/2023) 1,445.00 1,445.00 3288896
+11/01/2023 ins.ren Renters Insurance (11/2023) 19.00 1,464.00 3288897
+11/01/2023 sd.pro Security Deposit Protection (11/2023) 33.00 1,497.00 3288898
+11/01/2023 utility Utility Revenue (11/2023) 40.00 1,537.00 3288899
+11/03/2023 chk# 384144837 Payer Last Name: Condon - ACH - PayLease 1,537.00 0.00 2357317
+11/20/2023 app.fee Add-On Roommate 40.00 40.00 3301833
+11/20/2023 chk# 386644755 Payer Last Name: Condon - ACH - PayLease 40.00 0.00 2362744
+12/01/2023 .rent Residential Rent (12/2023) 1,445.00 1,445.00 3318771
+12/01/2023 ins.ren Renters Insurance (12/2023) 19.00 1,464.00 3318772
+12/01/2023 sd.pro Security Deposit Protection (12/2023) 33.00 1,497.00 3318773
+12/01/2023 utility Utility Revenue (12/2023) 40.00 1,537.00 3318774
+12/03/2023 chk# 389032441 Payer Last Name: Condon - ACH - PayLease 1,537.00 0.00 2369308
+12/04/2023 gar.rent Resident picked up garage 31 77.00 77.00 3319582
+12/05/2023 chk# 390037983 Payer Last Name: Condon - ACH - PayLease 77.00 0.00 2371821
+01/01/2024 .rent Residential Rent (01/2024) 1,445.00 1,445.00 3338723
+01/01/2024 gar.rent Garage Rent (01/2024) 85.00 1,530.00 3338724
+01/01/2024 ins.ren Renters Insurance (01/2024) 19.00 1,549.00 3338725
+01/01/2024 sd.pro Security Deposit Protection (01/2024) 33.00 1,582.00 3338726
+01/01/2024 utility Utility Revenue (01/2024) 40.00 1,622.00 3338727
+01/02/2024 chk# 394263045 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2380866
+02/01/2024 .rent Residential Rent (02/2024) 1,445.00 1,445.00 3357074
+02/01/2024 gar.rent Garage Rent (02/2024) 85.00 1,530.00 3357075
+02/01/2024 ins.ren Renters Insurance (02/2024) 19.00 1,549.00 3357076
+02/01/2024 sd.pro Security Deposit Protection (02/2024) 33.00 1,582.00 3357077
+02/01/2024 utility Utility Revenue (02/2024) 40.00 1,622.00 3357078
+02/03/2024 chk# 400464509 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2395276
+03/01/2024 .rent Residential Rent (03/2024) 1,445.00 1,445.00 3384874
+03/01/2024 gar.rent Garage Rent (03/2024) 85.00 1,530.00 3384875
+03/01/2024 ins.ren Renters Insurance (03/2024) 19.00 1,549.00 3384876
+03/01/2024 sd.pro Security Deposit Protection (03/2024) 33.00 1,582.00 3384877
+03/01/2024 utility Utility Revenue (03/2024) 40.00 1,622.00 338 148 /7 82
+03/03/2024 chk# 405534766 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2407409
+04/01/2024 .rent Residential Rent (04/2024) 1,445.00 1,445.00 3401891
+04/01/2024 gar.rent Garage Rent (04/2024) 85.00 1,530.00 3401892
+04/01/2024 ins.ren Renters Insurance (04/2024) 19.00 1,549.00 3401893
+04/01/2024 sd.pro Security Deposit Protection (04/2024) 33.00 1,582.00 3401894
+04/01/2024 utility Utility Revenue (04/2024) 40.00 1,622.00 3401895
+04/03/2024 chk# 411028419 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2421210
+Replaced Bent Window Blinds in Master Bedroom :Write Off by Charge Ctrl#
+05/06/2024 turnover 80.00 80.00 3437149
+3437165
+05/06/2024 turnover Replaced Screen in Door Due To Holes :Write Off by Charge Ctrl# 3437166 75.00 155.00 3437150
+05/06/2024 turnover Carpet Cleaning :Write Off by Charge Ctrl# 3437167 90.00 245.00 3437151
+05/07/2024 writeoff :Write Off Charge Ctrl#3437149 Remove balance from ledger (80.00) 165.00 3437165
+05/07/2024 writeoff :Write Off Charge Ctrl#3437150 Remove balance from ledger (75.00) 90.00 3437166
+05/07/2024 writeoff :Write Off Charge Ctrl#3437151 Remove balance from ledger (90.00) 0.00 3437167
+
+--- Page 2 ---
+
+Resident Ledger
+Date: 05/17/2024
+Code t0073479 Property sun Lease From 09/29/2023
+Name Whitney Condon Unit 3201 Lease To 09/30/2024
+Address 1309 28th St Status Past Move In 09/29/2023
+Rent 1445.00 Move Out 04/30/2024
+City Sioux City, IA 51104-2901 Phone (H) (712) 574-3496 Phone (W)
+Date Chg Code Description Charge Payment Balance Chg/Rec
+09/29/2023 app.fee Applicaton Fee 40.00 40.00 3259261
+09/29/2023 admin Administration Fee 100.00 140.00 3259262
+09/29/2023 .rent Rent for 2 days 96.00 236.00 3259276
+09/29/2023 concess One Time Move-in Special (96.00) 140.00 3259277
+09/29/2023 utility Monthly Utility Charge for 2 days 3.00 143.00 3259278
+09/29/2023 ins.ren Renters Insurance for 2 days 1.00 144.00 3259279
+09/29/2023 sd.pro Security Deposit Protection for 2 days 2.00 146.00 3259280
+10/01/2023 .rent Residential Rent (10/2023) 1,445.00 1,591.00 3268215
+10/01/2023 concess Rent Concessions (10/2023) (1,445.00) 146.00 3268216
+10/01/2023 ins.ren Renters Insurance (10/2023) 19.00 165.00 3268217
+10/01/2023 sd.pro Security Deposit Protection (10/2023) 33.00 198.00 3268218
+10/01/2023 utility Utility Revenue (10/2023) 40.00 238.00 3268219
+chk# 378098188 Payer Last Name: Condon - CheckScan - PayLease Check Number:
+10/02/2023 146.00 92.00 2343046
+001003
+10/04/2023 chk# 379173142 Payer Last Name: Condon - ACH - PayLease 92.00 0.00 2345782
+11/01/2023 .rent Residential Rent (11/2023) 1,445.00 1,445.00 3288896
+11/01/2023 ins.ren Renters Insurance (11/2023) 19.00 1,464.00 3288897
+11/01/2023 sd.pro Security Deposit Protection (11/2023) 33.00 1,497.00 3288898
+11/01/2023 utility Utility Revenue (11/2023) 40.00 1,537.00 3288899
+11/03/2023 chk# 384144837 Payer Last Name: Condon - ACH - PayLease 1,537.00 0.00 2357317
+11/20/2023 app.fee Add-On Roommate 40.00 40.00 3301833
+11/20/2023 chk# 386644755 Payer Last Name: Condon - ACH - PayLease 40.00 0.00 2362744
+12/01/2023 .rent Residential Rent (12/2023) 1,445.00 1,445.00 3318771
+12/01/2023 ins.ren Renters Insurance (12/2023) 19.00 1,464.00 3318772
+12/01/2023 sd.pro Security Deposit Protection (12/2023) 33.00 1,497.00 3318773
+12/01/2023 utility Utility Revenue (12/2023) 40.00 1,537.00 3318774
+12/03/2023 chk# 389032441 Payer Last Name: Condon - ACH - PayLease 1,537.00 0.00 2369308
+12/04/2023 gar.rent Resident picked up garage 31 77.00 77.00 3319582
+12/05/2023 chk# 390037983 Payer Last Name: Condon - ACH - PayLease 77.00 0.00 2371821
+01/01/2024 .rent Residential Rent (01/2024) 1,445.00 1,445.00 3338723
+01/01/2024 gar.rent Garage Rent (01/2024) 85.00 1,530.00 3338724
+01/01/2024 ins.ren Renters Insurance (01/2024) 19.00 1,549.00 3338725
+01/01/2024 sd.pro Security Deposit Protection (01/2024) 33.00 1,582.00 3338726
+01/01/2024 utility Utility Revenue (01/2024) 40.00 1,622.00 3338727
+01/02/2024 chk# 394263045 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2380866
+02/01/2024 .rent Residential Rent (02/2024) 1,445.00 1,445.00 3357074
+02/01/2024 gar.rent Garage Rent (02/2024) 85.00 1,530.00 3357075
+02/01/2024 ins.ren Renters Insurance (02/2024) 19.00 1,549.00 3357076
+02/01/2024 sd.pro Security Deposit Protection (02/2024) 33.00 1,582.00 3357077
+02/01/2024 utility Utility Revenue (02/2024) 40.00 1,622.00 3357078
+02/03/2024 chk# 400464509 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2395276
+03/01/2024 .rent Residential Rent (03/2024) 1,445.00 1,445.00 3384874
+03/01/2024 gar.rent Garage Rent (03/2024) 85.00 1,530.00 3384875
+03/01/2024 ins.ren Renters Insurance (03/2024) 19.00 1,549.00 3384876
+03/01/2024 sd.pro Security Deposit Protection (03/2024) 33.00 1,582.00 3384877
+03/01/2024 utility Utility Revenue (03/2024) 40.00 1,622.00 3384878
+03/03/2024 chk# 405534766 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2407409
+04/01/2024 .rent Residential Rent (04/2024) 1,445.00 1,445.00 3401891
+04/01/2024 gar.rent Garage Rent (04/2024) 85.00 1,530.00 3401892
+04/01/2024 ins.ren Renters Insurance (04/2024) 19.00 1,549.00 3401893
+04/01/2024 sd.pro Security Deposit Protection (04/2024) 33.00 1,582.00 3401894
+04/01/2024 utility Utility Revenue (04/2024) 40.00 1,622.00 3401895
+04/03/2024 chk# 411028419 Payer Last Name: Condon - ACH - PayLease 1,622.00 0.00 2421210
+Replaced Bent Window Blinds in Master Bedroom :Write Off by Charge Ctrl#
+05/06/2024 turnover 80.00 80.00 3437149
+3437165
+05/06/2024 turnover Replaced Screen in Door Due To Holes :Write Off by Charge Ctrl# 3437166 75.00 155.00 3437150
+05/06/2024 turnover Carpet Cleaning :Write Off by Charge Ctrl# 3437167 90.00 245.00 3437151
+05/07/2024 writeoff :Write Off Charge Ctrl#3437149 Remove balance from ledger (80.00) 165.00 3437165
+05/07/2024 writeoff :Write Off Charge Ctrl#3437150 Remove balance from ledger (75.00) 90.00 3437166
+05/07/2024 writeoff :Write Off Charge Ctrl#3437151 Remove balance from ledger (90.00) 0.00 3437167
+2 / 2

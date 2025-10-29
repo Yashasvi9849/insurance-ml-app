@@ -1,0 +1,632 @@
+Filename: 3024 Wanda Ledger.pdf
+Method: pdfplumber
+Pages: 9
+Extracted: 2025-10-29T11:21:03.569675
+============================================================
+
+
+--- Page 1 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+PURE Property Management of Georgia - Atlanta Office
+Lease: Daniel - Mayfield
+Contact: Keadrian Daniel
+Contact: Mark Mayfield
+Property Address: 3024 Wanda Cir SW
+Atlanta,GA 30315-7922
+Balance as of 11/25/2024 Prepayments Total Unpaid Deposit Held
+$585.10 $0.00 $585.10 $0.00
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Partially
+10/30/2024 4153 - Damage Fees $590.00 $585.10
+Paid Charge
+On day pro rated
+Paid Charge 09/24/2024 4000 - Rent $49.00 ($4.90)
+rent
+Payment of $4.90
+applied to [10/30/24,
+acct 4153, $590.00]
+and $49.00 applied to
+[09/24/24, acct 4000,
+$49.00] and $39.00
+applied to [09/01/24,
+acct 4438, $39.00]
+Deposited Keadrian
+09/10/2024 VPJ0SWCRA05 and $30.00 applied to 09/10/2024 $1,243.90 ($53.90)
+Payment Daniel
+[09/01/24, acct 4210,
+$30.00] and $1,078.00
+applied to [09/01/24,
+acct 4000, $1,078.00]
+and $43.00 applied to
+[09/01/24, acct 4437,
+$43.00]/RentMoney -
+Keadrian Daniel
+4000 - Rent : Pro
+Paid Charge 09/01/2024 $1,078.00 $1,190.00
+rated rent 9/1 - 9/22
+Paid Charge 09/01/2024 4437 - SDRP Fee $43.00 $112.00
+Paid Charge 09/01/2024 4438 - RBP with Ins $39.00 $69.00
+4210 - Pet Fee
+Paid Charge 09/01/2024 $30.00 $30.00
+Monthly
+Deposited 08/09/2024 1CVM0TBRA02 Payment of $73.50 Mark 08/09/2024 $1,651.75 $0.00
+Payment applied to [08/09/24, Mayfield
+acct 4100, $73.50]
+and $43.00 applied to
+[08/01/24, acct 4437,
+$43.00] and $39.00
+applied to [08/01/24,
+acct 4438, $39.00]
+and $1,470.00 applied
+to [08/01/24, acct
+4000, $1,470.00] and
+$26.25 applied to
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 1/9
+
+--- Page 2 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+[08/01/24, acct 4210,
+$30.00]/RentMoney -
+Mark Mayfield
+4100 - Late Fee :
+Calculated on
+Paid Charge 08/09/2024 $73.50 $1,651.75
+08/09/2024 5:42 AM
+by system
+Paid Charge 08/01/2024 4000 - Rent $1,470.00 $1,578.25
+Paid Charge 08/01/2024 4437 - SDRP Fee $43.00 $108.25
+Paid Charge 08/01/2024 4438 - RBP with Ins $39.00 $65.25
+4210 - Pet Fee
+Paid Charge 08/01/2024 $30.00 $26.25
+Monthly
+Payment of $3.75
+applied to [08/01/24,
+acct 4210, $30.00]
+and $73.50 applied to
+[07/07/24, acct 4100,
+$73.50] and $43.00
+applied to [07/01/24,
+acct 4437, $43.00]
+and $45.00 applied to
+Deposited [06/13/24, acct 4095, Keadrian
+07/09/2024 MW6ZLF6RA02 07/09/2024 $1,690.50 ($3.75)
+Payment $45.00] and $1,470.00 Daniel
+applied to [07/01/24,
+acct 4000, $1,470.00]
+and $16.25 applied to
+[07/01/24, acct 4210,
+$30.00] and $39.00
+applied to [07/01/24,
+acct 4438,
+$39.00]/RentMoney -
+Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 07/07/2024 $73.50 $1,686.75
+07/07/2024 6:25 AM
+by system
+Paid Charge 07/01/2024 4000 - Rent $1,470.00 $1,613.25
+Paid Charge 07/01/2024 4437 - SDRP Fee $43.00 $143.25
+Paid Charge 07/01/2024 4438 - RBP with Ins $39.00 $100.25
+4210 - Pet Fee
+Paid Charge 07/01/2024 $30.00 $61.25
+Monthly
+No show for
+4095 - PURE
+Paid Charge 06/13/2024 periodic $45.00 $31.25
+Reimbursable OTHER
+inspection.
+Deposited 06/09/2024 9L2D413RA03 Payment of $13.75 Keadrian 06/09/2024 $1,665.50 ($13.75)
+Payment applied to [07/01/24, Daniel
+acct 4210, $30.00]
+and $43.00 applied to
+[06/01/24, acct 4437,
+$43.00] and $73.50
+applied to [06/07/24,
+acct 4100, $73.50]
+and $39.00 applied to
+[06/01/24, acct 4438,
+$39.00] and $26.25
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 2/9
+
+--- Page 3 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+applied to [06/01/24,
+acct 4210, $30.00]
+and $1,470.00 applied
+to [06/01/24, acct
+4000,
+$1,470.00]/RentMoney
+- Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 06/07/2024 $73.50 $1,651.75
+06/07/2024 5:43 AM
+by system
+Paid Charge 06/01/2024 4000 - Rent $1,470.00 $1,578.25
+Paid Charge 06/01/2024 4437 - SDRP Fee $43.00 $108.25
+Paid Charge 06/01/2024 4438 - RBP with Ins $39.00 $65.25
+4210 - Pet Fee
+Paid Charge 06/01/2024 $30.00 $26.25
+Monthly
+Payment of $3.75
+applied to [06/01/24,
+acct 4210, $30.00]
+and $43.00 applied to
+[05/01/24, acct 4437,
+$43.00] and $1,470.00
+applied to [05/01/24,
+acct 4000, $1,470.00]
+Deposited Keadrian
+05/08/2024 CT47T90RA05 and $39.00 applied to 05/08/2024 $1,656.00 ($3.75)
+Payment Daniel
+[05/01/24, acct 4438,
+$39.00] and $26.75
+applied to [05/01/24,
+acct 4210, $30.00]
+and $73.50 applied to
+[05/07/24, acct 4100,
+$73.50]/RentMoney -
+Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 05/07/2024 $73.50 $1,652.25
+05/07/2024 5:35 AM
+by system
+Paid Charge 05/01/2024 4000 - Rent $1,470.00 $1,578.75
+Paid Charge 05/01/2024 4437 - SDRP Fee $43.00 $108.75
+Paid Charge 05/01/2024 4438 - RBP with Ins $39.00 $65.75
+4210 - Pet Fee
+Paid Charge 05/01/2024 $30.00 $26.75
+Monthly
+Deposited 04/09/2024 70V5WWWQA09 Payment of $3.25 Keadrian 04/09/2024 $1,805.00 ($3.25)
+Payment applied to [05/01/24, Daniel
+acct 4210, $30.00]
+and $1,470.00 applied
+to [04/01/24, acct
+4000, $1,470.00] and
+$73.50 applied to
+[04/07/24, acct 4100,
+$73.50] and $150.00
+applied to [03/22/24,
+acct 4002, $150.00]
+and $43.00 applied to
+[04/01/24, acct 4437,
+$43.00] and $26.25
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 3/9
+
+--- Page 4 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+applied to [04/01/24,
+acct 4210, $30.00]
+and $39.00 applied to
+[04/01/24, acct 4438,
+$39.00]/RentMoney -
+Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 04/07/2024 $73.50 $1,801.75
+04/07/2024 6:08 AM
+by system
+Paid Charge 04/01/2024 4000 - Rent $1,470.00 $1,728.25
+Paid Charge 04/01/2024 4437 - SDRP Fee $43.00 $258.25
+Paid Charge 04/01/2024 4438 - RBP with Ins $39.00 $215.25
+4210 - Pet Fee
+Paid Charge 04/01/2024 $30.00 $176.25
+Monthly
+4002 - Tenant Lease
+Paid Charge 03/22/2024 $150.00 $146.25
+Renewal Fe...
+Payment of $3.75
+applied to [04/01/24,
+acct 4210, $30.00]
+and $167.14 applied
+to [03/02/24, acct
+4100, $167.14] and
+$13.15 applied to
+[03/01/24, acct 4000,
+$13.15] and $186.50
+applied to [02/14/24,
+acct 5062, $186.50]
+and $30.00 applied to
+Deposited Keadrian
+03/05/2024 8THNG5TQA01 [03/01/24, acct 4210, 03/05/2024 $1,888.79 ($3.75)
+Payment Daniel
+$30.00] and $1,396.25
+applied to [03/01/24,
+acct 4000, $1,400.00]
+and $43.00 applied to
+[03/01/24, acct 4437,
+$43.00] and $39.00
+applied to [03/01/24,
+acct 4438, $39.00]
+and $10.00 applied to
+[02/29/24, acct 4190,
+$10.00]/RentMoney -
+Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 03/02/2024 $167.14 $1,885.04
+03/02/2024 5:27 AM
+by system
+Paid Charge 03/01/2024 4000 - Rent $13.15 $1,717.90
+Paid Charge 03/01/2024 4437 - SDRP Fee $43.00 $1,704.75
+Paid Charge 03/01/2024 4438 - RBP with Ins $39.00 $1,661.75
+4210 - Pet Fee
+Paid Charge 03/01/2024 $30.00 $1,622.75
+Monthly
+Paid Charge 03/01/2024 4000 - Rent $1,400.00 $1,592.75
+4190 - Court Filing
+Paid Charge 02/29/2024 $10.00 $192.75
+Fee : Dismissals
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 4/9
+
+--- Page 5 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+5062 - Court Filing
+Paid Charge 02/14/2024 Fees : Eviction filing $186.50 $182.75
+fee
+Payment of $3.75
+applied to [03/01/24,
+acct 4000, $1,400.00]
+and $39.00 applied to
+[02/01/24, acct 4438,
+$39.00] and $151.20
+applied to [02/02/24,
+acct 4100, $151.20]
+Deposited Keadrian
+02/13/2024 8DGY3GQQA06 and $43.00 applied to 02/13/2024 $1,666.95 ($3.75)
+Payment Daniel
+[02/01/24, acct 4437,
+$43.00] and $1,400.00
+applied to [02/01/24,
+acct 4000, $1,400.00]
+and $30.00 applied to
+[02/01/24, acct 4210,
+$30.00]/RentMoney -
+Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 02/02/2024 $151.20 $1,663.20
+02/02/2024 5:33 AM
+by system
+Paid Charge 02/01/2024 4437 - SDRP Fee $43.00 $1,512.00
+Paid Charge 02/01/2024 4438 - RBP with Ins $39.00 $1,469.00
+4210 - Pet Fee
+Paid Charge 02/01/2024 $30.00 $1,430.00
+Monthly
+Paid Charge 02/01/2024 4000 - Rent $1,400.00 $1,400.00
+Payment of $0.00
+applied to [01/11/24,
+acct 2301, $0.00] and
+$109.30 applied to
+[12/02/23, acct 4100,
+$151.20] and $151.20
+applied to [01/02/24,
+acct 4100, $151.20]
+and $30.00 applied to
+Deposited [01/01/24, acct 4210, Keadrian
+01/11/2024 HMZ681MQA07 01/11/2024 $1,772.50 $0.00
+Payment $30.00] and $1,400.00 Daniel
+applied to [01/01/24,
+acct 4000, $1,400.00]
+and $43.00 applied to
+[01/01/24, acct 4437,
+$43.00] and $39.00
+applied to [01/01/24,
+acct 4438,
+$39.00]/RentMoney -
+Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 01/02/2024 $151.20 $1,772.50
+01/02/2024 5:37 AM
+by system
+Paid Charge 01/01/2024 4437 - SDRP Fee $43.00 $1,621.30
+Paid Charge 01/01/2024 4438 - RBP with Ins $39.00 $1,578.30
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 5/9
+
+--- Page 6 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+4210 - Pet Fee
+Paid Charge 01/01/2024 $30.00 $1,539.30
+Monthly
+Paid Charge 01/01/2024 4000 - Rent $1,400.00 $1,509.30
+Payment of $39.00
+applied to [12/01/23,
+acct 4438, $39.00]
+and $41.90 applied to
+[12/02/23, acct 4100,
+$151.20] and $30.00
+applied to [12/01/23,
+acct 4210, $30.00]
+and $1,400.00 applied
+to [12/01/23, acct
+4000, $1,400.00] and
+Deposited Keadrian
+12/08/2023 JH1TT9JQA05 $83.16 applied to 12/08/2023 $1,663.20 $109.30
+Payment Daniel
+[11/16/23, acct 4120,
+$83.16] and $21.14
+applied to [11/02/23,
+acct 4100, $151.20]
+and $43.00 applied to
+[12/01/23, acct 4437,
+$43.00] and $5.00
+applied to [11/13/23,
+acct 4206,
+$5.00]/RentMoney -
+Keadrian Daniel
+4100 - Late Fee :
+Calculated on
+Paid Charge 12/02/2023 $151.20 $1,772.50
+12/02/2023 5:35 AM
+by system
+Paid Charge 12/01/2023 4437 - SDRP Fee $43.00 $1,621.30
+Paid Charge 12/01/2023 4438 - RBP with Ins $39.00 $1,578.30
+4210 - Pet Fee
+Paid Charge 12/01/2023 $30.00 $1,539.30
+Monthly
+Paid Charge 12/01/2023 4000 - Rent $1,400.00 $1,509.30
+Payment of $130.06
+applied to [11/02/23,
+acct 4100, $151.20]
+and $23.94 applied to
+[11/02/23, acct 4100,
+$175.14] and $39.00
+applied to [11/01/23,
+acct 4438, $39.00]
+Deposited Mark
+11/17/2023 CCQPHLFQA08 and $43.00 applied to 11/17/2023 $1,666.00 $109.30
+Payment Mayfield
+[11/01/23, acct 4437,
+$43.00] and $1,400.00
+applied to [11/01/23,
+acct 4000, $1,400.00]
+and $30.00 applied to
+[11/01/23, acct 4210,
+$30.00]/RentMoney -
+Mark Mayfield
+Returned Returned
+Returned Payment
+Payment 11/17/2023 Payment ($1,663.20) $1,775.30
+Adjustment
+Adjustment Adjustment
+4120 - Return Check
+Paid Charge 11/16/2023 $83.16 $112.10
+Charge
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 6/9
+
+--- Page 7 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+Paid Charge 11/13/2023 4206 - Admin Fee $5.00 $28.94
+Payment of $39.00
+applied to [11/01/23,
+acct 4438, $39.00]
+and $43.00 applied to
+[11/01/23, acct 4437,
+$43.00] and $1,400.00
+applied to [11/01/23, Mark
+Deposited
+acct 4000, $1,400.00] Mayfield-
+Payment 11/13/2023 GLSWGLFQA09 11/16/2023 $1,663.20 $23.94
+and $30.00 applied to rent
+(Returned)
+[11/01/23, acct 4210, money
+$30.00] and $151.20
+applied to [11/02/23,
+acct 4100,
+$175.14]/Returned
+NSF - R01 Insufficient
+Funds
+4100 - Late Fee :
+Calculated on
+Paid Charge 11/02/2023 $175.14 $1,687.14
+11/02/2023 5:35 AM
+by system
+Paid Charge 11/01/2023 4437 - SDRP Fee $43.00 $1,512.00
+Paid Charge 11/01/2023 4438 - RBP with Ins $39.00 $1,469.00
+4210 - Pet Fee
+Paid Charge 11/01/2023 $30.00 $1,430.00
+Monthly
+Paid Charge 11/01/2023 4000 - Rent $1,400.00 $1,400.00
+Payment of $30.00
+applied to [10/01/23,
+acct 4210, $30.00]
+and $151.20 applied
+to [10/02/23, acct
+4100, $151.20] and
+$1,400.00 applied to
+[10/01/23, acct 4000,
+Keadrian
+Settled $1,400.00] and $39.00
+10/12/2023 86NYQCBQA07 Daniel- 10/17/2023 $1,663.20 $0.00
+ePayment applied to [10/01/23,
+Magic
+acct 4438, $39.00]
+and $43.00 applied to
+[10/01/23, acct 4437,
+$43.00]/One Time
+ePayment received
+from Keadrian Daniel,
+Paid from Magic
+account
+4100 - Late Fee :
+Calculated on
+Paid Charge 10/02/2023 $151.20 $1,663.20
+10/02/2023 5:37 AM
+by system
+Paid Charge 10/01/2023 4437 - SDRP Fee $43.00 $1,512.00
+Paid Charge 10/01/2023 4438 - RBP with Ins $39.00 $1,469.00
+4210 - Pet Fee
+Paid Charge 10/01/2023 $30.00 $1,430.00
+Monthly
+Paid Charge 10/01/2023 4000 - Rent $1,400.00 $1,400.00
+Settled 09/10/2023 KB1Y5H9QA06 Payment of $43.00 Keadrian 09/14/2023 $1,663.20 $0.00
+ePayment applied to [09/01/23, Daniel-
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 7/9
+
+--- Page 8 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+acct 4437, $43.00] Mayfield
+and $39.00 applied to
+[09/01/23, acct 4438,
+$39.00] and $30.00
+applied to [09/01/23,
+acct 4210, $30.00]
+and $1,400.00 applied
+to [09/01/23, acct
+4000, $1,400.00] and
+$151.20 applied to
+[09/02/23, acct 4100,
+$151.20]/One Time
+ePayment received
+from Keadrian Daniel,
+Paid from Mayfield
+account
+4100 - Late Fee :
+Calculated on
+Paid Charge 09/02/2023 $151.20 $1,663.20
+09/02/2023 5:25 AM
+by system
+Paid Charge 09/01/2023 4437 - SDRP Fee $43.00 $1,512.00
+Paid Charge 09/01/2023 4438 - RBP with Ins $39.00 $1,469.00
+4210 - Pet Fee
+Paid Charge 09/01/2023 $30.00 $1,430.00
+Monthly
+Paid Charge 09/01/2023 4000 - Rent $1,400.00 $1,400.00
+Payment of $75.00
+applied to [08/02/23,
+acct 4100, $75.00]
+and $43.00 applied to
+[08/01/23, acct 4437,
+$43.00] and $30.00
+applied to [08/01/23,
+acct 4210, $30.00]
+Keadrian
+Settled and $39.00 applied to
+08/04/2023 Q43LDJ5QA02 Daniel- 08/04/2023 $1,587.00 $0.00
+ePayment [08/01/23, acct 4438,
+Magic
+$39.00] and $1,400.00
+applied to [08/01/23,
+acct 4000,
+$1,400.00]/One Time
+ePayment received
+from Keadrian Daniel,
+Paid from Magic
+account
+4100 - Late Fee :
+Calculated on
+Paid Charge 08/02/2023 $75.00 $1,587.00
+08/02/2023 5:29 AM
+by system
+Paid Charge 08/01/2023 4437 - SDRP Fee $43.00 $1,512.00
+Paid Charge 08/01/2023 4438 - RBP with Ins $39.00 $1,469.00
+4210 - Pet Fee
+Paid Charge 08/01/2023 $30.00 $1,430.00
+Monthly
+Paid Charge 08/01/2023 4000 - Rent $1,400.00 $1,400.00
+Settled 07/07/2023 WXCQ2J2QA08 Payment of $1,400.00 Keadrian 07/07/2023 $1,663.20 $0.00
+ePayment applied to [07/01/23, Daniel-
+acct 4000, $1,400.00] Wanda
+and $30.00 applied to
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 8/9
+
+--- Page 9 ---
+
+11/25/24, 11:01 AM Propertyware - On Demand Real Estate Solution
+Payer Deposit
+Transaction Date Ref # Description Charges Payments Balance
+Name Date
+[07/01/23, acct 4210,
+$30.00] and $151.20
+applied to [07/02/23,
+acct 4100, $151.20]
+and $39.00 applied to
+[07/01/23, acct 4438,
+$39.00] and $43.00
+applied to [07/01/23,
+acct 4437,
+$43.00]/One Time
+ePayment received
+from Keadrian Daniel,
+Paid from Wanda
+account
+4100 - Late Fee :
+Calculated on
+Paid Charge 07/02/2023 $151.20 $1,663.20
+07/02/2023 5:56 AM
+by system
+Paid Charge 07/01/2023 4437 - SDRP Fee $43.00 $1,512.00
+Paid Charge 07/01/2023 4438 - RBP with Ins $39.00 $1,469.00
+4210 - Pet Fee
+Paid Charge 07/01/2023 $30.00 $1,430.00
+Monthly
+Paid Charge 07/01/2023 4000 - Rent $1,400.00 $1,400.00
+Payment of $39.00
+applied to [06/01/23,
+acct 4438, $39.00]
+and $43.00 applied to
+[06/01/23, acct 4437,
+$43.00] and $151.20
+applied to [06/09/23,
+acct 4100, $151.20]
+Keadrian
+Settled and $1,400.00 applied
+06/09/2023 W64SQLYPLA5 Daniel- 06/14/2023 $1,663.20 $0.00
+ePayment to [06/01/23, acct
+Magic
+4000, $1,400.00] and
+$30.00 applied to
+[06/01/23, acct 4210,
+$30.00]/One Time
+ePayment received
+from Keadrian Daniel,
+Paid from Magic
+account
+4100 - Late Fee :
+Calculated on
+Paid Charge 06/09/2023 $151.20 $1,663.20
+06/09/2023 5:26 AM
+by system
+Paid Charge 06/01/2023 4437 - SDRP Fee $43.00 $1,512.00
+Paid Charge 06/01/2023 4438 - RBP with Ins $39.00 $1,469.00
+4210 - Pet Fee
+Paid Charge 06/01/2023 $30.00 $1,430.00
+Monthly
+Paid Charge 06/01/2023 4000 - Rent $1,400.00 $1,400.00
+Copyright © Propertyware® 2003-2024. All rights reserved.
+Various trademarks held by their respective owners.
+https://app.propertyware.com/pw/leases/lease_detail.do?prn=1 9/9

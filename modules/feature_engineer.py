@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 @dataclass
 class ClaimFeatures:
     filename: str
+    full_text: Optional[str] = None
     tracking_number: Optional[str] = None
     
     claim_date: Optional[str] = None
@@ -68,7 +69,7 @@ class FeatureEngineer:
     def extract_features(self, document_text: str, filename: str) -> ClaimFeatures:
         logger.info(f"Extracting features from: {filename}")
         
-        features = ClaimFeatures(filename=filename)
+        features = ClaimFeatures(filename=filename, full_text=document_text)
         
         features = self._extract_dates(document_text, features)
         features = self._extract_amounts_improved(document_text, features)

@@ -1,0 +1,35 @@
+Filename: Verified cert letter rec..pdf
+Method: ocr
+Pages: 1
+Extracted: 2025-10-29T11:30:14.313757
+============================================================
+
+
+--- Page 1 ---
+
+UNITED STATES - pai tet
+Ea POSTAL SERVICE
+July 26, 2023
+Dear Pure Management:
+The following is in response to your request for proof of delivery on your item with the tracking number:
+7020 1290 0001 4519 5235.
+ltem Details
+Status: Delivered, Left with Individual
+Status Date / Time: July 24, 2023, 6:26 pm
+Location: DENVER, CO 80218
+Postal Product: First-Class Mail®
+Extra Services: Certified Mail™
+Return Receipt Electronic
+Shipment Details
+Weight: 1.00z
+Recipient Signature
+Signature of Recipient: yy W/
+a -, Y
+Address of Recipient: a
+Note: Scanned image may reflect a different destination address due to Intended Recipient's delivery instructions on file.
+Thank you for selecting the United States Postal Service® for your mailing needs. If you require additional
+assistance, please contact your local Post Office™ or a Postal representative at 1-800-222-1811.
+Sincerely,
+United States Postal Service®
+475 L'Enfant Plaza SW
+Washington, D.C. 20260-0004

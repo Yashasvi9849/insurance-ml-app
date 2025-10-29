@@ -1,0 +1,104 @@
+Filename: 3025 Catalina Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:29:00.643136
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+Excalibur Homes, LLC
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+02/01/23 - 05/15/23 05/15/23
+(678)825-1400
+Property Unit Type Acc #
+X1A-02462 3025 Catalina DrHOUSE 61725
+TO:
+Previous Current Current Balance
+Johnson, Sariah (DISPONP)
+Balance Charges Credits Due
+3025 Catalina Drive
+0.00 17,024.92 11,866.46 5,158.46
+Decatur, GA 30032
+Last Payment Amount Enclosed
+2/10/23 $308.00 CashPay Payment
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+02/03/23 Rent Reservation Fee 1,875.00
+02/03/23 CashPay Payment Payment Received CashPay Payment -1,875.00
+02/07/23 Rent Reservation Fee reversing rr fee to allocate payment to -1,875.00
+rent
+02/10/23 YRIG Prem 20.00
+02/10/23 CashPay Payment Payment Received CashPay Payment -308.00
+02/10/23 Sec Dep Ins Charge to Tenant SD ins 48.00
+02/10/23 TBR Admin Fee to PM admin fee per lease 200.00
+02/10/23 TBR Pet Rent Prorated pet rent for 19 days 2/10/23- 27.14
+2/28/23
+02/10/23 TBR Rent Charge Prorated rent for 19 days 2/10/23- 1,272.32
+2/28/23
+02/14/23 YRIG Prem Property is squatter occupied. -20.00
+Reversing all charges per move out
+02/14/23 Sec Dep Ins Charge to Tenant Property is squatter occupied. -48.00
+Reversing all charges per move out
+02/14/23 TBR Admin Fee to PM Property is squatter occupied. -200.00
+Reversing all charges per move out
+02/14/23 TBR Pet Rent Property is squatter occupied. -27.14
+Reversing all charges per move out
+02/14/23 TBR Rent Charge Property is squatter occupied. -1,272.32
+Reversing all charges per move out
+02/15/23 31647 Tenant Check 3025 Catalina - Move in funds refund 2,183.00
+02/16/23 31647 Tenant Check Void VOID: 3025 Catalina - Move in funds -2,183.00
+refund
+02/16/23 31658 Tenant Check 3025 Catalina - move in funds refund 2,183.00
+03/07/23 31658 Tenant Check Void VOID: 3025 Catalina - move in funds -2,183.00
+refund
+03/07/23 YRIG Prem 20.00
+03/07/23 Sec Dep Ins Charge to Tenant 48.00
+03/07/23 TBR Admin Fee to PM 200.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+Excalibur Homes, LLC
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+02/01/23 - 05/15/23 05/15/23
+(678)825-1400
+Property Unit Type Acc #
+X1A-02462 3025 Catalina DrHOUSE 61725
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 17,024.92 11,866.46 5,158.46
+Date Reference Description Amount
+03/07/23 TBR Pet Rent 27.14
+03/07/23 TBR Rent Charge Tenant still living in home. Adding 1,272.32
+charges back that were reversed
+03/07/23 TBR Rent Charge March rent 1,875.00
+03/07/23 TBR Pet Rent March pet rent 40.00
+03/07/23 Sec Dep Ins Charge to Tenant March SD insurance 48.00
+03/07/23 YRIG Prem March yrig 20.00
+03/07/23 Pinata Service Fee March pinata 4.00
+03/17/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+03/17/23 TBR Late Charge to Owner March late fee added 187.50
+04/01/23 Pinata Service Fee 4.00
+04/01/23 YRIG Prem 20.00
+04/01/23 Sec Dep Ins Charge to Tenant 48.00
+04/01/23 TBR Pet Rent 40.00
+04/01/23 TBR Rent Charge 1,875.00
+04/01/23 TBR Credit to Tenant April free rent per lease -1,875.00
+04/06/23 TBR Late Charges 187.50
+05/14/23 TBR Damages to Property Charges Trash removal 500.00
+05/14/23 TBR Damages to Property Charges Closet shelves in rear right bedroom 150.00
+are broken
+05/14/23 TBR Damages to Property Charges Missing fridge and stove 2,350.00
+Sub Total 5,158.46
+Unapplied Credits 0.00
+Balance Due 5,158.46
+Comments
+Page 2

@@ -1,0 +1,119 @@
+Filename: 20313 Andalusite Way - Ledger - Salvador Aldama.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:31:27.431500
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Date Range:all time
+Lease:equals 20313 Andalusite Way - 20313 Andalusite Way, San Antonio, TX 78264 (Salvador Aldama)
+Company:RentWerx
+Unit:20313 Andalusite Way, San Antonio, TX 78264
+Lease Status:Closed - Itemization Complete
+Tenants:Salvador Aldama
+Phones:(210) 371-9860
+Move In Date:11-9-2023
+Move Out Date:8-19-2024
+Lease End Date:10-31-2024
+Rent Amount:$1,350.00
+Deposit Balance:$0.00
+78 Record(s) as of 11-12-2024 12:15 pm
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+10-07-2024 NSF Fee - Returned Payment - NSF Fee $85.00 $10,423.90
+10-07-2024 Payment Return / NSF (Reference: ) - Tenant chargeback on PTP funds - in violation of lease agreement (Aldama $1350) $-1,350.00 $10,338.90
+10-02-2024 Itemization Fee - Itemization Fee $95.00 $8,988.90
+10-02-2024 Make Ready Repairs - Make Ready Repairs $815.65 $8,893.90
+10-02-2024 Salvador Aldama Other Payment (Reference: Pull funds per lease agreement PTP (Aldama $1350)) $1,350.00 $8,078.25
+10-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (10-2024) $33.00 $9,428.25
+10-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (10-2024) $45.00 $9,395.25
+10-01-2024 Rent - Rent (10-2024) $1,350.00 $9,350.25
+09-05-2024 Late Fee - Late Fee $162.00 $8,000.25
+09-04-2024 Eviction Fees - Writ (8/13/2024) - Nationwide Compliant Invoice C1313357. Reimburse to owner. $349.29 $7,838.25
+09-04-2024 Eviction Fees - Eviction (7/11/2024) - Nationwide Compliant Invoice C1298829. Reimburse to owner. $280.89 $7,488.96
+09-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (09-2024) $33.00 $7,208.07
+09-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (09-2024) $45.00 $7,175.07
+09-01-2024 Rent - Rent (09-2024) $1,350.00 $7,130.07
+08-05-2024 Late Fee - Late Fee $162.00 $5,780.07
+08-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (08-2024) $33.00 $5,618.07
+08-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (08-2024) $45.00 $5,585.07
+08-01-2024 Rent - Rent (08-2024) $1,350.00 $5,540.07
+1 of 4
+
+--- Page 2 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+07-05-2024 Late Fee - Late Fee $162.00 $4,190.07
+07-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (07-2024) $33.00 $4,028.07
+07-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (07-2024) $45.00 $3,995.07
+07-01-2024 Rent - Rent (07-2024) $1,350.00 $3,950.07
+06-05-2024 Late Fee - Late Fee $162.00 $2,600.07
+06-05-2024 Notice Delivery Fee - Notice Delivery Fee - NTV June 2024 $100.00 $2,438.07
+06-03-2024 Salvador Aldama Money Order Payment (Reference: 19-630429669) $200.00 $2,338.07
+06-03-2024 Salvador Aldama Money Order Payment (Reference: 19-630429668) $1,000.00 $2,538.07
+06-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (06-2024) $33.00 $3,538.07
+06-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (06-2024) $45.00 $3,505.07
+06-01-2024 Rent - Rent (06-2024) $1,350.00 $3,460.07
+05-06-2024 Notice Delivery Fee - Notice Delivery Fee - NTV May 2024 $100.00 $2,110.07
+05-06-2024 Eviction Fees - Eviction (3/19/2024) - Nationwide Compliant Invoice C1256210 - Reimburse to owner. $270.07 $2,010.07
+05-05-2024 Late Fee - Late Fee $162.00 $1,740.00
+05-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (05-2024) $33.00 $1,578.00
+05-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (05-2024) $45.00 $1,545.00
+05-01-2024 Rent - Rent (05-2024) $1,350.00 $1,500.00
+04-10-2024 Salvador Aldama Money Order Payment (Reference: 19-629903844) $400.00 $150.00
+04-10-2024 Salvador Aldama Money Order Payment (Reference: 19-629903842) $1,000.00 $550.00
+04-10-2024 Salvador Aldama Money Order Payment (Reference: 19-629903843) $1,000.00 $1,550.00
+04-08-2024 Salvador Aldama Money Order Payment (Reference: 19-578490705) $350.00 $2,550.00
+04-08-2024 Notice Delivery Fee - Notice Delivery Fee - 3 Day NTV April 2024 $100.00 $2,900.00
+04-05-2024 Salvador Aldama Money Order Payment (Reference: 19-578490706) $1,000.00 $2,800.00
+04-05-2024 Late Fee - Late Fee $162.00 $3,800.00
+04-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (04-2024) $33.00 $3,638.00
+04-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (04-2024) $45.00 $3,605.00
+2 of 4
+
+--- Page 3 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+04-01-2024 Rent - Rent (04-2024) $1,350.00 $3,560.00
+03-06-2024 Salvador Aldama Money Order Payment (Reference: 19-564516789) $400.00 $2,210.00
+03-06-2024 Salvador Aldama Money Order Payment (Reference: 19-564516788) $1,000.00 $2,610.00
+03-05-2024 Late Fee - Late Fee $162.00 $3,610.00
+03-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (03-2024) $33.00 $3,448.00
+03-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (03-2024) $45.00 $3,415.00
+03-01-2024 Rent - Rent (03-2024) $1,350.00 $3,370.00
+02-06-2024 Notice Delivery Fee - Notice Delivery Fee $100.00 $2,020.00
+02-05-2024 Late Fee - Late Fee $162.00 $1,920.00
+02-01-2024 Salvador Aldama Money Order Payment (Reference: 19-564513551) $400.00 $1,758.00
+02-01-2024 Salvador Aldama Money Order Payment (Reference: 19-564513550) $1,000.00 $2,158.00
+02-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (02-2024) $33.00 $3,158.00
+02-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (02-2024) $45.00 $3,125.00
+02-01-2024 Rent - Rent (02-2024) $1,350.00 $3,080.00
+01-05-2024 Late Fee - Late Fee $162.00 $1,730.00
+01-05-2024 Notice Delivery Fee - Notice Delivery Fee $100.00 $1,568.00
+01-01-2024 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (01-2024) $33.00 $1,468.00
+01-01-2024 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (01-2024) $45.00 $1,435.00
+01-01-2024 Rent - Rent (01-2024) $1,350.00 $1,390.00
+12-28-2023 Salvador Aldama Money Order Payment (Reference: 19-577968892) $650.00 $40.00
+12-28-2023 Salvador Aldama Money Order Payment (Reference: 19-577968891) $1,000.00 $690.00
+12-07-2023 Notice Delivery Fee - Notice Delivery Fee - NTV December 2023 $100.00 $1,690.00
+12-05-2023 Late Fee - Late Fee $162.00 $1,590.00
+12-01-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (12-2023) $33.00 $1,428.00
+12-01-2023 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package (12-2023) $45.00 $1,395.00
+12-01-2023 Rent - Rent (12-2023) $1,350.00 $1,350.00
+3 of 4
+
+--- Page 4 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+11-09-2023 Salvador Aldama Credit Card Payment (Reference: trn_d3adbb36-7fcb-4661-ab94-12e958c8cb55) - Resident Portal Payment $238.00 $0.00
+11-02-2023 Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee $33.00 $238.00
+11-02-2023 Resident Benefit Package GL 5059 ($45) - Resident Benefit Package GL 5059 ($45) $45.00 $205.00
+11-02-2023 Move in Orientation - Move in Orientation $125.00 $160.00
+11-02-2023 Lease Preparation - Lease Preparation $395.00 $35.00
+11-02-2023 Rent - Rent $990.00 $-360.00
+11-01-2023 Salvador Aldama Money Order Payment (Reference: 19-564514932) $350.00 $-1,350.00
+11-01-2023 Salvador Aldama Money Order Payment (Reference: 19-564514931) $1,000.00 $-1,000.00
+STARTING BALANCE $0.00
+4 of 4

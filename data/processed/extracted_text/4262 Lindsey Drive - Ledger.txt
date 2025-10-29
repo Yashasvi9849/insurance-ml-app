@@ -1,0 +1,146 @@
+Filename: 4262 Lindsey Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 3
+Extracted: 2025-10-29T11:20:59.560224
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 11/03/23 11/03/23
+6788251400
+Property Unit Type Acc #
+XNA-05348 4262 Lindsey Dr HOUSE 58336
+TO:
+Previous Current Current Balance
+Davis, Crosby (DISPONP)
+Balance Charges Credits Due
+4262 Lindsey Dr
+0.00 27,196.35 10,059.86 17,136.49
+Decatur, GA 30035
+Last Payment Amount Enclosed
+2/28/23 $137.49 CASH
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+11/10/22 Rent Reservation Fee 1,795.00
+11/17/22 CashPay Payment Payment Received CashPay Payment -1,795.00
+11/18/22 Rent Reservation Fee reversing rr fee to allocate payment to -1,795.00
+future rent
+11/22/22 CashPay Payment Payment Received CashPay Payment -200.00
+11/22/22 TBR Admin Fee to PM Admin fee per lease 200.00
+11/22/22 TBR Rent Charge Prorated rent for 9 days 11/22/22- 538.50
+11/30/22
+12/01/22 TBR Rent Charge 1,795.00
+12/01/22 Sec Dep Ins Charge to Tenant 48.00
+12/01/22 Latchel Concierge Service 14.99
+12/04/22 TBR EFT Service Fees 15.00
+12/04/22 Web Pay VISA Payment Received Paid By: Crosby Davis -616.49
+(crosbydavis5@gmail.com). Auth # -
+8823878146086423
+01/01/23 TBR Rent Charge 1,795.00
+01/01/23 Sec Dep Ins Charge to Tenant 48.00
+01/01/23 Latchel Concierge Service 14.99
+01/04/23 TBR EFT Service Fees 15.00
+01/04/23 Web Pay VISA Payment Received Paid By: Crosby Davis -1,872.99
+(crosbydavis5@gmail.com). Auth # -
+8560217564479900
+02/01/23 TBR Rent Charge 1,795.00
+02/01/23 Sec Dep Ins Charge to Tenant 48.00
+02/01/23 Latchel Concierge Service 14.99
+02/06/23 TBR Late Charges 179.50
+02/20/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+02/28/23 CASH Payment Received MOxx0085 Feb rent -400.00
+02/28/23 CASH Payment Received MOxx0084 Feb rent -500.00
+02/28/23 CASH Payment Received Moxx0387 Feb rent -500.00
+02/28/23 CASH Payment Received Moxx0386 Feb rent, sec dep, latchel, -500.00
+and eviction fees
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 11/03/23 11/03/23
+6788251400
+Property Unit Type Acc #
+XNA-05348 4262 Lindsey Dr HOUSE 58336
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 27,196.35 10,059.86 17,136.49
+Date Reference Description Amount
+02/28/23 CASH Payment Received Moxx0388 Partial eviction fee -137.49
+03/01/23 TBR Rent Charge 1,795.00
+03/01/23 Sec Dep Ins Charge to Tenant 48.00
+03/01/23 Latchel Concierge Service 14.99
+03/06/23 TBR Late Charge to Owner 179.50
+03/16/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+04/01/23 TBR Rent Charge 1,795.00
+04/01/23 Sec Dep Ins Charge to Tenant 48.00
+04/01/23 Latchel Concierge Service 14.99
+04/06/23 TBR Late Charge to Owner 179.50
+05/01/23 TBR Rent Charge 1,795.00
+05/01/23 Sec Dep Ins Charge to Tenant 48.00
+05/01/23 Latchel Concierge Service 14.99
+05/08/23 TBR Late Charge to Owner 179.50
+06/01/23 TBR Rent Charge 1,795.00
+06/01/23 Sec Dep Ins Charge to Tenant 48.00
+06/01/23 Latchel Concierge Service 14.99
+06/06/23 TBR Late Charge to Owner 179.50
+07/01/23 TBR Rent Charge 1,795.00
+07/01/23 Sec Dep Ins Charge to Tenant 48.00
+07/01/23 Latchel Concierge Service 14.99
+07/06/23 TBR Late Charge to Owner 179.50
+08/01/23 TBR Rent Charge 1,795.00
+08/01/23 Sec Dep Ins Charge to Tenant 48.00
+08/01/23 Latchel Concierge Service 14.99
+08/01/23 Tiber Utility Chargebacks Gas invoice for 6/14/23-7/14/23 71.83
+08/07/23 TBR Late Charge to Owner 179.50
+09/01/23 TBR Rent Charge 1,795.00
+09/01/23 Sec Dep Ins Charge to Tenant 48.00
+09/01/23 Latchel Concierge Service 14.99
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+11/01/22 - 11/03/23 11/03/23
+6788251400
+Property Unit Type Acc #
+XNA-05348 4262 Lindsey Dr HOUSE 58336
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 27,196.35 10,059.86 17,136.49
+Date Reference Description Amount
+09/05/23 Tiber Utility Chargebacks Gas invoice for 7/14/23-8/11/23 82.63
+09/06/23 TBR Late Charge to Owner 179.50
+10/01/23 TBR Rent Charge 1,795.00
+10/01/23 Sec Dep Ins Charge to Tenant 48.00
+10/01/23 Latchel Concierge Service 14.99
+10/06/23 TBR Late Charges 179.50
+10/06/23 TBR Damages to Property Charges Trash out property interior and exterior 1,000.00
+10/06/23 TBR Damages to Property Charges Damage to the master bedroom walls 250.00
+10/06/23 TBR Damages to Property Charges Damage to closet bifold doors in the 100.00
+hallway and master bedroom
+10/06/23 TBR Damages to Property Charges Removal of TV wall mount living room 100.00
+10/06/23 TBR Damages to Property Charges Lawn overgrown 300.00
+10/06/23 TBR Damages to Property Charges Damage to sink pipes under the kitchen 75.00
+sink
+11/02/23 TBR Rent Charge Tenant vacated on 10/4/23. Reversing -1,563.39
+10/5/23-10/31/23
+11/02/23 TBR Late Charges Tenant vacated on 10/4/23. Reversing -179.50
+October late fee
+Sub Total 17,136.49
+Unapplied Credits 0.00
+Balance Due 17,136.49
+Comments
+Page 3

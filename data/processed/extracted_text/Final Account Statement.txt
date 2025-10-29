@@ -1,0 +1,56 @@
+Filename: Final Account Statement.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:36:09.685376
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Date Range: all time
+Lease: equals 302 Woodspur Rd, Irmo, SC 29063 (Riley Maverick Lewis, Alessandro Aguilar-Hernandez, ...)
+26 Record(s) as of 7-28-2023 10:34 am
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+07-06-2023 Tenant Chargeback - Tenant Chargeback (DEEP CLEANING AND TRASH REMOVAL. 1 VERTICAL BLINDS 3 SMALL BLINDS. SINK STOPPER REPAIR . YARD CUT, TRIM $800.00 $3,692.95
+AND CLEANED PLUS , PAINT AND PATCH. HVAC FILTER, BULBS THROUGHOUT)
+06-21-2023 Tenant Chargeback - Tenant Chargeback (Carpet Cleaning) $249.00 $2,892.95
+06-20-2023 Tenant Chargeback - Tenant Chargeback (Touch Up Paint) $200.00 $2,643.95
+06-16-2023 Tenant Chargeback - Tenant Chargeback (Removed all items from the inside home, all trash from backyard and trash bins. Removed mattress and clothes from $600.00 $2,443.95
+yard. )
+06-06-2023 Late Fee - Late Fee $110.00 $1,843.95
+06-01-2023 RBP w/insurance - RBP (06-2023) $45.95 $1,733.95
+06-01-2023 Pet Admin Fee Monthly - Pet Admin Fee Monthly (06-2023) $50.00 $1,688.00
+06-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) (06-2023) $43.00 $1,638.00
+06-01-2023 Rent - Rent (06-2023) $1,595.00 $1,595.00
+05-01-2023 Riley Credit Card Payment (Reference: trn_8cc8b884-4bb9-4a28-8394-0499ea89d01b) - Resident Portal Payment $1,738.95 $0.00
+Maverick
+Lewis
+05-01-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $1,738.95
+05-01-2023 RBP w/insurance - RBP (05-2023) $45.95 $1,733.95
+05-01-2023 Pet Admin Fee Monthly - Pet Admin Fee Monthly (05-2023) $50.00 $1,688.00
+05-01-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) (05-2023) $43.00 $1,638.00
+05-01-2023 Rent - Rent (05-2023) $1,595.00 $1,595.00
+04-02-2023 Riley Credit Card Payment (Reference: trn_575eba0b-3e9d-4da4-b03f-b0685e23af2f) - Resident Portal Payment $57.00 $0.00
+Maverick
+Lewis
+04-02-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $57.00
+04-01-2023 Rent - Rent (04-2023) $1,595.00 $52.00
+03-08-2023 Riley Credit Card Payment (Reference: trn_acebef6f-a711-403c-b78d-006660fcb075) - Resident Portal Payment $2,340.95 $-1,543.00
+Maverick
+Lewis
+03-08-2023 Portal Payment Convenience Fee - Convenience Fee $5.00 $797.95
+1 of 2
+
+--- Page 2 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+03-07-2023 Administrative Fee - Administrative Fee $250.00 $792.95
+03-07-2023 RBP w/insurance - RBP w/insurance $45.95 $542.95
+03-07-2023 Rent - March 31st Rent $52.00 $497.00
+03-07-2023 Pet Admin Fee Monthly - March 31st & April Pet Admin Fee Monthly $52.00 $445.00
+03-07-2023 Pet Admin Fee Initial - Pet Admin Fee Initial $350.00 $393.00
+03-07-2023 Security Deposit Replacement Program (SDRP) - Security Deposit Replacement Program (SDRP) $43.00 $43.00
+STARTING $0.00
+BALANCE
+2 of 2

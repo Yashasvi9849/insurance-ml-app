@@ -1,0 +1,73 @@
+Filename: Raymond Ledger.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:34:22.085583
+============================================================
+
+
+--- Page 1 ---
+
+Tenant Ledger
+Date Range:all time
+Lease:equals 1622 East Raymond Street, Indianapolis, IN 46203 (Dylan Germano, Corbin Eckenberger, ...)
+Company:Park Place Property Management
+Unit:1622 East Raymond Street, Indianapolis, IN 46203
+Lease Status:Closed - Closed - Moved Out
+Tenants:Dylan Germano, Corbin Eckenberger, Damon Germano
+Phones:(574) 338-0157, (574) 904-0887, (574) 850-3231
+Move In Date:6-29-2023
+Move Out Date:6-30-2024
+Lease End Date:6-28-2024
+Rent Amount:$1,600.00
+Deposit Balance:$0.00
+42 Record(s) as of 9-12-2024 1:54 pm
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+08-01-2024 Other Income - Partial charge for replacing damaged storm door - replace broken door handle $50.00 $2,141.00
+08-01-2024 Other Income - Full house clean, including windows, blinds, appliances $1,176.00 $2,091.00
+08-01-2024 Other Income - Clean up overgrown lawn $75.00 $915.00
+07-17-2024 Other Income - Trash out property after tenant move out $840.00 $840.00
+07-02-2024 Damon Germano eCheck Payment (Reference: trn_7bb6d8bf-58dc-4ff2-add5-8ef90296743a) - Resident Portal Payment $51.63 $0.00
+07-01-2024 Rent Income - Prorated for 1 day of July $51.63 $51.63
+06-01-2024 Dylan Germano eCheck Payment (Reference: trn_c10404f8-2461-4dae-bbe2-79dd647a31d7) - Resident Portal Payment $575.00 $0.00
+06-01-2024 Damon Germano eCheck Payment (Reference: trn_da50abf2-a390-4bc6-a514-328ed00e2995) - Resident Portal Payment $576.34 $575.00
+06-01-2024 Security Deposit Waiver Fee - Security Deposit Waiver Fee (06-2024) $81.00 $1,151.34
+06-01-2024 Resident Benefit Package - Resident Benefit Package (06-2024) $46.00 $1,070.34
+06-01-2024 Rent Income - Rent (06-2024) $1,600.00 $1,024.34
+05-24-2024 Corbin Eckenberger eCheck Payment (Reference: trn_86f2600e-eda0-49bd-b811-09f3b56603d7) - Resident Portal Payment $575.66 $-575.66
+05-02-2024 Damon Germano eCheck Payment (Reference: trn_c4e4639c-9b02-4742-90be-92305339b473) - Resident Portal Payment $576.00 $0.00
+05-01-2024 Security Deposit Waiver Fee - Security Deposit Waiver Fee (05-2024) $81.00 $576.00
+05-01-2024 Resident Benefit Package - Resident Benefit Package (05-2024) $46.00 $495.00
+05-01-2024 Rent Income - Rent (05-2024) $1,600.00 $449.00
+05-01-2024 Dylan Germano eCheck Payment (Reference: trn_5822b606-2f50-4766-96ac-41e32346caeb) - Resident Portal Payment $576.00 $-1,151.00
+04-21-2024 Corbin Eckenberger eCheck Payment (Reference: trn_762b1372-8c7f-4837-8271-e3c957d30800) - Resident Portal Payment $575.00 $-575.00
+1 of 2
+
+--- Page 2 ---
+
+DATE CONTACT DESCRIPTION CHARGES PAYMENTS BALANCE
+04-01-2024 Security Deposit Waiver Fee - Security Deposit Waiver Fee (04-2024) $81.00 $0.00
+04-01-2024 Resident Benefit Package - Resident Benefit Package (04-2024) $46.00 $-81.00
+04-01-2024 Damon Germano eCheck Payment (Reference: trn_8fb9dd25-31c8-40f8-b2ed-057aaa62d4fa) - Resident Portal Payment $575.50 $-127.00
+04-01-2024 Rent Income - Rent (04-2024) $1,600.00 $448.50
+04-01-2024 Dylan Germano eCheck Payment (Reference: trn_c8b86076-63b2-43e1-971f-48cfe70b4cc0) - Resident Portal Payment $575.50 $-1,151.50
+03-23-2024 Corbin Eckenberger eCheck Payment (Reference: trn_c5617da0-401e-42e3-bf72-54825a5a7e24) - Resident Portal Payment $576.00 $-576.00
+03-01-2024 Dylan Germano eCheck Payment (Reference: trn_58756c11-62d5-436f-be75-57c6b8dadbea) - Resident Portal Payment $575.00 $0.00
+03-01-2024 Security Deposit Waiver Fee - Security Deposit Waiver Fee (03-2024) $81.00 $575.00
+03-01-2024 Resident Benefit Package - Resident Benefit Package (03-2024) $46.00 $494.00
+03-01-2024 Rent Income - Rent (03-2024) $1,600.00 $448.00
+02-29-2024 Damon Germano eCheck Payment (Reference: trn_84f3e4ef-8e41-434c-8825-9c6c214be7bc) - Resident Portal Payment $575.00 $-1,152.00
+02-27-2024 Corbin Eckenberger eCheck Payment (Reference: trn_5a27ce23-610c-4225-bf83-5b9766ab12ba) - Resident Portal Payment $575.00 $-577.00
+02-01-2024 Security Deposit Waiver Fee - Security Deposit Waiver Fee (02-2024) $81.00 $-2.00
+02-01-2024 Resident Benefit Package - Resident Benefit Package (02-2024) $46.00 $-83.00
+02-01-2024 Rent Income - Rent (02-2024) $1,600.00 $-129.00
+01-31-2024 Damon Germano eCheck Payment (Reference: trn_2172912a-eb1c-450d-acf6-bceee582efce) - Resident Portal Payment $577.00 $-1,729.00
+01-31-2024 Dylan Germano eCheck Payment (Reference: trn_bc89a55f-4488-452a-b66e-654060ab4761) - Resident Portal Payment $576.00 $-1,152.00
+01-20-2024 Corbin Eckenberger eCheck Payment (Reference: trn_85d62eb3-ce67-4372-b0c9-3d7fba70ed12) - Resident Portal Payment $576.00 $-576.00
+01-02-2024 Dylan Germano eCheck Payment (Reference: trn_feea1683-0168-4ba1-addf-89ae16decb3d) - Resident Portal Payment $575.00 $0.00
+01-02-2024 Damon Germano eCheck Payment (Reference: trn_fc807007-fe16-4d13-a20c-4691e83ef465) - Resident Portal Payment $576.00 $575.00
+01-01-2024 Rent Income - rent (01-2024) $1,600.00 $1,151.00
+01-01-2024 Security Deposit Waiver Fee - Security Deposit Waiver Fee (01-2024) $81.00 $-449.00
+01-01-2024 Resident Benefit Package - Resident Benefit Package (01-2024) $46.00 $-530.00
+12-26-2023 Corbin Eckenberger eCheck Payment (Reference: trn_dcf9bd91-527e-4a15-bbc9-d890308ba1a2) - Resident Portal Payment $576.00 $-576.00
+STARTING BALANCE $0.00
+2 of 2

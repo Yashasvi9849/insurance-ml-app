@@ -1,0 +1,540 @@
+Filename: 12884 N Indian Palms Dr_ tenant ledger.pdf
+Method: pdfplumber
+Pages: 8
+Extracted: 2025-10-29T11:21:05.803753
+============================================================
+
+
+--- Page 1 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Blue Fox Properties, LLC
+Lease: Bickel - Bickel - Bickel
+Contact: Samuel Bickel
+Contact: Terry Bickel
+Contact: Tyler Bickel
+Property Address: 12884 N Indian Palms Dr
+Oro Valley,AZ 85755-8720
+Balance as of 03/27/2024 Prepayments Total Unpaid Deposit Held
+$630.00 $0.00 $630.00 $0.00
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+Unpaid 5302 - Sec Dep-
+02/28/2024 $540.00 $630.00
+Charge General&Window
+5310 - Sec Dep-
+Unpaid
+02/28/2024 Hndymn(less $90.00 $90.00
+Charge
+tha...
+Payment of
+$29.00 applied to
+[02/01/24, acct
+4025, $29.00]
+and $58.00
+applied to
+[02/01/24, acct
+4030, $58.00]
+and $50.00
+applied to
+Settled [02/01/24, acct Samuel Bickel-
+02/01/2024 3VFW0GQQA09 02/06/2024 $581.83 ($0.00)
+ePayment 4014, $50.00] Bickel's
+and $444.83
+applied to
+[02/01/24, acct
+4000, $444.83]/
+One Time
+ePayment
+received from
+Samuel Bickel,
+Paid from
+Bickel's account
+Paid Charge 02/01/2024 4000 - Rent $444.83 $581.83
+4014 - Monthly
+Paid Charge 02/01/2024 $50.00 $137.00
+Pet Fee
+4030 - RIS -
+Paid Charge 02/01/2024 Monthly fee to $58.00 $87.00
+te...
+4025 - Resident
+Paid Charge 02/01/2024 $29.00 $29.00
+Benefit Packag...
+Payment of
+Settled $58.00 applied to Samuel Bickel-
+ePayment 01/01/2024 CRMJ51MQA09 [01/01/24, acct Bickel's 01/05/2024 $2,287.00 $0.00
+4030, $58.00]
+1 of 8 3/27/2024, 1:42 PM
+
+--- Page 2 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+and $29.00
+applied to
+[01/01/24, acct
+4025, $29.00]
+and $2,150.00
+applied to
+[01/01/24, acct
+4000, $2,150.00]
+and $50.00
+applied to
+[01/01/24, acct
+4014, $50.00]/
+Scheduled One
+Time Payment
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 01/01/2024 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 01/01/2024 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 01/01/2024 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 01/01/2024 4000 - Rent $2,150.00 $2,150.00
+Payment of
+$50.00 applied to
+[12/01/23, acct
+4014, $50.00]
+and $2,150.00
+applied to
+[12/01/23, acct
+4000, $2,150.00]
+and $29.00
+Settled applied to Samuel Bickel-
+12/01/2023 C3VSR9JQA09 12/06/2023 $2,287.00 $0.00
+ePayment [12/01/23, acct Bickel's
+4025, $29.00]
+and $58.00
+applied to
+[12/01/23, acct
+4030, $58.00]/
+Scheduled One
+Time Payment
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 12/01/2023 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 12/01/2023 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 12/01/2023 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 12/01/2023 4000 - Rent $2,150.00 $2,150.00
+Payment of
+$2,150.00
+applied to
+Settled 11/01/2023 TN00DLFQA06 [11/01/23, acct Samuel Bickel- 11/06/2023 $2,287.00 $0.00
+ePayment 4000, $2,150.00] Bickel's
+and $29.00
+applied to
+2 of 8 3/27/2024, 1:42 PM
+
+--- Page 3 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+[11/01/23, acct
+4025, $29.00]
+and $58.00
+applied to
+[11/01/23, acct
+4030, $58.00]
+and $50.00
+applied to
+[11/01/23, acct
+4014, $50.00]/
+Scheduled One
+Time Payment
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 11/01/2023 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 11/01/2023 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 11/01/2023 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 11/01/2023 4000 - Rent $2,150.00 $2,150.00
+Payment of
+$58.00 applied to
+[10/01/23, acct
+4030, $58.00]
+and $29.00
+applied to
+[10/01/23, acct
+4025, $29.00]
+and $2,150.00
+Settled applied to Samuel Bickel-
+10/01/2023 Y12YMCBQA03 10/05/2023 $2,287.00 $0.00
+ePayment [10/01/23, acct Bickel's
+4000, $2,150.00]
+and $50.00
+applied to
+[10/01/23, acct
+4014, $50.00]/
+Scheduled One
+Time Payment
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 10/01/2023 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 10/01/2023 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 10/01/2023 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 10/01/2023 4000 - Rent $2,150.00 $2,150.00
+Payment of
+$2,150.00
+applied to
+[09/01/23, acct
+Settled 09/01/2023 TCR62G7QA06 4000, $2,150.00] Samuel Bickel- 09/07/2023 $2,287.00 $0.00
+ePayment and $29.00 Bickel's
+applied to
+[09/01/23, acct
+4025, $29.00]
+3 of 8 3/27/2024, 1:42 PM
+
+--- Page 4 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+and $58.00
+applied to
+[09/01/23, acct
+4030, $58.00]
+and $50.00
+applied to
+[09/01/23, acct
+4014, $50.00]/
+Scheduled One
+Time Payment
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 09/01/2023 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 09/01/2023 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 09/01/2023 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 09/01/2023 4000 - Rent $2,150.00 $2,150.00
+Payment of
+$50.00 applied to
+[08/01/23, acct
+4014, $50.00]
+and $58.00
+applied to
+[08/01/23, acct
+4030, $58.00]
+and $2,150.00
+Settled applied to Samuel Bickel-
+08/01/2023 007LQQ4QA09 08/04/2023 $2,287.00 $0.00
+ePayment [08/01/23, acct Bickel's
+4000, $2,150.00]
+and $29.00
+applied to
+[08/01/23, acct
+4025, $29.00]/
+Scheduled One
+Time Payment
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 08/01/2023 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 08/01/2023 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 08/01/2023 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 08/01/2023 4000 - Rent $2,150.00 $2,150.00
+Payment of
+$50.00 applied to
+[07/01/23, acct
+4014, $50.00]
+and $29.00
+Settled 07/01/2023 0C7K0J2QA07 applied to Samuel Bickel- 07/07/2023 $2,287.00 $0.00
+ePayment [07/01/23, acct Bickel's
+4025, $29.00]
+and $58.00
+applied to
+[07/01/23, acct
+4 of 8 3/27/2024, 1:42 PM
+
+--- Page 5 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+4030, $58.00]
+and $2,150.00
+applied to
+[07/01/23, acct
+4000, $2,150.00]/
+One Time
+ePayment
+received from
+Samuel Bickel,
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 07/01/2023 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 07/01/2023 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 07/01/2023 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 07/01/2023 4000 - Rent $2,150.00 $2,150.00
+4014 - Monthly
+Paid Charge 06/01/2023 $50.00 $0.00
+Pet Fee
+4030 - RIS -
+Paid Charge 06/01/2023 Monthly fee to $58.00 ($50.00)
+te...
+4025 - Resident
+Paid Charge 06/01/2023 $29.00 ($108.00)
+Benefit Packag...
+Paid Charge 06/01/2023 4000 - Rent $2,150.00 ($137.00)
+Payment of
+$2,150.00
+applied to
+[06/01/23, acct
+4000, $2,150.00]
+and $58.00
+applied to
+[06/01/23, acct
+4030, $58.00]
+and $29.00
+applied to
+Settled Samuel Bickel-
+05/31/2023 N4KFNLYPLA7 [06/01/23, acct 06/06/2023 $2,287.00 ($2,287.00)
+ePayment Bickel's
+4025, $29.00]
+and $50.00
+applied to
+[06/01/23, acct
+4014, $50.00]/
+One Time
+ePayment
+received from
+Samuel Bickel,
+Paid from
+Bickel's account
+Payment of
+$58.00 applied to
+[05/01/23, acct
+4030, $58.00]
+Settled 05/01/2023 P85496VPLA2 and $50.00 Samuel Bickel- 05/04/2023 $2,287.00 $0.00
+ePayment applied to Bickel's
+[05/01/23, acct
+4014, $50.00]
+and $2,150.00
+5 of 8 3/27/2024, 1:42 PM
+
+--- Page 6 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+applied to
+[05/01/23, acct
+4000, $2,150.00]
+and $29.00
+applied to
+[05/01/23, acct
+4025, $29.00]/
+One Time
+ePayment
+received from
+Samuel Bickel,
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 05/01/2023 $50.00 $2,287.00
+Pet Fee
+4030 - RIS -
+Paid Charge 05/01/2023 Monthly fee to $58.00 $2,237.00
+te...
+4025 - Resident
+Paid Charge 05/01/2023 $29.00 $2,179.00
+Benefit Packag...
+Paid Charge 05/01/2023 4000 - Rent $2,150.00 $2,150.00
+4014 - Monthly
+Paid Charge 04/01/2023 $50.00 $0.00
+Pet Fee
+4030 - RIS -
+Paid Charge 04/01/2023 Monthly fee to $58.00 ($50.00)
+te...
+4025 - Resident
+Paid Charge 04/01/2023 $29.00 ($108.00)
+Benefit Packag...
+Paid Charge 04/01/2023 4000 - Rent $2,150.00 ($137.00)
+Payment of
+$29.00 applied to
+[04/01/23, acct
+4025, $29.00]
+and $50.00
+applied to
+[04/01/23, acct
+4014, $50.00]
+and $2,150.00
+Settled applied to Samuel Bickel-
+03/30/2023 FB0GL4SPLA7 04/04/2023 $2,287.00 ($2,287.00)
+ePayment [04/01/23, acct Bickel's
+4000, $2,150.00]
+and $58.00
+applied to
+[04/01/23, acct
+4030, $58.00]/
+Scheduled One
+Time Payment
+Paid from
+Bickel's account
+Returned Returned Returned
+Payment 03/03/2023 Payment Payment ($2,287.00) $0.00
+Adjustment Adjustment Adjustment
+Payment of
+$2,150.00
+applied to
+Settled Samuel Bickel-
+03/02/2023 6LFQWQNPLA2 [03/01/23, acct 03/07/2023 $2,287.00 ($2,287.00)
+ePayment Bickel's
+4000, $2,150.00]
+and $58.00
+applied to
+6 of 8 3/27/2024, 1:42 PM
+
+--- Page 7 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+[03/01/23, acct
+4030, $58.00]
+and $50.00
+applied to
+[03/01/23, acct
+4014, $50.00]
+and $29.00
+applied to
+[03/01/23, acct
+4025, $29.00]/
+One Time
+ePayment
+received from
+Samuel Bickel,
+Paid from
+Bickel's account
+4014 - Monthly
+Paid Charge 03/01/2023 $50.00 $0.00
+Pet Fee
+4030 - RIS -
+Paid Charge 03/01/2023 Monthly fee to $58.00 ($50.00)
+te...
+4025 - Resident
+Paid Charge 03/01/2023 $29.00 ($108.00)
+Benefit Packag...
+Paid Charge 03/01/2023 4000 - Rent $2,150.00 ($137.00)
+Payment of
+$2,150.00
+applied to
+[03/01/23, acct
+4000, $2,150.00]
+and $58.00
+applied to
+[03/01/23, acct
+4030, $58.00]
+Deposited and $50.00
+Samuel
+Payment 02/28/2023 KYWLVQNPLA3 applied to 02/28/2023 $2,287.00 ($2,287.00)
+Bickel-30275018
+(Returned) [03/01/23, acct
+4014, $50.00]
+and $29.00
+applied to
+[03/01/23, acct
+4025, $29.00]/
+Returned Bad
+Account - R03
+Unable To Locate
+Account
+Payment of
+$29.00 applied to
+[01/13/23, acct
+4025, $29.00]
+and $58.00
+applied to
+[01/13/23, acct
+4030, $58.00]
+Deposited 01/13/2023 QPW5TLGPLA3 and $300.00 Samuel Bickel 01/13/2023 $2,962.00 $0.00
+Payment applied to
+[01/13/23, acct
+4021, $300.00]
+and $375.00
+applied to
+[01/13/23, acct
+4008, $375.00]
+and $2,150.00
+7 of 8 3/27/2024, 1:42 PM
+
+--- Page 8 ---
+
+Propertyware - On Demand Real Estate Solution https://app.propertyware.com/pw/leases/lease_detail.do?prn=1
+Deposit
+Transaction Date Ref # Description Payer Name Charges Payments Balance
+Date
+applied to
+[01/13/23, acct
+4000, $2,150.00]
+and $50.00
+applied to
+[01/13/23, acct
+4014, $50.00]/
+RentMoney -
+Samuel Bickel
+4014 - Monthly
+Paid Charge 01/13/2023 $50.00 $2,962.00
+Pet Fee
+4025 - Resident
+Paid Charge 01/13/2023 $29.00 $2,912.00
+Benefit Packag...
+4030 - RIS -
+Paid Charge 01/13/2023 Monthly fee to $58.00 $2,883.00
+te...
+4021 - Non-
+Paid Charge 01/13/2023 Refundable Pet $300.00 $2,825.00
+Fee-...
+4008 - Tenant
+Paid Charge 01/13/2023 Administrative $375.00 $2,525.00
+F...
+Paid Charge 01/13/2023 4000 - Rent $2,150.00 $2,150.00
+Copyright © Propertyware® 2003-2024. All rights reserved.
+Various trademarks held by their respective owners.
+8 of 8 3/27/2024, 1:42 PM

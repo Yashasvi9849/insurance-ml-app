@@ -1,0 +1,53 @@
+Filename: deposit_disposition_amount_due_sandy_a_rios_122623.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:15:08.604817
+============================================================
+
+
+--- Page 1 ---
+
+12/26/2023
+PURE Property Management of California
+1500 A Street
+Antioch, CA 94509
+Sandy A. Rios
+2130 Prato St
+Brentwood, CA 94513
+Re: Security Deposit Statement
+Dear Sandy A. Rios:
+Enclosed please find an itemized list of charges. Based on these charges, you have a
+balance due of $10,148.00.
+Charges
+October 2023 $2,600.00
+October 2023 $39.00
+October 2023 $53.00
+October 2023 $5.00
+October Rent $125.00
+Posting Fee $45.00
+November 2023 $2,600.00
+November 2023 $39.00
+November 2023 $53.00
+November 2023 $5.00
+Late Fee for Nov 2023 $104.00
+December 2023 $39.00
+December 2023 $53.00
+December 2023 $5.00
+December 2023 (Prorated 12 Days) $1,080.00
+Late Fee for Dec 2023 $108.00
+Eviction court fees-Invoice 9833 $700.00
+Diamond Construction-Blind, screen, bulbs, remove items left behind,
+$1,525.00
+switch
+
+--- Page 2 ---
+
+Paint touch up $450.00
+Cleaning $250.00
+Carpet Cleaning $270.00
+Total Charges $10,148.00
+Amount Due $10,148.00
+Please remit the balance due immediately. If you have any questions or concerns
+regarding the charges or balance due, please contact us at (925) 706-9000.
+Regards,
+PURE Property Management of California

@@ -1,0 +1,49 @@
+Filename: INV1331.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:24:27.015500
+============================================================
+
+
+--- Page 1 ---
+
+INVOICE
+INV1331
+Texas Superior Home Services
+DATE
+Taylor
+Nov 7, 2022
+551 S I-35 Frontage Rd STE 331 Round Rock, TX
+78664 United States DUE DATE
+210-665-0340 Nov 7, 2022
+texassuperior@outlook.com
+BALANCE DUE
+USD$1,445.00
+BILL TO
+GDAA Property Management
+2300 Greenhill Dr Unit 250 Round Rock, TX 78664 United States
+512-439-3608
+DESCRIPTION RATE QTY AMOUNT
+Make ready tenant charges $945.00 1 $945.00
+1. Remove TV mount in Bed #1 –(Master) and abed #2 and patch holes-$375.00
+2. Replace burnt out missing light bulbs-$95.00
+3. Full make resdy Cleaning-$400.00
+4. Install toilet paper holder master bathroom-$75.00
+Make ready owner charges $500.00 1 $500.00
+1. Touch up paint all walls as needed-$500.00
+TOTAL $1,445.00
+BALANCE DUE USD $1,445.00
+Payment Info
+BY CHECK
+Texas Superior Home Services/ Taylor Lamont
+Work order- TUJ0QKKB
+202 Yukon Cove
+Hutto, TX 78634
+United States
+Page 1 of 2
+
+--- Page 2 ---
+
+Work order-
+Thanks!We Appreciate Your Business!
+Page 2 of 2

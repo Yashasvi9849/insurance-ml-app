@@ -1,0 +1,56 @@
+Filename: UT_RPT_Invoice_Template81_Summary - 2024-11-25T142448.413_Elsa Woldeyesus_final Bill.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:30:35.369253
+============================================================
+
+
+--- Page 1 ---
+
+1 0 0 0 0 0 NEWPAGE
+Account Name Elsa Woldeyesus
+Account Number 28404
+Service Address 5724 Nineteen Rock Xing
+Statement Date 11/25/24
+Statement No. 11220880
+Billing Period 10/15/24 - 10/31/24
+Security Code 9-28404-JHQU
+Meter Number Prior Read Date Prior Read Current Read Date Current Read Total Usage
+1571544332 10/15/24 10,735 10/31/24 10,833 98
+27441068 10/15/24 52,390 10/31/24 52,514 124
+ACCOUNT SUMMARY
+Description Amount
+Previous Balance $107.60
+Invoice - Reversed ($107.60)
+Beginning Balance $0.00
+Current Billing
+AEP Customer Charge $10.00
+AEP Distribution/Transmission $19.19
+AEP Generation $9.44
+Service Charge $15.95
+Water & Sewer - City of Cols $21.77
+Meter Read Dates
+Common Area Charge $5.64
+MESSAGES
+Total Current Billing Charges $81.99
+SIGN UP FOR EBILL TO WAIVE THE PAPER BILL FEE!
+Total Balance Due $81.99
+**FINAL BILL** There is a balance remaining on your account. Please send
+payment.
+Electric Generation Rate (PTC) = 7.61 Cents/kWh
+DETACH & RETURN STUB WITH PAYMENT & INCLUDE ACCOUNT NUMBER
+NAME ELSA WOLDEYESUS
+Pioneer Energy Management SERVICE ADDRESS 5724 Nineteen Rock Xing
+PO Box 2640
+Account Number 28404
+Westerville, OH 43086-2640
+Statement Due Date
+12/10/24
+**Previous Balance Due Immediately
+Total Balance Due $81.99
+Amount Paid $
+PLEASE MAIL CHECK OR MONEY ORDER ONLY. DO NOT SEND CASH.
+ELSA WOLDEYESUS Pioneer Energy Management
+5724 NINETEEN ROCK XING PO Box 2640
+WESTERVILLE, OH 43081 Westerville, OH 43086-2640
+002840400008199000094296

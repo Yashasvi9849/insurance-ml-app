@@ -1,0 +1,114 @@
+Filename: Transactions_20230223102243604.pdf
+Method: pdfplumber
+Pages: 2
+Extracted: 2025-10-29T11:28:58.140096
+============================================================
+
+
+--- Page 1 ---
+
+Transactions
+Date Range: All
+Tenant Account Property Unit Active Start Active End
+Caroline Bolton 7616 2209 Whistling Way 2209WH 1/28/2022 1/25/2023
+Date Reference Description Comment Amount Balance
+01/17/22 Application Fee Charged via Application: Caroline Bolton 60.00 60.00
+(Carolinebolton26@gmail.com)
+01/17/22 Web Pay VISA Payment Received Paid By: Caroline Bolton -60.00 0.00
+(Carolinebolton26@gmail.com). Auth # -
+821316503389112062
+01/18/22 Application Fee Charged via Application: Moria Clakley 60.00 60.00
+(Cmoria723@gmail.com)
+01/18/22 Web Pay MC Payment Received Paid By: (Cmoria723@gmail.com). Auth -60.00 0.00
+# - 820173019829421124
+01/20/22 Renters Choice Program 60.00 60.00
+01/20/22 Admin Fee 125.00 185.00
+01/20/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -185.00 0.00
+(Carolinebolton26@gmail.com).
+01/25/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -2,037.80 -2,037.80
+(Carolinebolton26@gmail.com).
+01/28/22 Rent Charge First month 1,755.00 -282.80
+01/28/22 Tenant Benefits A2 First month 36.00 -246.80
+02/01/22 Rent Charge Prorated 234.00 -12.80
+02/01/22 Tenant Benefits A2 Prorated 4.80 -8.00
+02/01/22 Renters Choice Program Prorated 8.00 0.00
+03/01/22 Rent Charge 1,755.00 1,755.00
+03/01/22 Tenant Benefits A2 36.00 1,791.00
+03/01/22 Renters Choice Program 60.00 1,851.00
+03/01/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -803.00 1,048.00
+(Carolinebolton26@gmail.com).
+03/03/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,048.00 0.00
+(Carolinebolton26@gmail.com).
+03/28/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -803.00 -803.00
+(Carolinebolton26@gmail.com).
+04/01/22 Rent Charge 1,755.00 952.00
+04/01/22 Tenant Benefits A2 36.00 988.00
+04/01/22 Renters Choice Program 60.00 1,048.00
+04/01/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,048.00 0.00
+(Carolinebolton26@gmail.com).
+05/01/22 Rent Charge 1,755.00 1,755.00
+05/01/22 Tenant Benefits A2 36.00 1,791.00
+05/01/22 Renters Choice Program 60.00 1,851.00
+05/02/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -803.00 1,048.00
+(Carolinebolton26@gmail.com).
+05/03/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,048.00 0.00
+(Carolinebolton26@gmail.com).
+05/31/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -803.00 -803.00
+(Carolinebolton26@gmail.com).
+06/01/22 Rent Charge 1,755.00 952.00
+06/01/22 Tenant Benefits A2 36.00 988.00
+06/01/22 Renters Choice Program 60.00 1,048.00
+06/04/22 Late Charge 87.75 1,135.75
+06/06/22 Late Charge 20.00 1,155.75
+06/06/22 Posting Fee 35.00 1,190.75
+06/07/22 Web Pay CHK Payment Received Paid 06-06-22 By: Caroline Bolton -1,155.75 35.00
+(Carolinebolton26@gmail.com).
+06/17/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -35.00 0.00
+(Carolinebolton26@gmail.com).
+06/27/22 Posting Fee 35.00 35.00
+06/30/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -845.00 -810.00
+(Carolinebolton26@gmail.com).
+07/01/22 Rent Charge 1,755.00 945.00
+07/01/22 Tenant Benefits A2 36.00 981.00
+Transactions 02/23/23 10:22 AM Page 1 of2 rentmanager.com - property management systems rev.12.931
+
+--- Page 2 ---
+
+07/01/22 Renters Choice Program 60.00 1,041.00
+07/01/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,041.00 0.00
+(Carolinebolton26@gmail.com).
+07/31/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -803.00 -803.00
+(Carolinebolton26@gmail.com).
+08/01/22 Rent Charge 1,755.00 952.00
+08/01/22 Tenant Benefits A2 36.00 988.00
+08/01/22 Renters Choice Program 60.00 1,048.00
+08/02/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,048.00 0.00
+(Carolinebolton26@gmail.com).
+09/01/22 Rent Charge 1,755.00 1,755.00
+09/01/22 Tenant Benefits A2 36.00 1,791.00
+09/01/22 Renters Choice Program 60.00 1,851.00
+09/01/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,851.00 0.00
+(Carolinebolton26@gmail.com).
+09/30/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,851.00 -1,851.00
+(Carolinebolton26@gmail.com).
+10/01/22 Rent Charge 1,755.00 -96.00
+10/01/22 Tenant Benefits A2 36.00 -60.00
+10/01/22 Renters Choice Program 60.00 0.00
+11/01/22 Rent Charge 1,755.00 1,755.00
+11/01/22 Tenant Benefits A2 36.00 1,791.00
+11/01/22 Renters Choice Program 60.00 1,851.00
+11/01/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,851.00 0.00
+(Carolinebolton26@gmail.com).
+12/01/22 Rent Charge 1,755.00 1,755.00
+12/01/22 Tenant Benefits A2 36.00 1,791.00
+12/01/22 Renters Choice Program 60.00 1,851.00
+12/02/22 Web Pay CHK Payment Received Paid By: Caroline Bolton -1,851.00 0.00
+(Carolinebolton26@gmail.com).
+01/01/23 Rent Charge Prorated 01-01-23 to 01-26-23 1,521.00 1,521.00
+01/01/23 Tenant Benefits A2 Prorated 01-01-23 to 01-26-23 31.20 1,552.20
+01/01/23 Renters Choice Program Prorated 01-01-23 to 01-26-23 52.00 1,604.20
+01/01/23 Web Pay CHK Payment Received Paid 12-30-22 By: Caroline Bolton -1,604.20 0.00
+(Carolinebolton26@gmail.com).
+02/23/23 Make Ready maintenance 718.58 718.58
+02/23/23 Cleaning Fee 365.00 1,083.58
+Transactions 02/23/23 10:22 AM Page 2 of2 rentmanager.com - property management systems rev.12.931

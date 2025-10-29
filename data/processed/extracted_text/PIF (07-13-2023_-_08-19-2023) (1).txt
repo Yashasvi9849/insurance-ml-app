@@ -1,0 +1,33 @@
+Filename: PIF (07-13-2023_-_08-19-2023) (1).pdf
+Method: pdfplumber
+Pages: 1
+Extracted: 2025-10-29T11:29:04.593374
+============================================================
+
+
+--- Page 1 ---
+
+Phone: 303.985.4670
+Pure Property Management Email: info@assuredrpm.com
+1244 S. Wadsworth Blvd.
+Website: www.assuredrpm.com
+Lakewood, CO 80232
+Statement Date 11/22/2023
+Due Date 11/22/2023
+Balance Forward $0.00
+Gustav Solis
+2261 Blake St. #3B
+Total Due $0.00
+Denver CO 80205
+Transaction Detail (07/13/2023 - 08/19/2023)
+Amount
+Date Description Comments Amount Balance
+Paid
+07/13/2023 Balance Forward $0.00
+07/13/2023 Security Deposit Charge Patch/paint anchor holes in most rooms $270.00 $270.00 $270.00
+Light bulbs: Replace excessive amount of burnt out, missing or
+07/13/2023 Security Deposit Charge $125.00 $125.00 $395.00
+mismatched bulbs.
+07/13/2023 Security Deposit Charge Replace damaged door blind $165.00 $165.00 $560.00
+08/15/2023 Payment ($560.00) $0.00 $0.00
+08/19/2023 Ending Balance $0.00

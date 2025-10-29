@@ -1,0 +1,193 @@
+Filename: Statement - 8.5x11_20240116012745368.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:18:16.152849
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+12/09/22 - 01/16/24 01/16/24
+6788251400
+Property Unit Type Acc #
+5705Asp 5705 Aspen DriveHOUSE 58538
+TO:
+Previous Current Current Balance
+Ross, Yachiara
+Balance Charges Credits Due
+5705 Aspen Drive
+-2,995.00 40,714.19 34,608.71 3,110.48
+Cumming, GA 30040
+Last Payment Amount Enclosed
+12/4/23 $865.00 CASH
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance -2,995.00
+12/09/22 Non-Refundable Admin Fee Admin fee per lease 200.00
+12/09/22 Rent Charge Prorated rent for 23 days 12/9/22- 2,073.71
+12/31/22
+01/01/23 Rent Charge 2,795.00
+01/01/23 Sec Dep Ins Charge to Tenant 70.00
+01/05/23 CASH Payment Received MOxx0625 Jan partial rent -1,000.00
+01/05/23 CASH Payment Received MOxx3842 Jan partial rent -500.00
+01/05/23 CASH Payment Received MOxx0626 Jan partial rent -357.00
+01/05/23 CASH Payment Received MOxx3843 Jan rent and sec charge -288.00
+02/01/23 Rent Charge 2,795.00
+02/01/23 Sec Dep Ins Charge to Tenant 70.00
+02/02/23 CASH Payment Received MOxx4461 Feb rent -1,000.00
+02/02/23 CASH Payment Received MOxx4463 Feb rent -1,000.00
+02/02/23 CASH Payment Received MOxx4462 Feb rent -500.00
+02/02/23 CASH Payment Received MOxx4464 Feb rent -365.00
+03/01/23 Rent Charge 2,795.00
+03/01/23 Sec Dep Ins Charge to Tenant 70.00
+03/02/23 CASH Payment Received Moxx0202 March rent -865.00
+03/02/23 CASH Payment Received Moxx0200March rent -1,000.00
+03/02/23 CASH Payment Received Moxx0201 March rent and sec dep -1,000.00
+04/01/23 Rent Charge 2,795.00
+04/01/23 Sec Dep Ins Charge to Tenant 70.00
+04/04/23 CASH Payment Received MOxx9192 April rent -792.00
+04/04/23 CASH Payment Received Moxx7847 April rent -83.00
+04/04/23 CASH Payment Received Moxx9190 April rent -1,000.00
+04/04/23 CASH Payment Received MOxx9191 April rent -1,000.00
+05/01/23 Rent Charge 2,795.00
+05/01/23 Sec Dep Ins Charge to Tenant 70.00
+05/05/23 CASH Payment Received MOxx6288 May rent -865.00
+05/05/23 CASH Payment Received Moxx6286 May rent -1,000.00
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+12/09/22 - 01/16/24 01/16/24
+6788251400
+Property Unit Type Acc #
+5705Asp 5705 Aspen DriveHOUSE 58538
+Previous Current Current Balance
+Balance Charges Credits Due
+-2,995.00 40,714.19 34,608.71 3,110.48
+Date Reference Description Amount
+05/05/23 CASH Payment Received MOxx6287 May rent -1,000.00
+06/01/23 Rent Charge 2,795.00
+06/01/23 Sec Dep Ins Charge to Tenant 70.00
+06/06/23 CASH Payment Received MOxx5746 June rent -1,000.00
+06/06/23 CASH Payment Received Moxx5747 June rent -1,000.00
+06/06/23 CASH Payment Received Moxx5748 June rent& sd -865.00
+07/01/23 Rent Charge 2,795.00
+07/01/23 Sec Dep Ins Charge to Tenant 70.00
+07/05/23 CASH Payment Received MOxx5962 July rent -853.71
+07/05/23 CASH Payment Received MOxx5961 July rent -1,000.00
+07/05/23 CASH Payment Received MOxx5960 July rent -1,000.00
+08/01/23 Rent Charge 2,795.00
+08/01/23 Sec Dep Ins Charge to Tenant 70.00
+08/04/23 Misc fees due to Excalibur Missed inspection fee 75.00
+08/05/23 CASH Payment Received MOxx8156 - August rent -1,000.00
+08/05/23 CASH Payment Received MOxx1330 - August rent -500.00
+08/05/23 CASH Payment Received MOxx1331 - August rent -500.00
+08/05/23 CASH Payment Received MOxx2509 - August rent -359.00
+08/05/23 CASH Payment Received MOxx1332 - August rent -330.00
+08/05/23 CASH Payment Received MOxx8157 - August rent, misc fee, SD -251.00
+insure
+09/01/23 Rent Charge 2,795.00
+09/01/23 Sec Dep Ins Charge to Tenant 70.00
+09/06/23 CASH Payment Received MOxx1451 Sept rent -500.00
+09/06/23 CASH Payment Received MOxx1455 Sept rent -500.00
+09/06/23 CASH Payment Received MOxx1454 Sept rent -500.00
+09/06/23 CASH Payment Received MOxx1452 Sept rent -500.00
+09/06/23 CASH Payment Received MOxx1453 Sept rent -500.00
+09/06/23 CASH Payment Received MOxx1456 Sept rent and SD insurance -365.00
+10/01/23 Rent Charge 2,795.00
+10/01/23 Sec Dep Ins Charge to Tenant 70.00
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+12/09/22 - 01/16/24 01/16/24
+6788251400
+Property Unit Type Acc #
+5705Asp 5705 Aspen DriveHOUSE 58538
+Previous Current Current Balance
+Balance Charges Credits Due
+-2,995.00 40,714.19 34,608.71 3,110.48
+Date Reference Description Amount
+10/05/23 CASH Payment Received MOxx5482 - October SD insurance, -500.00
+October rent
+10/05/23 CASH Payment Received MOxx5483 - October rent -500.00
+10/05/23 CASH Payment Received MOxx5484 - October rent -500.00
+10/05/23 CASH Payment Received MOxx5481 - October rent -500.00
+10/05/23 CASH Payment Received MOxx5480 - October rent -500.00
+10/05/23 CASH Payment Received MOxx5485 - October rent -365.00
+10/11/23 Credit to Tenant Owner approved concession for AC per -250.00
+LW email
+11/01/23 Rent Charge 2,795.00
+11/01/23 Sec Dep Ins Charge to Tenant 70.00
+11/02/23 CASH Payment Received MOxx3292 Nov rent -1,000.00
+11/02/23 CASH Payment Received MOxx3291 Nov rent -1,000.00
+11/02/23 CASH Payment Received MOxx3293 Nov rent, and SD -615.00
+12/01/23 Rent Charge 2,795.00
+12/01/23 Sec Dep Ins Charge to Tenant 70.00
+12/04/23 CASH Payment Received MOxx7210 - December rent -1,000.00
+12/04/23 CASH Payment Received MOxx7211 - December rent -1,000.00
+12/04/23 CASH Payment Received MOxx7213 - December rent, SD -865.00
+insurance
+01/03/24 Tenant Damages to Property No keys returned - Rekey Required 165.00
+01/03/24 Tenant Damages to Property Dispose of trash/furniture left outside 450.00
+01/03/24 Tenant Damages to Property Repair nail holes in living room drywall 400.00
+01/03/24 Tenant Damages to Property Dispose of items left inside property 500.00
+(kitchen, garage, and upstairs bedroom)
+01/03/24 Tenant Damages to Property Deep clean refrigerator 150.00
+01/03/24 Tenant Damages to Property Remove excessive stains from master 400.00
+bedroom carpet
+01/03/24 Tenant Damages to Property Replace doorknob (upstairs bedroom) 150.00
+01/03/24 Tenant Damages to Property Repair damages drywall from nail holes 400.00
+in upstairs bedroom 4&5
+01/03/24 Tenant Damages to Property Touch up paint over drywall damage 450.00
+Page 3
+
+--- Page 4 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+12/09/22 - 01/16/24 01/16/24
+6788251400
+Property Unit Type Acc #
+5705Asp 5705 Aspen DriveHOUSE 58538
+Previous Current Current Balance
+Balance Charges Credits Due
+-2,995.00 40,714.19 34,608.71 3,110.48
+Date Reference Description Amount
+01/03/24 Tenant Damages to Property Deep clean entire home 400.00
+01/08/24 Tenant Damages to Property Missing pool access card 100.00
+01/08/24 Tenant Damages to Property Hole in front porch coloumn 150.00
+01/11/24 Rent Charge Received possession on 1/3/24. 270.48
+Charging rent for 1/1/24-1/3/24
+01/16/24 Tenant Damages to Property Per revision, reversing charge for hole -150.00
+in front porch column
+01/16/24 Tenant Damages to Property Per revision, reversing charge for -100.00
+missing poll access card
+01/16/24 Tenant Damages to Property Per revision, reversing partial charge for -125.00
+replacing doorknob, only charging to
+reinstall $25
+01/16/24 Tenant Damages to Property Per revision, reversing partial cleaing -200.00
+charge, only charging do clean the
+basement $200
+01/16/24 Tenant Damages to Property Per revision, reversing partial drywall -300.00
+damage charges, only charing for new
+holes in living room $100
+Sub Total 3,110.48
+Unapplied Credits 0.00
+Balance Due 3,110.48
+Comments
+Page 4

@@ -1,0 +1,178 @@
+Filename: 4428 Jacobs Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 4
+Extracted: 2025-10-29T11:34:22.263145
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/12/23 09/12/23
+6788251400
+Property Unit Type Acc #
+XNA-06530 4428 Jacobs Dr HOUSE 52258
+TO:
+Previous Current Current Balance
+Taylor, Demarko (DISPONP)
+Balance Charges Credits Due
+4428 Jacobs Dr
+2,295.00 33,697.37 8,487.68 27,504.69
+Snellville, GA 30039
+Last Payment Amount Enclosed
+8/15/22 $245.00 CashPay Payment
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 2,295.00
+08/10/22 TBR EFT Service Fees 15.00
+08/10/22 Web Pay VISA Payment Received Paid By: Demarko Taylor -2,310.00
+(longway.tiffany@yahoo.com). Auth # -
+822637183894990672
+08/10/22 Rent Reservation Fee reversing rr fee to allocate to future rent -2,295.00
+08/15/22 CashPay Payment Payment Received CashPay Payment -245.00
+08/15/22 TBR Admin Fee to PM Admin fee per lease 200.00
+08/15/22 TBR Rent Charge Prorated rent for 17 days 8/15/22- 1,258.55
+8/31/22
+08/15/22 TBR Pet Rent Prorated pet rent for 17 days 8/15/22- 21.94
+8/31/22
+09/01/22 TBR Rent Charge 2,295.00
+09/01/22 TBR Pet Rent 40.00
+09/01/22 YRIG Prem 20.00
+09/01/22 Sec Dep Ins Charge to Tenant 59.00
+09/01/22 Latchel Concierge Service 14.99
+09/06/22 TBR Late Charge to Owner 229.50
+10/01/22 TBR Rent Charge 2,295.00
+10/01/22 TBR Pet Rent 40.00
+10/01/22 YRIG Prem 20.00
+10/01/22 Sec Dep Ins Charge to Tenant 59.00
+10/01/22 Latchel Concierge Service 14.99
+10/05/22 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+10/06/22 TBR Late Charge to Owner 229.50
+11/01/22 TBR Rent Charge 2,295.00
+11/01/22 TBR Pet Rent 40.00
+11/01/22 YRIG Prem 20.00
+11/01/22 Sec Dep Ins Charge to Tenant 59.00
+11/01/22 Latchel Concierge Service 14.99
+11/07/22 TBR Late Charge to Owner 229.50
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/12/23 09/12/23
+6788251400
+Property Unit Type Acc #
+XNA-06530 4428 Jacobs Dr HOUSE 52258
+Previous Current Current Balance
+Balance Charges Credits Due
+2,295.00 33,697.37 8,487.68 27,504.69
+Date Reference Description Amount
+12/01/22 TBR Rent Charge 2,295.00
+12/01/22 TBR Pet Rent 40.00
+12/01/22 YRIG Prem 20.00
+12/01/22 Sec Dep Ins Charge to Tenant 59.00
+12/01/22 Latchel Concierge Service 14.99
+12/06/22 TBR Late Charge to Owner 229.50
+01/01/23 TBR Rent Charge 2,295.00
+01/01/23 TBR Pet Rent 40.00
+01/01/23 YRIG Prem 20.00
+01/01/23 Sec Dep Ins Charge to Tenant 59.00
+01/01/23 Latchel Concierge Service 14.99
+01/06/23 TBR Late Charge to Owner 229.50
+02/01/23 TBR Rent Charge 2,295.00
+02/01/23 TBR Pet Rent 40.00
+02/01/23 YRIG Prem 20.00
+02/01/23 Sec Dep Ins Charge to Tenant 59.00
+02/01/23 Latchel Concierge Service 14.99
+02/06/23 TBR Late Charge to Owner 229.50
+03/01/23 TBR Rent Charge 2,295.00
+03/01/23 TBR Pet Rent 40.00
+03/01/23 YRIG Prem 20.00
+03/01/23 Sec Dep Ins Charge to Tenant 59.00
+03/01/23 Latchel Concierge Service 14.99
+03/06/23 TBR Late Charge to Owner 229.50
+04/01/23 TBR Rent Charge 2,295.00
+04/01/23 TBR Pet Rent 40.00
+04/01/23 YRIG Prem 20.00
+04/01/23 Sec Dep Ins Charge to Tenant 59.00
+04/01/23 Latchel Concierge Service 14.99
+04/06/23 TBR Late Charge to Owner 229.50
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/12/23 09/12/23
+6788251400
+Property Unit Type Acc #
+XNA-06530 4428 Jacobs Dr HOUSE 52258
+Previous Current Current Balance
+Balance Charges Credits Due
+2,295.00 33,697.37 8,487.68 27,504.69
+Date Reference Description Amount
+05/01/23 TBR Rent Charge 2,295.00
+05/01/23 TBR Pet Rent 40.00
+05/01/23 YRIG Prem 20.00
+05/01/23 Sec Dep Ins Charge to Tenant 59.00
+05/01/23 Latchel Concierge Service 14.99
+05/08/23 TBR Late Charge to Owner 229.50
+06/01/23 TBR Rent Charge 2,295.00
+06/01/23 TBR Pet Rent 40.00
+06/01/23 YRIG Prem 20.00
+06/01/23 Sec Dep Ins Charge to Tenant 59.00
+06/01/23 Latchel Concierge Service 14.99
+06/06/23 TBR Late Charge to Owner 229.50
+07/01/23 TBR Rent Charge 2,295.00
+07/01/23 TBR Pet Rent 40.00
+07/01/23 YRIG Prem 20.00
+07/01/23 Sec Dep Ins Charge to Tenant 59.00
+07/01/23 Latchel Concierge Service 14.99
+07/06/23 TBR Late Charge to Owner 229.50
+08/01/23 TBR Rent Charge 2,295.00
+08/01/23 TBR Pet Rent 40.00
+08/01/23 YRIG Prem 20.00
+08/01/23 Sec Dep Ins Charge to Tenant 59.00
+08/01/23 Latchel Concierge Service 14.99
+08/07/23 TBR Late Charges 229.50
+09/11/23 TBR Rent Charge Tenant vacated on 7/18/23. Reversing -3,257.42
+7/19/23-8/31/23 rent
+09/11/23 TBR Pet Rent Tenant vacated on 7/18/23. Reversing -56.77
+7/19/23-8/31/23 pet rent
+09/11/23 YRIG Prem Tenant vacated on 7/18/23. August yrig -20.00
+09/11/23 Sec Dep Ins Charge to Tenant Tenant vacated on 7/18/23. August SD -59.00
+insurance
+Page 3
+
+--- Page 4 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 09/12/23 09/12/23
+6788251400
+Property Unit Type Acc #
+XNA-06530 4428 Jacobs Dr HOUSE 52258
+Previous Current Current Balance
+Balance Charges Credits Due
+2,295.00 33,697.37 8,487.68 27,504.69
+Date Reference Description Amount
+09/11/23 Latchel Concierge Service Tenant vacated on 7/18/23. August -14.99
+latchel
+09/11/23 TBR Late Charges Tenant vacated on 7/18/23. August late -229.50
+fee
+09/12/23 TBR Damages to Property Charges No damages 0.00
+Sub Total 27,504.69
+Unapplied Credits 0.00
+Balance Due 27,504.69
+Comments
+Page 4

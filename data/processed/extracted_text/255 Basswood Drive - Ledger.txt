@@ -1,0 +1,137 @@
+Filename: 255 Basswood Drive - Ledger.pdf
+Method: pdfplumber
+Pages: 3
+Extracted: 2025-10-29T11:12:22.760709
+============================================================
+
+
+--- Page 1 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 06/05/23 06/05/23
+Property Unit Type Acc #
+X1A-02188 255 Basswood DrHOUSE 53775
+TO:
+Previous Current Current Balance
+Lott, Emanuel (DISPONP)
+Balance Charges Credits Due
+255 Basswood Drive
+0.00 23,776.71 14,449.19 9,327.52
+College Park, GA 30349
+Last Payment Amount Enclosed
+1/5/23 $2,052.00 Web Pay CHK
+PLEASE RETURN TOP PORTION WITH YOUR REMITTANCE
+Date Reference Description Amount
+Previous Balance 0.00
+08/09/22 Rent Reservation Fee 1,950.00
+08/17/22 CashPay Payment Payment Received CashPay Payment -1,950.00
+08/17/22 Rent Reservation Fee reversing rr fee to allocate to future rent -1,950.00
+08/25/22 CashPay Payment Payment Received CashPay Payment -200.00
+08/29/22 TBR Admin Fee to PM Admin fee per lease 200.00
+08/29/22 TBR Rent Charge Prorated rent for 3 days 8/29/22- 188.71
+8/31/22
+09/01/22 TBR Rent Charge 1,950.00
+09/01/22 Sec Dep Ins Charge to Tenant 92.00
+09/05/22 TBR EFT Service Fees 15.00
+09/05/22 Web Pay VISA Payment Received Paid By: Emanuel Lott -295.71
+(Elot986@gmail.com). Auth # -
+821845905880805419
+10/01/22 TBR Rent Charge 1,950.00
+10/01/22 Sec Dep Ins Charge to Tenant 92.00
+10/04/22 TBR EFT Service Fees 15.00
+10/04/22 Web Pay VISA Payment Received Paid By: Emanuel Lott -2,057.00
+(Elot986@gmail.com). Auth # -
+8735486744029741
+11/01/22 TBR Rent Charge 1,950.00
+11/01/22 Sec Dep Ins Charge to Tenant 92.00
+11/05/22 TBR EFT Service Fees 15.00
+11/05/22 Web Pay VISA Payment Received Paid By: Emanuel Lott -2,057.00
+(Elot986@gmail.com). Auth # -
+8823675602754100
+12/01/22 TBR Rent Charge 1,950.00
+12/01/22 Sec Dep Ins Charge to Tenant 92.00
+12/05/22 TBR EFT Service Fees 15.00
+12/05/22 Web Pay VISA Payment Received Paid By: Emanuel Lott -2,057.00
+(Elot986@gmail.com). Auth # -
+8647966649127853
+Page 1
+
+--- Page 2 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 06/05/23 06/05/23
+Property Unit Type Acc #
+X1A-02188 255 Basswood DrHOUSE 53775
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 23,776.71 14,449.19 9,327.52
+Date Reference Description Amount
+01/01/23 TBR Rent Charge 1,950.00
+01/01/23 Sec Dep Ins Charge to Tenant 92.00
+01/05/23 TBR EFT Service Fees 10.00
+01/05/23 Web Pay CHK Payment Received Paid By: Emanuel Lott -2,052.00
+(Elot986@gmail.com).
+02/01/23 TBR Rent Charge 1,950.00
+02/01/23 Sec Dep Ins Charge to Tenant 92.00
+02/06/23 TBR Late Charge to Owner 195.00
+02/17/23 TBR Eviction Cancellation Fee to Halt Dispo 300.00
+03/01/23 TBR Rent Charge 1,950.00
+03/01/23 Sec Dep Ins Charge to Tenant 92.00
+03/06/23 TBR Late Charge to Owner 195.00
+04/01/23 TBR Rent Charge 1,950.00
+04/01/23 Sec Dep Ins Charge to Tenant 92.00
+04/06/23 TBR Late Charge to Owner 195.00
+05/01/23 TBR Rent Charge 1,950.00
+05/01/23 Sec Dep Ins Charge to Tenant 92.00
+05/08/23 TBR Late Charges 195.00
+06/04/23 TBR Rent Charge Tenant vacated on 5/5/23. Reversing -1,635.48
+5/6/23-5/31/23
+06/04/23 TBR Late Charges Reversing May late fee per move out -195.00
+06/04/23 TBR Damages to Property Charges Keys not returne/rekey 200.00
+06/04/23 TBR Damages to Property Charges Front beds full of weeds/overgrown 300.00
+back lawn
+06/04/23 TBR Damages to Property Charges Missing top step threshold interior 40.00
+06/04/23 TBR Damages to Property Charges Drywall damage: living room, tope of 400.00
+stairs closet, master bedroom closet,
+left front upstairs bedroom closet, two
+left front downstairs closets, right rear
+downstairs bedroom closet
+06/04/23 TBR Damages to Property Charges Damaged top step closet wire 550.00
+shelving/master bedroom closet wire
+shelving, left front upstairs bedroom
+closet wire shelving, left front upstairs
+bedroom closet wire shelving, two left
+front downstairs bedroom closet wire
+shelving, right rear downstairs bedroom
+closet wire shelving
+Page 2
+
+--- Page 3 ---
+
+Statement
+2855 Marconi Drive, Suite 310
+Billing Period Statement Date
+Alpharetta, GA 30005
+08/01/22 - 06/05/23 06/05/23
+Property Unit Type Acc #
+X1A-02188 255 Basswood DrHOUSE 53775
+Previous Current Current Balance
+Balance Charges Credits Due
+0.00 23,776.71 14,449.19 9,327.52
+Date Reference Description Amount
+06/04/23 TBR Damages to Property Charges Damaged left front upstairs bedroom 80.00
+closet bifold door
+06/04/23 TBR Damages to Property Charges Damaged downstairs bathroom tub stop 40.00
+06/04/23 TBR Damages to Property Charges Trash left behind 250.00
+06/04/23 TBR Damages to Property Charges Oven excessively dirty 50.00
+Sub Total 9,327.52
+Unapplied Credits 0.00
+Balance Due 9,327.52
+Comments
+Page 3
